@@ -1,0 +1,20 @@
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #wrapper {
+    padding-left: 0 !important;
+  }
+  #sidebar-wrapper, #arvore, .btn-toolbar, #treeCol {
+    display: none !important;
+  }
+  #toPrint, #toPrint * {
+    visibility: visible;
+  }
+  #toPrint {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+}

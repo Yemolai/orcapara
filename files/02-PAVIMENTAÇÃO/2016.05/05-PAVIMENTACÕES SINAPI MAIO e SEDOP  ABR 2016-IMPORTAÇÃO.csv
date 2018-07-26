@@ -1,0 +1,112 @@
+001;;PAVIMENTAÇÕES/SINAPI ABRIL-2016/SEDOP-ABR 2016;;;
+001.01;;CBUQ/CUSTO;;;CUSTO
+001.01.01;;SERVIÇOS PRELIMINARES;;;
+001.01.01.01;SEDOP-010004;Placa de obra em chapa de aço galvanizado;m²;12;295,74
+001.01.01.02;SEDOP-010767;Barracão da obra em tábuas de madeira com banheiro, cobertura em fibrocimento 4mm, inlcuso instalações hidro-sanitárias e elétricas;m²;12;339,3
+001.01.02;;MOVIMENTO DE TERRA;;;
+001.01.02.01;SEDOP-010175;Locação topográfica da obra;m²;7640;5,85
+001.01.02.02;SINAPI-73822/002;Limpeza de terreno com raspagem mecânica (motoniveladora) de camada vegetal;m²;7640;0,51
+001.01.02.03;SINAPI-72961;Regularização e compactação de sub-leito de vias até 20cm de espessura;m²;7000;1,19
+001.01.02.04;SINAPI-74151/001;Escavação e carga de material de 1ª categoria, utilizando trator de esteira de 110 a 160HP com lâmina, peso operacional 13T e pá carregadeira com 170hp;m³;7000;3,34
+001.01.02.05;SINAPI-72856;Transporte Local Com Caminhao Basculante 6 M3, Rodovia Em Leito Natural - Bota Fora - Dmt = 20 Km;m³xkm;140000;1,51
+001.01.02.06;SINAPI-72856;Transporte Local Com Caminhao Basculante 6 M3, Rodovia Em Leito Natural - Material Da Base - Dmt = 20 Km;m³xkm;28000;1,51
+001.01.02.07;SINAPI-72911;Base de solo estabilizado sem mistura, compactação 100% proctor normal, exclusive escavação, carga e transporte de solo;m³;1400;8,92
+001.01.03;;DRENAGEM;;;
+001.01.03.01;;DRENAGEM SUPERFICIAL;;;
+001.01.03.01.01;SINAPI-73789/001;Meio-fio (guia) de concreto pré-moldado, dimensões (12x15x30x100)cm (face superior x face inferior x altura x comprimento), rejuntado c/ argamassa 1:4 cimento:areia, incluindo escavação e reaterro;m;2180;105,15
+001.01.03.01.02;SINAPI-74012/001;Sarjeta em concreto, preparo manual, com seixo rolado, espessura = 8cm, largura = 40cm;m;2180;38,38
+001.01.03.01.03;CPU 1;Sarjetão em concreto, preparo manual, com seixo rolado, conf. Detalhe ;m³;50.7;498,67084
+001.01.04;;REVESTIMENTO;;;
+001.01.04.01;SEDOP-280006;Imprimação de Base de pavimentação com emulsão CM-30;m²;8120;4,96
+001.01.04.02;SINAPI-72942;Pintura de ligação com emulsão RR-1C;m²;8120;1,33
+001.01.04.03;SINAPI-00001518;Fornecimento de concreto Betuminoso Usinado a quente (CBUQ) - faixa C p/ pav. Asfáltica - Aquisição de terceiros;Ton;615;232,5
+001.01.04.04;SINAPI-83444;Transporte DMT 20 Km;Ton x Km;12300;0,7987423
+001.01.04.05;CPU  2;Aplicação de CBUQ ;ton;615;7,765625
+001.01.05;;URBANISMO DO PASSEIO;;;
+001.01.05.01;;CALÇADA;;;
+001.01.05.01.01;cpu;Aterro apiloado (manual) em camadas de 20cm com material de empréstimo;m³;261.6;76,8474
+001.01.05.01.02;SEDOP-130492;Calçada em concreto e=7cm c/ seixo rolado, juntas cruzadas a c/ 1m;m²;2616;75,13
+001.01.05.02;;TENTO;;;
+001.01.05.02.01;SINAPI-73481;Escavação manual de valas em terra compacta, prof de 0m < H <= 1m;m³;32.7;31,23
+001.01.05.02.02;SINAPI-5651;Forma plana tábua 3ª p/ cinta amarração inclusive desmontagem e reproveitamento;m²;1308;24,82
+001.01.05.02.03;SEDOP-050258;Concreto fck=15 MPa, preparo com betoneira, sem lançamento;m³;65.4;481,33
+001.01.06;;SINALIZAÇÃO VIÁRIA;;;
+001.01.06.01;;SINALIZAÇÃO VERTICAL;;;
+001.01.06.01.01;DNIT- RCTRO320 - 1 A 01 860 01;Fornecimento e implantação de placa de sinalização tot. refletiva - PARE dimensões 0.50m x 0.50m;und;20;204
+001.01.06.01.02;SINAPI-73916/002;Placa de identificação de logradouro 45x25cm inclusive poste de madeira;und;36;110,29
+001.01.06.01.03;DNIT RCTRO320 - 1 A 01 870 01;Confecção de suporte e travessa p/ placa de sinal.;und;38;56,03
+001.01.06.02;;SINALIZAÇÃO HORIZONTAL;;;
+001.01.06.02.01;SINAPI-72947;Sinalização horizontal com tinta retrorrefletiva a base de resina acrilica com microesferas de vidro;m²;585;19,28
+001.01.07;;LIMPEZA FINAL;;;
+001.01.07.01;SINAPI-9537;Limpeza final da obra;m²;10736;1,86
+001.02;;TST/CUSTO;;;
+001.02.01;;SERVIÇOS PRELIMINARES;;;
+001.02.01.01;SEDOP-010004;Placa de obra em chapa de aço galvanizado;m²;12;295,74
+001.02.01.02;SEDOP-010767;Barracão da obra em tábuas de madeira com banheiro, cobertura em fibrocimento 4mm, inlcuso instalções hidro-sanitárias e elétricas;m²;12;339,3
+001.02.02;;MOVIMENTO DE TERRA;;;
+001.02.02.01;SEDOP-010175;Locação topográfica da obra;m²;7640;5,85
+001.02.02.02;SINAPI-73822/002;Limpeza de terreno com raspagem mecânica (motoniveladora) de camada vegetal;m²;7640;0,51
+001.02.02.03;SINAPI-72961;Regularização e compactação de sub-leito de vias até 20cm de espessura;m²;7000;1,19
+001.02.02.04;SINAPI-72856;Transporte Local Com Caminhao Basculante 6 M3, Rodovia Em Leito Natural - Bota Fora - Dmt = 20 Km;m³xkm;140000;1,51
+001.02.02.05;SINAPI-72856;Transporte Local Com Caminhao Basculante 6 M3, Rodovia Em Leito Natural - Material Da Base - Dmt = 20 Km;m³xkm;28000;1,51
+001.02.02.06;SINAPI-72911;Base de solo estabilizado sem mistura, compactação 100% proctor normal, exclusive escavação, carga e transporte de solo;m³;1400;8,92
+001.02.03;;DRENAGEM;;;
+001.02.03.01;;DRENAGEM SUPERFICIAL;;;
+001.02.03.01.01;SINAPI-73789/001;Meio-fio (guia) de concreto pré-moldado, dimensões (12x15x30x100)cm (face superior x face inferior x altura x comprimento), rejuntado c/ argamassa 1:4 cimento:areia, incluindo escavação e reaterro;m;2180;105,15
+001.02.03.01.02;SINAPI-74012/001;Sarjeta em concreto, preparo manual, com seixo rolado, espessura = 8cm, largura = 40cm;m;2180;38,38
+001.02.03.01.03;CPU 1;Sarjetão em concreto, preparo manual, com seixo rolado, conf. Detalhe ;m³;50.7;498,67084
+001.02.04;;REVESTIMENTO;;;
+001.02.04.01;SINAPI-72960;Tratamento Superficial Triplo - Tst, Com Emulsao Rr-2C;m²;8120;12,93
+001.02.05;;URBANISMO DO PASSEIO;;;
+001.02.05.01;;CALÇADA;;;
+001.02.05.01.01;cpu;Aterro apiloado (manual) em camadas de 20cm com material de empréstimo;m³;261.6;76,8474
+001.02.05.01.02;SEDOP-130492;Calçada em concreto e=7cm c/ seixo rolado, juntas cruzadas a c/ 1m;m²;2616;75,13
+001.02.05.02;;TENTO;;;
+001.02.05.02.01;SINAPI-73481;Escavação manual de valas em terra compacta, prof de 0m < H <= 1m;m³;32.7;31,23
+001.02.05.02.02;SINAPI-5651;Forma plana tábua 3ª p/ cinta amarração inclusive desmontagem e reproveitamento;m²;1308;24,82
+001.02.05.02.03;SEDOP-050258;Concreto fck=15 MPa, preparo com betoneira, sem lançamento;m³;65.4;481,33
+001.02.06;;SINALIZAÇÃO VIÁRIA;;;
+001.02.06.01;;SINALIZAÇÃO VERTICAL;;;
+001.02.06.01.01;DNIT- RCTRO320 - 1 A 01 860 01;Fornecimento e implantação de placa de sinalização tot. refletiva - PARE dimensões 0.50m x 0.50m;und;20;204
+001.02.06.01.02;SINAPI-73916/002;Placa de identificação de logradouro 45x25cm inclusive poste de madeira;und;36;110,29
+001.02.06.01.03;DNIT RCTRO320 - 1 A 01 870 01;Confecção de suporte e travessa p/ placa de sinal.;und;38;56,03
+001.02.06.02;;SINALIZAÇÃO HORIZONTAL;;;
+001.02.06.02.01;SINAPI-72947;Sinalização horizontal com tinta retrorrefletiva a base de resina acrilica com microesferas de vidro;m²;585;19,28
+001.02.07;;LIMPEZA FINAL;;;
+001.02.07.01;SINAPI-9537;Limpeza final da obra;m²;10736;1,86
+001.03;;BLOKRET-CUSTO;;;
+001.03.01;;SERVIÇOS PRELIMINARES;;;
+001.03.01.01;SEDOP-010004;Placa de obra em chapa de aço galvanizado;m²;12;295,74
+001.03.01.02;SEDOP-010767;Barracão da obra em tábuas de madeira com banheiro, cobertura em fibrocimento 4mm, inlcuso instalções hidro-sanitárias e elétricas;m²;12;339,3
+001.03.02;;MOVIMENTO DE TERRA;;;
+001.03.02.01;SEDOP-010175;Locação topográfica da obra;m²;7640;5,85
+001.03.02.02;SINAPI-73822/002;Limpeza de terreno com raspagem mecânica (motoniveladora) de camada vegetal;m²;7640;0,51
+001.03.02.03;SINAPI-72961;Regularização e compactação de sub-leito de vias até 20cm de espessura;m²;7000;1,19
+001.03.02.04;SINAPI-74151/001;Escavação e carga de material de 1ª categoria, utilizando trator de esteira de 110 a 160HP com lâmina, peso operacional 13T e pá carregadeira com 170hp;m³;7000;3,34
+001.03.02.05;SINAPI-72856;Transporte Local Com Caminhao Basculante 6 M3, Rodovia Em Leito Natural - Bota Fora - Dmt = 20 Km;m³xkm;140000;1,51
+001.03.02.06;SINAPI-72856;Transporte Local Com Caminhao Basculante 6 M3, Rodovia Em Leito Natural - Material Da Base - Dmt = 20 Km;m³xkm;28000;1,51
+001.03.02.07;SINAPI-72911;Base de solo estabilizado sem mistura, compactação 100% proctor normal, exclusive escavação, carga e transporte de solo;m³;1400;8,92
+001.03.03;;DRENAGEM;;;
+001.03.03.01;;DRENAGEM SUPERFICIAL;;;
+001.03.03.01.01;SINAPI-73789/001;Meio-fio (guia) de concreto pré-moldado, dimensões (12x15x30x100)cm (face superior x face inferior x altura x comprimento), rejuntado c/ argamassa 1:4 cimento:areia, incluindo escavação e reaterro;m;2180;105,15
+001.03.03.01.02;SINAPI-74012/001;Sarjeta em concreto, preparo manual, com seixo rolado, espessura = 8cm, largura = 40cm;m;2180;38,38
+001.03.03.01.03;CPU 1;Sarjetão em concreto, preparo manual, com seixo rolado, conf. Detalhe ;m³;50.7;498,67084
+001.03.04;;REVESTIMENTO;;;
+001.03.04.01;SINAPI-74147/001;Piso em bloco sextavado 30x30cm,  espessura 8cm, assentamento sobre colchão de areia com espessura 6cm;m²;8120;44,87
+001.03.05;;URBANISMO DO PASSEIO;;;
+001.03.05.01;;CALÇADA;;;
+001.03.05.01.01;cpu;Aterro apiloado (manual) em camadas de 20cm com material de empréstimo;m³;261.6;76,8474
+001.03.05.01.02;SEDOP-130492;Calçada em concreto e=7cm c/ seixo rolado, juntas cruzadas a c/ 1m;m²;2616;75,13
+001.03.05.02;;TENTO;;;
+001.03.05.02.01;SINAPI-73481;Escavação manual de valas em terra compacta, prof de 0m < H <= 1m;m³;32.7;31,23
+001.03.05.02.02;SINAPI-5651;Forma plana tábua 3ª p/ cinta amarração inclusive desmontagem e reproveitamento;m²;1308;24,82
+001.03.05.02.03;SEDOP-050258;Concreto fck=15 MPa, preparo com betoneira, sem lançamento;m³;65.4;481,33
+001.03.06;;SINALIZAÇÃO VIÁRIA;;;
+001.03.06.01;;SINALIZAÇÃO VERTICAL;;;
+001.03.06.01.01;DNIT- RCTRO320 - 1 A 01 860 01;Fornecimento e implantação de placa de sinalização tot. refletiva - PARE dimensões 0.50m x 0.50m;und;20;204
+001.03.06.01.02;SINAPI-73916/002;Placa de identificação de logradouro 45x25cm inclusive poste de madeira;und;36;110,29
+001.03.06.01.03;DNIT RCTRO320 - 1 A 01 870 01;Confecção de suporte e travessa p/ placa de sinal.;und;38;56,03
+001.03.06.02;;SINALIZAÇÃO HORIZONTAL;;;
+001.03.06.02.01;SINAPI-72947;Sinalização horizontal com tinta retrorrefletiva a base de resina acrilica com microesferas de vidro;m²;585;19,28
+001.03.07;;LIMPEZA FINAL;;;
+001.03.07.01;SINAPI-9537;Limpeza final da obra;m²;10736;1,86

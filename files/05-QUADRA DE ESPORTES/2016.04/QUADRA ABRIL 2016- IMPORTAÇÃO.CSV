@@ -1,0 +1,290 @@
+Item;Cod;Nome;Un;Qde;Valor Unitário
+001;;CONSTRUÇÃO DE QUADRA DE ESPORTE COM VESTIÁRIOS E  SALAS DE APOIO-ABRIL 2016-CUSTO;;;1.064.688,04
+001.01;;SERVIÇOS PRELIMINARES;;;40.808,15
+001.01.01;;Mobilização e Desmobilização;UN;1;8.900,00
+001.01.02;10000;Licenças e taxas da obra (acima 500m2);CJ;1;10.200,00
+001.01.03;;Projeto de fundação e estrutura;CJ;1;7.560,00
+001.01.04;10008;Limpeza do terreno;M²;1.500,20;1,2
+001.01.05;10009;Locação da obra a trena;M²;1.160,25;3,17
+001.01.06;10005;Barracão de madeira/Almoxarifado;M²;20;178,85
+001.01.07;10004;Placa da obra em chapa galvanizada;M²;6;295,74
+001.01.08;10006;Andaime de madeira;M²;264;12,57
+001.02;;ADMINISTRAÇÃO DA OBRA (8 MESES);;;101.872,24
+001.02.01;;Administração local;MêS;8;12.734,03
+001.03;;QUADRA 17X30M;;;67.073,42
+001.03.01;;QUADRA DE ESPORTES POLIESPORTIVA;;;65.033,42
+001.03.01.01;250120;Quadra esportes polivalente 17x30m (incl. equipamentos esportivos);UN;1;65.033,42
+001.03.02;;LIMPEZA;;;2.040,00
+001.03.02.01;270220;Limpeza final c/ remoção de entulhos;M2;510;4
+001.04;;COBERTURA;;;237.642,74
+001.04.01;;MOVIMENTO DE TERRA;;;1.067,81
+001.04.01.01;30010;Escavação manual ate 1.50m de profundidade;M3;21;30,03
+001.04.01.02;30254;Reaterro compactado;M3;13,16;33,22
+001.04.02;;FUNDAÇÕES;;;14.629,21
+001.04.02.01;50257;Lastro de concreto magro c/ seixo;M3;1,4;407,29
+001.04.02.02;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;7,84;1.793,24
+001.04.03;;ESTRUTURA;;;73.143,37
+001.04.03.01;50036;Forma c/ madeira branca;M2;20,16;62,68
+001.04.03.02;50729;Concreto c/ seixo Fck= 20 MPA (incl. preparo e lançamento);M3;40,05;1.793,24
+001.04.03.03;50037;Desforma;M2;20,16;3
+001.04.04;;COBERTURA;;;135.763,60
+001.04.04.01;71495;Estrutura metálica p/ telha de alumínio ( incl pint anti corrosiva);M2;682,46;147,01
+001.04.04.02;70030;Cobertura - telha aluminio trapezoidal e= 0,5mm;M2;682,46;45,29
+001.04.04.03;70277;Calha em chapa galvanizada;M;70;39,1
+001.04.04.04;70031;Cumeeira aluminio e = 0,8 mm;M;35;51,13
+001.04.05;;INSTALAÇÕES ELÉTRICAS;;;10.308,91
+001.04.05.01;170321;Centro de distribuiçao p/ 12 disjuntores (c/ barramento);UN;1;367,64
+001.04.05.02;170326;Disjuntor 01P - 10 a 30A - PADRÃO DIN;UN;8;13,7
+001.04.05.03;170388;Disjuntor 03P - 15 a 50A - PADRÃO DIN;UN;1;65,85
+001.04.05.04;170078;"Eletroduto PVC roscavel  1"", incluindo conexões";M;25;7,35
+001.04.05.05;170076;"Eletroduto PVC rigido 3/4"", aparente, incluindo conexões";M;95;5,96
+001.04.05.06;170989;Luminária para quadra de 400W;UN;20;68,87
+001.04.05.07;171011;Lâmpada vapor metálico 400W;UN;20;79,13
+001.04.05.08;170974;Reator lâmp vapor metálico 400W;UN;20;120,09
+001.04.05.09;;Cabo de cobre   6mm2 - 750 V nas cores:;;;375,17
+001.04.05.09.01;170318;a) Verde;M;9,48;5,91
+001.04.05.09.02;170318;b) Vermelho;M;1;5,91
+001.04.05.09.03;170318;c) Azul;M;1;5,91
+001.04.05.09.04;170318;d) Amarelo;M;20;5,91
+001.04.05.09.05;170318;d) Preto;M;32;5,91
+001.04.05.10;;Cabo de cobre de #2,5mm² nas cores:;;;2.212,50
+001.04.05.10.01;170418;b) Vermelho;M;170;3,75
+001.04.05.10.02;170418;c) Azul;M;280;3,75
+001.04.05.10.03;170418;c) Branco;M;140;3,75
+001.04.05.11;171165;"Haste de aço cobreada 5/8""x3,0m c/ conector";UN;3;68,1
+001.04.05.12;170318;Cabo de cobre NU #6,00mm² na cor verde;M;8,48;5,91
+001.04.05.13;170632;"Eletroduto PVC de 1 1/4""";M;30;10,5
+001.04.05.14;180680;Caixa de alvenaria c/ tampa em concreto 40X40X40;UN;2;165,66
+001.04.05.15;180680;Caixa de passagem com tampa;UN;1;165,66
+001.04.06;;LIMPEZA;;;2.729,84
+001.04.06.01;270220;Limpeza final c/ remoção de entulhos;M2;682,46;4
+001.05;;ALAMBRADO;;;30.834,23
+001.05.01;;MOVIMENTO DE TERRA;;;21,62
+001.05.01.01;30010;Escavação manual ate 1.50m de profundidade;M3;0,72;30,03
+001.05.02;;FUNDAÇÕES;;;356,94
+001.05.02.01;50260;Concreto c/ seixo Fck= 18.0 MPA (incl. preparo e lançamento);M3;0,72;495,75
+001.05.03;;PINTURA;;;3.610,22
+001.05.03.01;150491;Esmalte sobre alambrado e portão (superf. aparelhada);M2;109,8;32,88
+001.05.04;;SERRALHERIA;;;26.406,25
+001.05.04.01;240244;"Alambrado p/ quadra (tubo fo e tela de arame galv.-12 # 2"")";M2;106,46;234,81
+001.05.04.02;90623;Portão tubo/tela arame galv.c/ferragens(incl.pint.anti-corrosiva);M2;3,34;421,67
+001.05.05;;LIMPEZA;;;439,2
+001.05.05.01;270220;Limpeza final c/ remoção de entulhos;M2;109,8;4
+001.06;;VESTIÁRIO;;;206.599,82
+001.06.01;;MOVIMENTO DE TERRA;;;3.847,53
+001.06.01.01;30010;Escavação manual ate 1.50m de profundidade;M3;14,89;30,03
+001.06.01.02;30254;Reaterro compactado;M3;6,58;33,22
+001.06.01.03;30011;Aterro c/ material fora da obra, incl. apiloamento;M3;44,21;71,97
+001.06.02;;FUNDAÇÕES;;;7.314,60
+001.06.02.01;50257;Lastro de concreto magro c/ seixo;M3;0,7;407,29
+001.06.02.02;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;3,92;1.793,24
+001.06.03;;ESTRUTURA;;;3.927,20
+001.06.03.01;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;2,19;1.793,24
+001.06.04;;PAREDES E PAINEIS;;;36.893,01
+001.06.04.01;60046;Alvenaria tijolo de barro a cutelo;M2;328,95;41,38
+001.06.04.02;60813;Divisória em granito cinza - incl. ferrag. de fixação;M2;50,75;458,74
+001.06.05;;COBERTURA;;;32.923,68
+001.06.05.01;71495;Estrutura metálica p/ telha de alumínio ( incl pint anti corrosiva);M2;171,21;147,01
+001.06.05.02;70030;Cobertura - telha aluminio trapezoidal e= 0,5mm;M2;171,21;45,29
+001.06.06;;ESQUADRIAS / FERRAGENS;;;18.903,03
+001.06.06.01;90061;Porta mad. compens. c/caix. simples e alizar;M2;30,2;293,22
+001.06.06.02;100226;Ferragens p/ porta externa 1 fl.;CJ;4;132,42
+001.06.06.03;100228;Ferragens p/ porta de banheiro;CJ;18;110,49
+001.06.06.04;91375;Esquadria de alumínio basculante c/vidro e ferragens;M2;0,8;481,09
+001.06.06.05;91376;Esquadria de alum.de correr c/ vidro e ferragens;M2;4,8;426,09
+001.06.06.06;90400;"Grade de ferro 5/8"" (incl. pint. anti-corrosiva)";M2;8,68;289,68
+001.06.06.07;90399;"Portão de ferro 5/8"" c/ ferragens (incl. pint. anti-corrosiva)";M2;7,35;351,67
+001.06.07;;REVESTIMENTO;;;33.995,58
+001.06.07.01;110143;Chapisco de cimento e areia no traço 1:3;M2;657,9;6,81
+001.06.07.02;110762;Emboço com argamassa 1:6:Adit. Plast.;M2;205,7;23,6
+001.06.07.03;110763;Reboco com argamassa 1:6:Adit. Plast.;M2;452,2;27,66
+001.06.07.04;130116;Lajota ceramica 20x30cm decorada;M2;192,6;57,73
+001.06.07.05;110505;Cerâmica Terragres 10x10cm;M2;13,1;78,94
+001.06.08;;RODAPES, SOLEIRAS E PEITORIS;;;991,57
+001.06.08.01;120734;Soleira e peitoril - granito preto - e=2cm;M2;2,62;378,46
+001.06.09;;PISOS;;;17.292,12
+001.06.09.01;130507;Camada impermeabilizadora e=10cm c/ seixo;M2;147,38;39,85
+001.06.09.02;130110;Camada regularizadora no traço 1:4;M2;147,38;22,5
+001.06.09.03;130119;Lajota ceramica 30x30cm - PEI - IV;M2;81,66;64,66
+001.06.09.04;130233;Cimentado liso c/ junta plastica;M2;55,18;36,77
+001.06.09.05;130626;Piso de alta resistência e=8mm c/ resina incl. camada regularizadora;M2;10,54;75,32
+001.06.10;;FORROS;;;6.846,77
+001.06.10.01;140240;Forro em PVC 100mm entarugamento - metalico;M2;92,2;74,26
+001.06.11;;PINTURA;;;12.709,34
+001.06.11.01;150253;Acrilica fosca int./ext. c/massa e selador - 3 demaos;M2;452,2;26,94
+001.06.11.02;150491;Esmalte sobre grade de ferro (superf. aparelhada);M2;16,03;32,88
+001.06.12;;INSTALAÇÕES ELÉTRICAS;;;7.563,54
+001.06.12.01;170321;Centro de distribuiçao p/ 12 disjuntores (c/ barramento);UN;1;367,64
+001.06.12.02;170326;Disjuntor 01P - 10 a 30A - PADRÃO DIN;UN;5;13,7
+001.06.12.03;170362;Disjuntor 02P - 15 a 50A - PADRÃO DIN;UN;5;44,53
+001.06.12.04;170388;Disjuntor 03P - 15 a 50A - PADRÃO DIN;UN;1;65,85
+001.06.12.05;170701;Ponto de força (tubul., fiaçao e disjuntor) acima de 200W;Pt;10;278,2
+001.06.12.06;170516;Luminaria c/ 2 lamp. fluorescentes 16W (sem fiaçao);UN;12;80,48
+001.06.12.07;170339;Tomada 2P+T 10A (s/fiaçao);UN;6;13,76
+001.06.12.08;170081;Ponto de luz / força (c/tubul., cx. e fiaçao) ate 200W;Pt;12;138,32
+001.06.12.09;170338;Interruptor 3 teclas simples (s/fiaçao);UN;4;28,16
+001.06.12.10;170746;Cabo de cobre  10mm2 - 1 KV;M;90;9,38
+001.06.12.11;171165;"Haste de aço cobreada 5/8""x3,0m c/ conector";UN;3;68,1
+001.06.12.12;170746;Cabo de cobre nu 10 mm²;M;20;9,38
+001.06.13;;INSTALAÇÕES HIDROSSANITÁRIAS;;;13.388,89
+001.06.13.01;;AGUA FRIA: TUBOS,VÁLVULAS E REGISTROS;;;2.134,22
+001.06.13.01.01;180108;Tubo em PVC - JS - 20mm (c/ rasgo na alvenaria)-LH;M;24;6,65
+001.06.13.01.02;180107;Tubo em PVC - JS - 25mm (c/ rasgo na alvenaria)-LH;M;48;7,94
+001.06.13.01.03;180106;Tubo em PVC - JS - 32mm (c/ rasgo na alvenaria)-LH;M;36;12,19
+001.06.13.01.04;180441;"Registro de gaveta c/ canopla -   3/4""";UN;2;75,19
+001.06.13.01.05;180445;"Registro de pressao c/ canopla -  1/2""";UN;12;83,69
+001.06.13.02;;CONEXÕES (LH);;;641,16
+001.06.13.02.01;180427;Joelho/Cotovelo 90º  PVC - JS - 25mm-LH;UN;7;5,31
+001.06.13.02.02;180428;Joelho/Cotovelo 90º  PVC - JS - 32mm-LH;UN;3;6,19
+001.06.13.02.03;180434;Tê em PVC - JS - 25mm-LH;UN;2;5,42
+001.06.13.02.04;180435;Tê em PVC - JS - 32mm-LH;UN;1;7,11
+001.06.13.02.05;180229;Te de redução 90° JS - 25mm x 20mm (LH);UN;21;7,47
+001.06.13.02.06;180219;Joelho/Cotovelo de redução 90° PVC JS - 25mm x 20mm (LH);UN;2;6,47
+001.06.13.02.07;180221;"Joelho/Cotovelo 90º PVC SRM - 20mm X 1/2"" (LH)";UN;23;9,09
+001.06.13.02.08;180230;Bucha de redução JS - 32mm x 25mm (LH);UN;2;3,41
+001.06.13.02.09;180238;"Adaptador curto PVC SR -   25mm x 3/4"" (LH)";UN;4;3,14
+001.06.13.02.10;180239;"Adaptador curto PVC SR -   20mm x 1/2"" (LH)";UN;13;2,92
+001.06.13.02.11;181401;"Tê em PVC - SRM - 25mm x 1/2"" (LH)";UN;7;12,67
+001.06.13.02.12;180220;"Joelho/Cotovelo 90º PVC SRM - 25mm X 1/2"" (LH)";UN;2;9,25
+001.06.13.02.13;;"Luva PVC - SRM - 20mm x 1/2"" (LH)";UN;13;0,86
+001.06.13.02.14;;"Plug PVC 1/2"" (LH)";UN;28;0,46
+001.06.13.03;;ESGOTO: TUBOS,FOSSAS,SUMIDOUROS E CAIXAS;;;10.010,62
+001.06.13.03.01;180352;Caixa em alvenaria de  60x60x80cm c/ tpo. concreto;UN;5;366,95
+001.06.13.03.02;180417;Filtro anaerobico conc.arm. d=1.4m p=1.8m;UN;1;2.012,31
+001.06.13.03.03;180551;Fossa septica em concreto armado - cap= 30 pessoas;UN;1;3.573,39
+001.06.13.03.04;180093;Caixa sifonada de PVC c/ grelha - 100x100x50mm;UN;17;13,25
+001.06.13.03.05;180102;Tubo em PVC - 100mm (LS);M;72;21,97
+001.06.13.03.06;180103;Tubo em PVC -  75mm (LS);M;18;16,35
+001.06.13.03.07;180104;Tubo em PVC -  50mm (LS);M;30;11,93
+001.06.13.03.08;180105;Tubo em PVC -  40mm (LS);M;16;8,18
+001.06.13.04;;CONEXÕES (LS);;;602,89
+001.06.13.04.01;180241;Joelho/Cotovelo 45° PVC JS - 100mm - LS;UN;1;19,64
+001.06.13.04.02;180242;Joelho/Cotovelo 45° PVC JS -  75mm - LS;UN;2;15,85
+001.06.13.04.03;180243;Joelho/Cotovelo 45° PVC JS -  50mm - LS;UN;4;10,77
+001.06.13.04.04;180471;Joelho/Cotovelo 90º RC em PVC - JS -  40mm-LS;UN;18;10,74
+001.06.13.04.05;180474;Joelho/Cotovelo 90º RC em PVC - JS - 100mm-LS;UN;7;17,08
+001.06.13.04.06;180247;Junção simples PVC JS -  50 x 50mm - LS;UN;8;13,72
+001.06.13.04.07;180249;Junção simples PVC JS - 100 x  50mm - LS;UN;1;25,92
+001.06.13.04.08;180250;Junção simples PVC JS -  75 x 50mm - LS;UN;3;19,97
+001.06.14;;APARELHOS, LOUÇAS, METAIS E ACESSÓRIOS SANITÁRIOS;;;9.413,44
+001.06.14.01;190087;Saboneteira de louça;UN;12;32,59
+001.06.14.02;190090;Bacia sifonada de louça c/ assento;UN;6;303,8
+001.06.14.03;190224;Caixa de descarga plastica - externa;UN;6;86,16
+001.06.14.04;190218;Chuveiro em PVC;UN;12;19,48
+001.06.14.05;190232;Lavatorio de louça s/col.c/torn.,sifao e valv.;UN;6;284,53
+001.06.14.06;190401;Mictorio individual em louça c/ acessorios;UN;3;454,47
+001.06.14.07;190716;Barra em aço inox (PNE);M;3;202,37
+001.06.14.08;190791;Engate flexível cromado 40cm;UN;15;22,62
+001.06.14.09;190794;Saboneteira c/ reservatório - Polipropileno;UN;8;34,67
+001.06.14.10;190795;Porta toalha de papel - Polipropileno;UN;4;94,34
+001.06.14.11;190797;Porta papel higiênico - Polipropileno;UN;7;41,54
+001.06.14.12;190303;Bacia sifonada c/ caixa de descarga e assento - PNE;UN;2;743,17
+001.06.15;;LIMPEZA;;;589,52
+001.06.15.01;270220;Limpeza final c/ remoção de entulhos;M2;147,38;4
+001.07;;ARQUIBANCADA;;;108.816,11
+001.07.01;;MOVIMENTO DE TERRA;;;533,91
+001.07.01.01;30010;Escavação manual ate 1.50m de profundidade;M3;10,5;30,03
+001.07.01.02;30254;Reaterro compactado;M3;6,58;33,22
+001.07.02;;FUNDAÇÕES;;;7.314,60
+001.07.02.01;50257;Lastro de concreto magro c/ seixo;M3;0,7;407,29
+001.07.02.02;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;3,92;1.793,24
+001.07.03;;COBERTURA;;;32.923,68
+001.07.03.01;71495;Estrutura metálica p/ telha de alumínio ( incl pint anti corrosiva);M2;171,21;147,01
+001.07.03.02;70030;Cobertura - telha aluminio trapezoidal e= 0,5mm;M2;171,21;45,29
+001.07.04;;PISOS;;;2.729,80
+001.07.04.01;130233;Cimentado liso c/ junta plastica;M2;74,24;36,77
+001.07.05;;PINTURA;;;971,37
+001.07.05.01;150207;Acrílica para piso;M2;82,67;11,75
+001.07.06;;SERVIÇOS COMPLEMENTARES;;;64.140,63
+001.07.06.01;250685;Arquibancada em concreto armado (mod. 20m);M;30,62;2.094,73
+001.07.07;;LIMPEZA;;;202,12
+001.07.07.01;270220;Limpeza final c/ remoção de entulhos;M2;50,53;4
+001.08;;SALAS DE APOIO;;;221.112,40
+001.08.01;;MOVIMENTO DE TERRA;;;4.388,64
+001.08.01.01;30010;Escavação manual ate 1.50m de profundidade;M3;25,63;30,03
+001.08.01.02;30254;Reaterro compactado;M3;13,16;33,22
+001.08.01.03;30011;Aterro c/ material fora da obra, incl. apiloamento;M3;44,21;71,97
+001.08.02;;FUNDAÇÕES;;;14.629,21
+001.08.02.01;50257;Lastro de concreto magro c/ seixo;M3;1,4;407,29
+001.08.02.02;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;7,84;1.793,24
+001.08.03;;ESTRUTURA;;;4.160,32
+001.08.03.01;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;2,32;1.793,24
+001.08.04;;PAREDES E PAINEIS;;;15.625,50
+001.08.04.01;60046;Alvenaria tijolo de barro a cutelo;M2;377,61;41,38
+001.08.05;;COBERTURA;;;50.736,43
+001.08.05.01;71495;Estrutura metálica p/ telha de alumínio ( incl pint anti corrosiva);M2;263,84;147,01
+001.08.05.02;70030;Cobertura - telha aluminio trapezoidal e= 0,5mm;M2;263,84;45,29
+001.08.06;;ESQUADRIAS / FERRAGENS;;;18.546,85
+001.08.06.01;90061;Porta mad. compens. c/caix. simples e alizar;M2;5,92;293,22
+001.08.06.02;100226;Ferragens p/ porta externa 1 fl.;CJ;3;132,42
+001.08.06.03;91376;Esquadria de alum.de correr c/ vidro e ferragens;M2;16,5;426,09
+001.08.06.04;90400;"Grade de ferro 5/8"" (incl. pint. anti-corrosiva)";M2;24,78;289,68
+001.08.06.05;90399;"Portão de ferro 5/8"" c/ ferragens (incl. pint. anti-corrosiva)";M2;6,27;351,67
+001.08.07;;REVESTIMENTO;;;37.504,05
+001.08.07.01;110143;Chapisco de cimento e areia no traço 1:3;M2;755,22;6,81
+001.08.07.02;110762;Emboço com argamassa 1:6:Adit. Plast.;M2;153,2;23,6
+001.08.07.03;110763;Reboco com argamassa 1:6:Adit. Plast.;M2;602,02;27,66
+001.08.07.04;110505;Cerâmica Terragres 10x10cm;M2;153,2;78,94
+001.08.08;;RODAPES, SOLEIRAS E PEITORIS;;;2.020,98
+001.08.08.01;120734;Soleira e peitoril - granito preto - e=2cm;M2;5,34;378,46
+001.08.09;;PISOS;;;33.512,38
+001.08.09.01;130507;Camada impermeabilizadora e=10cm c/ seixo;M2;272,76;39,85
+001.08.09.02;130110;Camada regularizadora no traço 1:4;M2;272,76;22,5
+001.08.09.03;130233;Cimentado liso c/ junta plastica;M2;104,76;36,77
+001.08.09.04;130626;Piso de alta resistência e=8mm c/ resina incl. camada regularizadora;M2;168;75,32
+001.08.10;;FORROS;;;12.475,68
+001.08.10.01;140240;Forro em PVC 100mm entarugamento - metalico;M2;168;74,26
+001.08.11;;PINTURA;;;17.239,34
+001.08.11.01;150253;Acrilica fosca int./ext. c/massa e selador - 3 demaos;M2;602,02;26,94
+001.08.11.02;150491;Esmalte sobre grade de ferro (superf. aparelhada);M2;31,05;32,88
+001.08.12;;INSTALAÇÕES ELÉTRICAS;;;9.181,98
+001.08.12.01;170321;Centro de distribuiçao p/ 12 disjuntores (c/ barramento);UN;1;367,64
+001.08.12.02;170326;Disjuntor 01P - 10 a 30A - PADRÃO DIN;UN;5;13,7
+001.08.12.03;170362;Disjuntor 02P - 15 a 50A - PADRÃO DIN;UN;5;44,53
+001.08.12.04;170388;Disjuntor 03P - 15 a 50A - PADRÃO DIN;UN;1;65,85
+001.08.12.05;170701;Ponto de força (tubul., fiaçao e disjuntor) acima de 200W;Pt;9;278,2
+001.08.12.06;170517;Luminaria c/ 2 lamp. fluorescentes 32W (sem fiaçao);UN;18;114,48
+001.08.12.07;170339;Tomada 2P+T 10A (s/fiaçao);UN;6;13,76
+001.08.12.08;170081;Ponto de luz / força (c/tubul., cx. e fiaçao) ate 200W;Pt;18;138,32
+001.08.12.09;170338;Interruptor 3 teclas simples (s/fiaçao);UN;3;28,16
+001.08.12.10;170746;Cabo de cobre  10mm2 - 1 KV;M;90;9,38
+001.08.12.11;171165;"Haste de aço cobreada 5/8""x3,0m c/ conector";UN;3;68,1
+001.08.12.12;170746;Cabo de cobre nu 10 mm²;M;20;9,38
+001.08.13;;LIMPEZA;;;1.091,04
+001.08.13.01;270220;Limpeza final c/ remoção de entulhos;M2;272,76;4
+001.09;;PALCO;;;49.928,93
+001.09.01;;MOVIMENTO DE TERRA;;;3.762,74
+001.09.01.01;30010;Escavação manual ate 1.50m de profundidade;M3;11,98;30,03
+001.09.01.02;30254;Reaterro compactado;M3;5,64;33,22
+001.09.01.03;30011;Aterro c/ material fora da obra, incl. apiloamento;M3;44,68;71,97
+001.09.02;;FUNDAÇÕES;;;11.670,53
+001.09.02.01;50257;Lastro de concreto magro c/ seixo;M3;0,74;407,29
+001.09.02.02;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;6,34;1.793,24
+001.09.03;;ESTRUTURA;;;860,76
+001.09.03.01;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;0,48;1.793,24
+001.09.04;;PAREDES E PAINEIS;;;1.555,89
+001.09.04.01;60046;Alvenaria tijolo de barro a cutelo;M2;37,6;41,38
+001.09.05;;COBERTURA;;;20.529,95
+001.09.05.01;71495;Estrutura metálica p/ telha de alumínio ( incl pint anti corrosiva);M2;106,76;147,01
+001.09.05.02;70030;Cobertura - telha aluminio trapezoidal e= 0,5mm;M2;106,76;45,29
+001.09.06;;REVESTIMENTO;;;1.552,13
+001.09.06.01;110143;Chapisco de cimento e areia no traço 1:3;M2;75,2;6,81
+001.09.06.02;110763;Reboco com argamassa 1:6:Adit. Plast.;M2;37,6;27,66
+001.09.07;;PISOS;;;5.535,85
+001.09.07.01;130507;Camada impermeabilizadora e=10cm c/ seixo;M2;55,85;39,85
+001.09.07.02;130110;Camada regularizadora no traço 1:4;M2;55,85;22,5
+001.09.07.03;130233;Cimentado liso c/ junta plastica;M2;55,85;36,77
+001.09.08;;PINTURA;;;1.012,94
+001.09.08.01;150253;Acrilica fosca int./ext. c/massa e selador - 3 demaos;M2;37,6;26,94
+001.09.09;;INSTALAÇÕES ELÉTRICAS;;;3.224,74
+001.09.09.01;170321;Centro de distribuiçao p/ 12 disjuntores (c/ barramento);UN;1;367,64
+001.09.09.02;170326;Disjuntor 01P - 10 a 30A - PADRÃO DIN;UN;5;13,7
+001.09.09.03;170362;Disjuntor 02P - 15 a 50A - PADRÃO DIN;UN;5;44,53
+001.09.09.04;170388;Disjuntor 03P - 15 a 50A - PADRÃO DIN;UN;1;65,85
+001.09.09.05;170517;Luminaria c/ 2 lamp. fluorescentes 32W (sem fiaçao);UN;5;114,48
+001.09.09.06;170081;Ponto de luz / força (c/tubul., cx. e fiaçao) ate 200W;Pt;5;138,32
+001.09.09.07;170746;Cabo de cobre  10mm2 - 1 KV;M;90;9,38
+001.09.09.08;171165;"Haste de aço cobreada 5/8""x3,0m c/ conector";UN;3;68,1
+001.09.09.09;170746;Cabo de cobre nu 10 mm²;M;20;9,38
+001.09.10;;LIMPEZA;;;223,4
+001.09.10.01;270220;Limpeza final c/ remoção de entulhos;M2;55,85;4

@@ -1,0 +1,1556 @@
+Item;Cod;Nome;Un;Custo Unitário
+001;;PLANILHA PADRÃO - ABRIL 2017;;
+001.01;;SERVIÇOS PRELIMINARES:;;
+001.01.01;10786;Aluguel de andaime metálico;M²/Mês;12,5
+001.01.02;10006;Andaime de madeira;M2;13,24
+001.01.03;10767;Barracão de madeira (incl. instalações);M2;377,01
+001.01.04;10005;Barracão de madeira/Almoxarifado;M2;193,96
+001.01.05;10173;Desmatamento mecanico c/trator D-6;M2;1,63
+001.01.06;10032;Destocamento manual de arvores d=30cm;UN;110,4
+001.01.07;11329;Furo de sondagem - até 15m;UN;1400
+001.01.08;11330;Furo de sondagem - mais de 15m;UN;2500
+001.01.09;10001;Levantamento planimetrico a trena;M2;0,52
+001.01.10;10002;Levantamento planimetrico c/ aparelho;M2;1,04
+001.01.11;10000;Licenças e taxas da obra (acima de 500m2);CJ;10833,75
+001.01.12;11170;Licenças e taxas da obra (até 100m2);CJ;2422,33
+001.01.13;11171;Licenças e taxas da obra (até 500m2);CJ;5260,55
+001.01.14;10008;Limpeza do terreno;M2;1,32
+001.01.15;10175;Locação da obra a aparelho;M2;6,4
+001.01.16;10009;Locação da obra a trena;M2;3,44
+001.01.17;10269;Locação planimetrica de linha;M;0,75
+001.01.18;6;Mobilização e Desmobilização de pessoal e equipamentos;UN;
+001.01.19;10004;Placa da obra em chapa galvanizada;M2;319,19
+001.01.20;11340;Placa de obra em lona com plotagem de gráfica;M2;155,42
+001.01.21;10003;Tapume c/ chapa de madeirit e=10mm (h=2.20m);M2;68,94
+001.01.22;11350;Tapume metálico;M2;80,94
+001.02;;ADMINISTRAÇÃO DA OBRA;;
+001.02.01;1;Administração Local;Mês;0,00
+001.03;;DEMOLIÇÕES E RETIRADAS:;;
+001.03.01;20738;Apicoamento de concreto;M2;16,56
+001.03.02;20737;Apicoamento de reboco ou cimentado;M2;2,21
+001.03.03;20177;Bota fora manual c/ DMT=200m;M3;45,26
+001.03.04;20020;Demolição da estrutura em madeira da cobertura;M2;4,71
+001.03.05;20007;Demolição de andaimes;M2;3,31
+001.03.06;21525;Demolição de asfalto c/ martelete;M2;8,43
+001.03.07;21524;Demolição de concreto armado c/ martelete;M3;389,41
+001.03.08;20016;Demolição manual de alvenaria de tijolo;M3;37,69
+001.03.09;20756;Demolição manual de concreto armado;M3;342,72
+001.03.10;20018;Demolição manual de concreto simples;M3;163,33
+001.03.11;20017;Demolição manual de piso em madeira e retirada de vigamento incluindo granzepe;M2;15,08
+001.03.12;21531;Desmontagem de estrutura metálica com retirada de solda e corte de peças por meio de lixadeira;M2;26,48
+001.03.13;20677;Retirada da pintura (c/ escova de aço);M2;3,77
+001.03.14;20841;Retirada de blokret com aproveitamento;M2;7,88
+001.03.15;20847;Retirada de caixa de ar condicionado;UN;15,72
+001.03.16;20842;Retirada de calha em chapa galvanizada;M;6,36
+001.03.17;20409;Retirada de carpete;M2;1,44
+001.03.18;20305;Retirada de cobogo;M2;6,28
+001.03.19;21532;Retirada de divisória (painel cego);M2;5,6
+001.03.20;21533;Retirada de divisória (painel/vidro/painel);M2;7,47
+001.03.21;20174;Retirada de entulho - manualmente (incl. caixa coletora);M3;81,04
+001.03.22;20171;Retirada de entulho c/ equipamento distancia ate 5k;M3;21,49
+001.03.23;20013;Retirada de esquadria com aproveitamento;M2;7,47
+001.03.24;21528;Retirada de esquadria metálica;M2;7,04
+001.03.25;20014;Retirada de esquadria sem aproveitamento;M2;3,73
+001.03.26;20861;Retirada de forro de gesso (incl. barroteamento);M2;3,86
+001.03.27;20015;Retirada de forro em mad., incl. barroteamento;M2;5,26
+001.03.28;21534;Retirada de forro em PVC, incl. barroteamento;M2;3,95
+001.03.29;21527;Retirada de grade de ferro;M2;14,93
+001.03.30;20853;Retirada de lambrequim;M;1,31
+001.03.31;20854;Retirada de lambri de madeira;M2;12,62
+001.03.32;21526;Retirada de louça sanitária;UN;26,28
+001.03.33;20855;Retirada de luminárias;UN;10,52
+001.03.34;20856;Retirada de mictório aço inox;UN;32,85
+001.03.35;20862;Retirada de pilar de madeira;UN;29,53
+001.03.36;20235;Retirada de piso ceramico, inclusive camada regularizadora;M2;5,03
+001.03.37;20628;Retirada de piso cimentado;M2;5,49
+001.03.38;20221;Retirada de piso em taco de madeira;M2;5,52
+001.03.39;20023;Retirada de piso incl. camada impermeabilizadora;M2;8,57
+001.03.40;20408;Retirada de piso vinilico;M2;3,12
+001.03.41;21529;Retirada de ponto de água/esgoto;Pt;13,56
+001.03.42;20857;Retirada de ponto elétrico;Pt;10,52
+001.03.43;20019;Retirada de reboco ou emboço;M2;3,77
+001.03.44;20021;Retirada de revestimento cerâmico;M2;3,77
+001.03.45;21530;Retirada de rodapé cerâmico;M;2,21
+001.03.46;21535;Retirada de Rodapé em Granito;M2;2,21
+001.03.47;20863;Retirada de rodapé em madeira;M;1,1
+001.03.48;21536;Retirada de rodapé em piso de alta resistência;M2;2,76
+001.03.49;20864;Retirada de soleira e peitoril;M2;11,5
+001.03.50;20858;Retirada de telha de fibrocimento com aproveitamento;M2;7,92
+001.03.51;20307;Retirada de telhas de barro;M2;6,28
+001.03.52;20024;Retirada de telhas fibrocimento sem aproveitamento;M2;2,62
+001.03.53;20859;Retirada de válvula Hydra;UN;15,76
+001.03.54;20860;Retirada de ventilador de teto;UN;18,4
+001.03.55;20022;Retirada Divisórias em paineis div. em mad.compens.incl.entarugamento;M2;7,47
+001.04;;MOVIMENTO DE TERRA:;;
+001.04.01;30011;Aterro c/ material fora da obra, incl. apiloamento;M3;78,81
+001.04.02;30010;Escavação manual ate 1.50m de profundidade;M3;33,12
+001.04.03;30673;Escavação manual p/ tubulao a ceu aberto;M3;210,24
+001.04.04;30675;Escavação mecanizada;M3;8,23
+001.04.05;30254;Reaterro compactado;M3;36,31
+001.05;;FUNDAÇÕES:;;
+001.05.01;40026;Baldrame em conc.ciclópico c/pedra preta incl.forma;M3;849,02
+001.05.02;40285;Baldrame em conc.simples c/seixo incl.forma mad.br.;M3;973,73
+001.05.03;40284;Baldrame em concreto armado c/ cinta de amarração;M3;1697,6
+001.05.04;40283;Bloco em concreto armado p/ fundaçao (incl. forma);M3;1794,35
+001.05.05;41332;Estaca de concreto 20x20cm (incl. cravaçao);M;124,8
+001.05.06;41331;Estaca de concreto 25x25cm (incl. cravaçao);M;166,4
+001.05.07;41333;Estaca de concreto 30x30cm (incl. cravaçao);M;234
+001.05.08;41491;Estaca helice de diametro 30cm;M;151,96
+001.05.09;41492;Estaca helice de diametro 40cm;M;195,14
+001.05.10;41493;Estaca helice de diametro 50 cm;M;254,42
+001.05.11;41494;Estaca helice de diametro 60 cm;M;350,21
+001.05.12;41495;Estaca helice de diametro 80 cm;M;552,42
+001.05.13;41472;Estaca raiz - 20cm;M;156
+001.05.14;41473;Estaca raiz - 25cm;M;192
+001.05.15;41490;Estaca raiz - 30cm;M;228,8
+001.05.16;40025;Fundação corrida/bloco c/pedra preta arg.no traço 1:8;M3;395,36
+001.05.17;50257;Lastro de concreto magro c/ seixo;M3;442,4
+001.05.18;41496;Mobilização e desmobilização de equipamentos para estaca hélice contínua;UN;10000
+001.05.19;40222;Tubulão a céu aberto-concreto Fck=20MPA - cintado;M3;855,7
+001.06;;ESTRUTURA:;;
+001.06.01;;--> CONCRETO:;;
+001.06.01.01;50040;Concreto armado Fck=13.5 MPA c/ forma aparente - 1 reaproveitamento;M3;1908,83
+001.06.01.02;50039;Concreto armado Fck=13.5 MPA c/forma em mad. branca;M3;1892,39
+001.06.01.03;50681;Concreto armado Fck=15 MPA c/forma mad. branca;M3;1897,26
+001.06.01.04;50267;Concreto armado Fck=18 MPA c/ forma mad. branca;M3;1911,5
+001.06.01.05;50282;Concreto armado Fck=18 MPA com forma aparente - 1 reaproveitamento;M3;1927,94
+001.06.01.06;50729;Concreto armado fck=20MPA c/ forma mad. branca;M3;1923,35
+001.06.01.07;51171;Concreto armado FCK=20MPA com forma aparente - 1 reaproveitamento;M3;1939,79
+001.06.01.08;50766;Concreto armado fck=25MPA c/ forma mad. branca;M3;1942,39
+001.06.01.09;51172;Concreto armado FCK=25MPA com forma aparente - 1 reaproveitamento;M3;1958,83
+001.06.01.10;51300;Concreto armado FCK=3,5MPA c/ forma aparente - 1 Reaproveitamento;M3;1975,21
+001.06.01.11;51287;Concreto armado FCK=30MPA c/ forma aparente - 1 reaproveitamento;M3;1978,13
+001.06.01.12;51286;Concreto armado FCK=30MPA c/ forma madeira branca;M3;1961,69
+001.06.01.13;50757;Concreto armado p/ calhas e percintas;M3;2243,51
+001.06.01.14;50353;Concreto armado p/ rufos;M3;1520,81
+001.06.01.15;50511;Concreto c/ seixo e aditivo imperm. Fck = 13,5 MPA(incl preparo e lançamento);M3;560,5
+001.06.01.16;50034;Concreto c/ seixo Fck= 13.5 MPA (incl. preparo e lançamento);M3;509,15
+001.06.01.17;50258;Concreto c/ seixo Fck= 15 MPA (incl. preparo e lançamento);M3;514,02
+001.06.01.18;50260;Concreto c/ seixo Fck= 18.0 MPA (incl. preparo e lançamento);M3;528,26
+001.06.01.19;50259;Concreto c/ seixo Fck= 20 MPA (incl. preparo e lançamento);M3;540,11
+001.06.01.20;50740;Concreto c/ seixo Fck= 25MPA (incl. preparo e lançamento);M3;559,15
+001.06.01.21;50736;Concreto c/ seixo FCK=30 MPA (incl. preparo e lançamento);M3;578,45
+001.06.01.22;50196;Concreto ciclópico c/ pedra preta;M3;415,4
+001.06.01.23;51450;Concreto usinado bombeado de 25MPA;M3;521,98
+001.06.01.24;51451;Concreto usinado bombeado de 30MPA;M3;548,75
+001.06.01.25;51452;Concreto usinado bombeado de 35MPA;M3;575,53
+001.06.01.26;51453;Concreto usinado bombeado de 40MPA;M3;623,72
+001.06.01.27;50713;Laje pré-moldada (incl. capeamento);M2;85,15
+001.06.01.28;50771;Laje pré-moldada treliçada (Incl. capiamento);M2;124,15
+001.06.01.29;51455;Protensão de cordoalha de 12,7mm;KG;31,96
+001.06.01.30;51460;Protensão de cordoalha de 15,2mm;KG;33,98
+001.06.02;;--> FORMA / ARMAÇÃO / CIMBRAMENTO:;;
+001.06.02.01;50038;Armação p/ concreto;KG;6,45
+001.06.02.02;11294;Cimbramento de madeira p/ h até 3,00 m;M2;55,12
+001.06.02.03;11217;Cimbramento metálico com altura até 3,50m;M²/Mês;48,98
+001.06.02.04;50037;Desforma;M2;3,31
+001.06.02.05;50036;Forma  c/ madeira branca;M2;68,96
+001.06.02.06;50281;Forma para concreto em chapa de madeira compensada para estruturas especiais (formas curvas e/ou alturas elevadas);M2;104,67
+001.06.02.07;50043;Formas para concreto em chapa de madeira compensada plastificada e=15mm (REAP 2x);M2;49,73
+001.06.02.08;50041;Formas para concreto em chapa de madeira compensada resinada e=15mm (REAP 1x);M2;70,33
+001.06.02.09;50035;Formas para concreto em chapa de madeira compensada resinada e=15mm (REAP 2x);M2;45,16
+001.06.03;;--> PILARES:;;
+001.06.03.01;50225;Pilar em mad. de lei 20x20cm(incl.bl.conc.ciclópico);UN;391,25
+001.06.03.02;50217;"Pilar em mad. de lei 4""x4""(incl.bl.conc.ciclópico)";UN;174,06
+001.06.03.03;50216;"Pilar em mad. de lei 6""x6""(incl.bl.conc.ciclópico)";UN;283,92
+001.06.03.04;50219;"Pilar em mad. de lei 8""x4""(incl.bl.conc.ciclópico)";UN;242,62
+001.06.03.05;50055;Pilar em mad.de lei tipo sanduíche(incl.chumb/bl.concr.ciclópico);UN;365,87
+001.07;;PAREDES E PAINEIS:;;
+001.07.01;60187;Alvenaria bloco de cimento maciço;M2;66,48
+001.07.02;60660;Alvenaria de elevação c/bloco de vidro 20x20x10cm;M2;517,72
+001.07.03;60498;Alvenaria de tijolo refratário (11,4 x 2,5 x 22,9cm);M2;584,05
+001.07.04;60256;Alvenaria em pedra preta argamassada;M3;436,71
+001.07.05;60247;Alvenaria estrutural articulada armada;M2;164,91
+001.07.06;60046;Alvenaria tijolo de barro a cutelo;M2;43,57
+001.07.07;60045;Alvenaria tijolo de barro a singelo;M2;58,62
+001.07.08;60043;Cobogó de cimento 20x20x10cm;M2;169,78
+001.07.09;60661;Cobogó de vidro 10x10x20cm;M2;996,32
+001.07.10;61356;Divisória de MDF c/ laminado;M2;115,71
+001.07.11;61355;Divisória de PVC;M2;171,71
+001.07.12;61359;Divisória Divilux pefil alumínio / miolo celular -P/V/P;M2;117,71
+001.07.13;61352;Divisória Divilux perfil em aluminio/miolo celular (painel cego);M2;97,71
+001.07.14;61459;Divisória em gesso acartonado acústica e=9cm;M2;132,49
+001.07.15;61460;Divisória em gesso acartonado acústico e=11cm;M2;141,7
+001.07.16;61354;Divisória em gesso acartonado e= 7cm;M2;93,86
+001.07.17;61357;Divisória em gesso acartonado e= 9cm;M2;97,39
+001.07.18;61358;Divisória em gesso acartonado e=11cm;M2;107,91
+001.07.19;61502;Divisória em gesso acartonado Painéis duplos W112;M2;131,22
+001.07.20;60813;Divisória em granito cinza - incl. ferrag. de fixação;M2;463,56
+001.07.21;60812;Divisória em granito preto - Incl. ferragens de fixação;M2;585,56
+001.07.22;61461;Divisória em MDF sem laminado;M2;89,71
+001.07.23;61353;Divisória naval perfil em aço/miolo celular;M2;87,71
+001.07.24;60659;Elemento vazado 1/2 tijolo 13x10x8cm;M2;114,91
+001.07.25;60212;Elemento vazado 1/2 tijolo 15x15x10cm;M2;94,81
+001.07.26;61088;Elemento vazado pré-moldado 40x40x7cm;M2;125,09
+001.07.27;70739;Fechamento de empena com veneziana em mad.de lei;M2;276,57
+001.07.28;60597;"Fechamento de vão c/ tela fo go fio 10 # 2""";M2;334,62
+001.07.29;60702;Painel - tipo Reynobond (Incl. estrutura em metalon);M2;512
+001.07.30;61458;Painel em ACM - Estruturado (fachadas);M2;381,62
+001.07.31;60183;Painel em ch.compens. c/ laminado melaminico (c/ estrut. mad.);M2;198,99
+001.07.32;60184;Painel em ch.compens. c/ laminado melaminico 2 lados (c/estru mad.);M2;271,1
+001.07.33;60185;Painel em ch.compens. Duraplac (c/estrut. mad.);M2;137,63
+001.07.34;60186;Painel em ch.compens. e=10mm (c/ estrut. mad.);M2;115,54
+001.07.35;60351;Painel em tabuas macheadas - 1 face;M2;59,68
+001.07.36;60215;Parede em madeira de lei revestida 2 faces;M2;119,56
+001.07.37;61501;Placa cimentícia c/ verniz de acabamento (incl. acessórios de fixação);M2;135
+001.07.38;61087;Recomposição de alvenaria - Instalação de pontos;M2;35,26
+001.08;;COBERTURA:;;
+001.08.01;;--> ESTRUTURA:;;
+001.08.01.01;70308;Encaibramento e ripamento;M2;38,24
+001.08.01.02;70052;Estrutura em mad. lei p/ telha de barro - pç. serrada;M2;64,97
+001.08.01.03;70051;Estrutura em mad. lei p/ telha de barro - pç.aparelhada;M2;71,88
+001.08.01.04;70053;Estrutura em mad.p/ chapa fibrocimento - pc. aparelhada;M2;45,57
+001.08.01.05;70054;Estrutura em mad.p/ chapa fibrocimento - pc. serrada;M2;40,83
+001.08.01.06;70736;Estrutura em madeira de lei p/telha asfaltica - pc. aparelhada;M2;71
+001.08.01.07;70735;Estrutura em madeira de lei p/telha asfaltica - pc. serrada;M2;63,85
+001.08.01.08;71360;Estrutura metálica p/ cobertura - (Incl. pintura anti-corrosiva);KG;13,56
+001.08.01.09;71361;Estrutura metálica p/ cobertura - 2 águas-vão 20m;M2;138,9
+001.08.01.10;71362;Estrutura metálica p/ cobertura - 2 águas-vão 30m;M2;145,86
+001.08.01.11;71495;Estrutura metálica p/ cobertura - 2 águas-vão 40m;M2;151,96
+001.08.01.12;71492;Estrutura metálica p/ cobertura em arco-vão 20m;M2;126,9
+001.08.01.13;71493;Estrutura metálica p/ cobertura em arco-vão 30m;M2;134,58
+001.08.01.14;71494;Estrutura metálica p/ cobertura em arco-vão 40m;M2;141,43
+001.08.01.15;70827;Lambrequim de madeira de lei aparelhada;M;31,65
+001.08.01.16;70614;Mão francesa em mad. de lei (padrao SEDUC);UN;185,44
+001.08.01.17;70510;Ripamento;M2;16,53
+001.08.01.18;70785;Ripamento para sub cobertura (manta);M2;22,68
+001.08.01.19;70195;Tesoura em mad. de lei p/ vao de  6.0m;UN;908,06
+001.08.01.20;70194;Tesoura em mad. de lei p/ vao de  8.0m;UN;1335,27
+001.08.01.21;70193;Tesoura em mad. de lei p/ vao de 12.0m;UN;2331,89
+001.08.02;;--> TELHAMENTO:;;
+001.08.02.01;70030;Cobertura - telha aluminio trapezoidal e= 0,5mm;M2;46,01
+001.08.02.02;70711;Cobertura - telha asfáltica;M2;60,68
+001.08.02.03;70708;Cobertura - telha de aluminio ondulada e=0,5mm;M2;47,69
+001.08.02.04;70049;Cobertura - telha de barro paulista ou planatex;M2;59,19
+001.08.02.05;71498;Cobertura - Telha de fibrocimento e=4mm;M2;38,5
+001.08.02.06;70047;Cobertura - telha de fibrocimento e=6mm;M2;50,29
+001.08.02.07;70169;Cobertura - telha de fibrocimento e=8mm;M2;50,19
+001.08.02.08;70172;Cobertura - telha de vidro;M2;845,85
+001.08.02.09;71465;Cobertura - telha em aço galvanizado e=0,5mm;M2;38,2
+001.08.02.10;70057;Cobertura - telha fibrotex e=4mm;M2;25,79
+001.08.02.11;70048;Cobertura - telha kalhetao e=8mm;M2;177,59
+001.08.02.12;70056;Cobertura - telha maxiplac e= 6mm;M2;77,65
+001.08.02.13;70058;Cobertura - telha plan;M2;49,32
+001.08.02.14;70675;Cobertura - telha translucida fibra de vidro;M2;61,84
+001.08.02.15;71363;Cobertura em policarbonato fumê - Incl. estr. metálica;M2;325
+001.08.02.16;71364;Cobertura em policarbonato Incolor- Incl. estr. metálica;M2;288
+001.08.02.17;71497;Cobertura -Telha termoacústica;M2;110,5
+001.08.03;;--> CALHAS / CUMEEIRAS:;;
+001.08.03.01;70277;Calha em chapa galvanizada;M;41,02
+001.08.03.02;70316;Calha em PVC (1/2 cana d= 100mm);M;44,56
+001.08.03.03;70031;Cumeeira aluminio e = 0,8 mm;M;51,5
+001.08.03.04;70712;Cumeeira asfaltica;M;27,41
+001.08.03.05;70287;Cumeeira de barro;M;18,54
+001.08.03.06;71466;Cumeeira em aço galvanizado;M;33,35
+001.08.03.07;70029;Cumeeira em fibrocimento e=6mm;M;40,4
+001.08.03.08;70059;Cumeeira plana fibrotex e=4mm;M;12,81
+001.08.03.09;70241;Encaliçamento de telha ceramica (beiral e cumieira);M;8,56
+001.08.03.10;70294;Rincão em chapa galvanizada - l=1,0m;M;24,57
+001.09;;IMPERMEABILIZAÇÕES /TRATAMENTOS:;;
+001.09.01;80676;Aplicação de Carbolástico sobre concreto (2 demãos);M2;20,85
+001.09.02;80314;Aplicação de Igol A sobre conc./alv. (3 demãos);M2;22,09
+001.09.03;80200;Aplicação de Neutrol s/ concreto/alvenaria;M2;19,13
+001.09.04;80678;Aplicação de Sika Top - 107 sobre concreto/alvenaria/ferragem;M2;54,43
+001.09.05;80028;Descupinização;M2;5,86
+001.09.06;80313;Impermeabilização com Vedacit (normal);M2;13,27
+001.09.07;80152;Impermeabilização de jardineiras (Igol 2 + Sika 1);M2;53,53
+001.09.08;80270;Impermeabilização de lajes (cimento + areia);M2;33,41
+001.09.09;80151;Impermeabilização de lajes e calhas (Igolflex+Sika1);M2;80,88
+001.09.10;80272;Impermeabilização de reservatorios (Igol A + Sika 1);M2;64,55
+001.09.11;80293;Impermeabilização para baldrame(Igol 2 + Sika 1);M2;46,8
+001.09.12;80153;Impermeabilização rebaixos banho./coz.(tinta asfaltica);M2;34
+001.09.13;80300;Imunização p/madeira c/carbolineum;M2;4,62
+001.09.14;81365;Junta de dilatação Fungenband - 12mm;M;40,12
+001.09.15;81366;Junta de dilatação Fungenband - 20mm;M;44,62
+001.09.16;80702;Manta asfáltica c/ filme de aluminio;M2;66,65
+001.09.17;80704;Manta asfáltica SBS-3mm c/ filme de polietileno;M2;51,74
+001.09.18;80703;Manta asfáltica SBS-4mm c/ filme de polietileno;M2;56,27
+001.09.19;80782;Manta para sub cobertura e= 2mm;M2;23,48
+001.09.20;80783;Manta para sub cobertura e= 5mm;M2;28,54
+001.09.21;80784;Manta para sub cobertura e=10mm;M2;37,34
+001.09.22;80273;Reboco impermeabilizante (c/ Sika 1);M2;31,38
+001.10;;ESQUADRIAS:;;
+001.10.01;;--> MADEIRA:;;
+001.10.01.01;90805;Alizar em madeira de lei;M;13,54
+001.10.01.02;90809;Caixilho em madeira de lei;M2;238,56
+001.10.01.03;90065;Esquadria mad. e=3cm c/ caix. aduela e alizar;M2;500,42
+001.10.01.04;90064;Esquadria mad. e=3cm c/ caixilho;M2;336,82
+001.10.01.05;90524;Esquadria mad. venez. fixa c/ caix. simples;M2;369,78
+001.10.01.06;90526;Esquadria mad. venez. fixa c/ caix. simples e alizar;M2;441,3
+001.10.01.07;90525;Esquadria mad. venez. fixa c/caix. aduela e alizar;M2;517,93
+001.10.01.08;90066;Esquadria mad. venez. moveis c/ caix. aduela e alizar;M2;610,63
+001.10.01.09;90303;Esquadria mad. venez. moveis c/caix. simples;M2;454,86
+001.10.01.10;90067;Esquadria. mad. venez. moveis c/ caix. simples e alizar;M2;529,43
+001.10.01.11;90642;Janela em madeira lambrizada;M2;403,56
+001.10.01.12;90201;Janela mad. tipo basculante c/ caix. simples;M2;270,98
+001.10.01.13;90527;Janela mad. tipo de correr c/ caix. simples;M2;390,38
+001.10.01.14;90641;Porta em madeira lambrizada;M2;363,33
+001.10.01.15;90062;Porta mad. compens. c/ caix. aduela e alizar;M2;411,03
+001.10.01.16;90304;Porta mad. compens. c/ caix. simples;M2;255,26
+001.10.01.17;90061;Porta mad. compens. c/caix. simples e alizar;M2;303,05
+001.10.01.18;90482;Porta mad. compens. revest. formica c/ caix. simples;M2;352,42
+001.10.01.19;90242;Porta mad. de lei miolo lençol de chumbo;M2;883,82
+001.10.01.20;90063;Porta mad. trabalhada c/ caix. aduela e alizar;M2;711,03
+001.10.01.21;91505;Porta miolo madeira, acabamento em MDF c/ ferragens de abrir;M2;272,71
+001.10.01.22;91506;Porta miolo madeira, acabamento em MDF c/ ferragens de correr;M2;215,56
+001.10.02;;--> FERRO:;;
+001.10.02.01;90069;Esquadria de ferro tipo basculante (incl. pint. anti-corrosiva);M2;246,4
+001.10.02.02;90071;"Grade de ferro 1/2"" (incl. pint. anti-corrosiva)";M2;199,54
+001.10.02.03;90621;"Grade de ferro 3/4"" (incl. pint. anti-corrosiva)";M2;369,54
+001.10.02.04;90400;"Grade de ferro 5/8"" (incl. pint. anti-corrosiva)";M2;309,54
+001.10.02.05;90619;"Grade de ferro 7/8"" (incl. pint. anti-corrosiva)";M2;389,54
+001.10.02.06;90613;"Grade de ferro 7/8"" sec. quadrada espaçamento=10cm(incl. pint. anti-corrosiva)";M2;497,57
+001.10.02.07;90825;Grade de ferro em metalom  (incl. pint.anti-corrosiva);M2;256,54
+001.10.02.08;90402;Grade sanfonada (incl. pint. anti-corrosiva);M2;264,54
+001.10.02.09;90070;Porta de aço-esteira de enrolar c/ferr.(incl.pint.anti-corrosiva);M2;355,54
+001.10.02.10;90068;"Portão de ferro 1/2"" c/ ferragens (incl. pint. anti-corrosiva)";M2;216,23
+001.10.02.11;90622;"Portão de ferro 3/4"" c/ ferragens (incl. pint. anti-corrosiva)";M2;393,23
+001.10.02.12;90399;"Portão de ferro 5/8"" c/ ferragens (incl. pint. anti-corrosiva)";M2;377,23
+001.10.02.13;90620;"Portão de ferro 7/8"" c/ ferragens (incl. pint. anti-corrosiva)";M2;409,23
+001.10.02.14;90822;Portão de ferro em metalom (incl. pintura anti corrosiva);M2;283,57
+001.10.02.15;91500;"Portão em grade c/ chapa de ferro 3/16"" - incl. ferragens e pintura antiferruginosa";M2;598,23
+001.10.02.16;90623;Portão tubo/tela arame galv.c/ferragens(incl.pint.anti-corrosiva);M2;451,23
+001.10.03;;--> OUTROS MATERIAIS:;;
+001.10.03.01;91515;Esquadria basculante em vidro temperado de 10mm;M2;456,33
+001.10.03.02;91517;Esquadria basculante em vidro temperado de 6mm;M2;311,15
+001.10.03.03;91516;Esquadria basculante em vidro temperado de 8mm;M2;390,18
+001.10.03.04;91381;Esquadria c/ venezianas de aluminio  anodizado preto c/ ferragens;M2;753,58
+001.10.03.05;91380;Esquadria c/ venezianas de aluminio  natural c/ ferragens;M2;663,58
+001.10.03.06;91376;Esquadria de alum.de correr c/ vidro e ferragens;M2;442,83
+001.10.03.07;91383;Esquadria de alumínio anodizado preto basculante c/ vidro e ferragens;M2;520
+001.10.03.08;91382;Esquadria de alumínio anodizado preto de correr c/ ferragens;M2;477,83
+001.10.03.09;91375;Esquadria de alumínio basculante c/vidro e ferragens;M2;494,83
+001.10.03.10;91514;Esquadria de correr em vidro temperado de 10mm;M2;440,33
+001.10.03.11;91511;Esquadria de correr em vidro temperado de 6mm;M2;330,08
+001.10.03.12;91512;Esquadria de correr em vidro temperado de 8mm;M2;368,93
+001.10.03.13;91513;Painel fixo em vidro temperado de 10mm;M2;421,33
+001.10.03.14;91509;Painel fixo em vidro temperado de 6mm;M2;311,08
+001.10.03.15;91510;Painel fixo em vidro temperado de 8mm;M2;349,93
+001.10.03.16;91518;Pele de vidro ( Painel fixo);M2;940,29
+001.10.03.17;91519;Pele de vidro (painel móvel);M2;1032,79
+001.10.03.18;91377;Porta divilux 0.80x2.10m c/ferragens - c/ perfil de aluminio;UN;325,52
+001.10.03.19;91378;Porta divisória Naval c/ ferragens - c/ perfil de aço;M2;274,42
+001.10.03.20;91508;Porta em MDF revestida com laminado, com caixilho,alizar e ferragens de 0,8x2,10m;UN;783,47
+001.10.03.21;90833;Porta em PVC 0.60 X 2.10 M;UN;136,28
+001.10.03.22;90834;Porta em PVC 0.70 X 2.10 M;UN;146,28
+001.10.03.23;91379;Porta em vidro temperado c/ ferragens -(sem mola);M2;470,52
+001.10.03.24;91464;Portas em MDF (sob bancadas);M2;203,14
+001.10.03.25;91507;Revestimento em Laminado melaminico (para Esquadria em MDF);M2;51,61
+001.11;;VIDROS;;
+001.11.01;161390;Vidro aramado;M2;250,28
+001.11.02;161385;Vidro canelado e=3mm;M2;79,88
+001.11.03;160202;Vidro fume e=4mm;M2;119,35
+001.11.04;161400;Vidro laminado 8mm (4+4mm);M2;563,14
+001.11.05;161384;Vidro laminado e=6mm (3+3mm);M2;357,88
+001.11.06;160155;Vidro liso e=4mm;M2;97,13
+001.11.07;160156;Vidro liso e=6mm;M2;144,38
+001.11.08;160157;Vidro martelado e=4mm;M2;86,63
+001.11.09;161389;Vidro temperado fume e= 6mm com ferragens;M2;180,28
+001.11.10;161387;Vidro temperado fumê e= 8mm com ferragens;M2;218,28
+001.11.11;161386;Vidro temperado fumê e=10mm com ferragens;M2;311,28
+001.11.12;161394;Vidro temperado fumê e=12mm com ferragens;M2;381,28
+001.11.13;161391;Vidro temperado incolor e= 6mm com ferragens;M2;176,28
+001.11.14;161392;Vidro temperado incolor e= 8mm com ferragens;M2;213,28
+001.11.15;161388;Vidro temperado incolor e=10mm com ferragens;M2;281,28
+001.11.16;161393;Vidro temperado incolor e=12mm com ferragens;M2;361,28
+001.12;;FERRAGENS:;;
+001.12.01;;--> P/ PORTAS:;;
+001.12.01.01;100816;Fechadura para porta de banheiro;UN;61,56
+001.12.01.02;100817;Fechadura para porta externa;UN;76,56
+001.12.01.03;100818;Fechadura para porta interna;UN;62,96
+001.12.01.04;100819;Fecho para janelas de correr (bico de papagaio);UN;20,05
+001.12.01.05;100228;Ferragens p/ porta de banheiro;CJ;112,77
+001.12.01.06;100226;Ferragens p/ porta externa 1 fl.;CJ;135,39
+001.12.01.07;100406;Ferragens p/ porta externa 2 fls. (c/ ferrolho);CJ;215,71
+001.12.01.08;100227;Ferragens p/ porta interna 1 fl.;CJ;114,17
+001.12.01.09;100405;Ferragens p/ porta interna 2 fls. (c/ ferrolho);CJ;229,6
+001.12.01.10;100821;Ferrolho para porta e janela (média);UN;21,05
+001.12.01.11;101274;Mola hidráulica para porta;UN;183,14
+001.12.01.12;101273;Mola p/ porta de vidro;UN;536,28
+001.12.01.13;101270;Puxador em alumínio - 30cm;UN;198,14
+001.12.01.14;101271;Puxador em alumínio - 50cm;UN;258,14
+001.12.01.15;101272;Puxador em alumínio - 80cm;UN;297,34
+001.12.02;;--> P/ JANELAS:;;
+001.12.02.01;100403;Ferragens p/ janela 1 fl. (c/ cremone);CJ;58,93
+001.12.02.02;100288;Ferragens p/ janela 1 fl. (c/ ferrolho);CJ;65,71
+001.12.02.03;100289;Ferragens p/ janela 2 fl. (c/ ferrolho);CJ;94,94
+001.12.02.04;100404;Ferragens p/ janela 2 fls. (c/ cremone);CJ;94,31
+001.12.02.05;100684;Ferragens p/ janela de correr;CJ;59,23
+001.12.02.06;100306;Ferragens p/ janela pivotante;CJ;44,31
+001.12.03;;--> P/ BALANCINS:;;
+001.12.03.01;100290;Ferragens p/ balancim (c/ corrente);CJ;34,88
+001.12.03.02;100407;Ferragens p/ balancim (c/ haste e punho em ferro);CJ;45,98
+001.12.03.03;100820;Ferrolho para balancim (targeta);UN;11,55
+001.12.03.04;100823;Gonzo;PAR;14,24
+001.12.03.05;100824;Haste/punho de ferro para balancim;UN;40,91
+001.13;;REVESTIMENTOS:;;
+001.13.01;110140;Argamassa de cimento e areia 1:2 p/ impermeabiliz.;M3;528,98
+001.13.02;110141;Argamassa de cimento e areia 1:4;M3;340,11
+001.13.03;110142;Argamassa de cimento e areia 1:6;M3;295,81
+001.13.04;110248;Argamassa de cimento e areia no traço 1:3;M3;457,78
+001.13.05;110764;Argamassa de cimento,areia e adit. plast. 1:6;M3;290,26
+001.13.06;110148;Azulejo branco assentado a prumo no traço 1:5:1;M2;58,88
+001.13.07;110552;Barra lisa c/argamassa de cimento areia e barro;M2;36,3
+001.13.08;110810;Cantoneira para azulejo (alumínio);M;6,04
+001.13.09;110146;Carapinha c/ argamassa no traço 1:4;M2;8,61
+001.13.10;110581;Cerâmica 10x10cm (padrao medio);M2;81,39
+001.13.11;110505;Cerâmica Terragres 10x10cm;M2;95,04
+001.13.12;110243;Chapa de chumbo sobre parede;M2;545,44
+001.13.13;110149;Chapa de chumbo sobre parede c/acabamento em fórmica;M2;616,99
+001.13.14;110143;Chapisco de cimento e areia no traço 1:3;M2;7,42
+001.13.15;110150;Compensado c/ formica sobre estrutura em madeira;M2;96,99
+001.13.16;110762;Emboço com argamassa 1:6:Adit. Plast.;M2;25,66
+001.13.17;110657;Fórmica sobre emboço;M2;59,1
+001.13.18;110826;Grampeamento de parede;M;24,27
+001.13.19;110653;Granito e=2cm;M2;292,84
+001.13.20;111292;Pastilha de porcelana 5x5cm - Padrão Alto;M2;185,15
+001.13.21;111291;Pastilha de porcelana 5x5cm - Padrão Médio;M2;153,65
+001.13.22;110189;Pastilhas de vidro 2,5x2,5cm;M2;253,4
+001.13.23;110255;Placa de argamassa armada;M2;122,85
+001.13.24;110763;Reboco com argamassa 1:6:Adit. Plast.;M2;30,12
+001.13.25;110245;Reboco com argamassa baritada;M2;162,86
+001.13.26;110249;Reboco com argamassa no traço 1:3 - p/ epoxi;M2;34,3
+001.13.27;110291;Reboco estanhado;M2;32,97
+001.13.28;110645;Revestimento Cerâmico Padrão Alto;M2;71,94
+001.13.29;110644;Revestimento Cerâmico Padrão Médio;M2;60,18
+001.14;;RODAPES, SOLEIRAS E PEITORIS:;;
+001.14.01;120481;Peitoril em marmore branco e=3cm;M2;382,1
+001.14.02;120164;Rodape ceramico h=8cm;M;10,45
+001.14.03;120688;Rodapé de alta resistência (incl. polimento);M;7,92
+001.14.04;120163;Rodape em cimentado;M;7,49
+001.14.05;120655;Rodape em granito e=2cm/h=8cm;M;33,65
+001.14.06;120162;Rodape em madeira de lei h=7cm;M;25,73
+001.14.07;120276;Rodape em paviflex;M;9,92
+001.14.08;120772;Rodapé em poliestireno de 12cm;M;40,64
+001.14.09;120771;Rodapé em poliestireno de 9cm;M;34,86
+001.14.10;120770;Rodape em Porcelanato;M;15
+001.14.11;120734;Soleira e peitoril - granito preto - e=2cm;M2;461,1
+001.14.12;120733;Soleira e Peitoril em granito (preto) c/ rebaixo e=3cm;M2;511,1
+001.14.13;120229;Soleira em cimentado h=15cm;M;5,71
+001.14.14;120165;Soleira em marmore branco e=2cm;M2;382,1
+001.14.15;120204;Soleira em marmore de cor e=2cm;M2;382,1
+001.15;;PISOS:;;
+001.15.01;130668;Ardosia;M2;63,83
+001.15.02;130492;Calçada (incl.alicerce, baldrame e concreto c/ junta seca);M2;81,3
+001.15.03;130507;Camada impermeabilizadora e=10cm c/ seixo;M2;42,97
+001.15.04;130111;Camada impermeabilizadora e=10cm c/pedra preta (incl. Sika 1);M2;44,27
+001.15.05;130110;Camada regularizadora no traço 1:4;M2;24,36
+001.15.06;130483;Carpete e=4mm;M2;40,82
+001.15.07;131026;Cerâmica anti-derrapante;M2;60,04
+001.15.08;130233;Cimentado liso c/ junta plastica;M2;39,54
+001.15.09;130208;Cimentado liso c/junta de madeira;M2;41,46
+001.15.10;130113;Cimentado liso e=2cm traço 1:3;M2;33,54
+001.15.11;130292;Cimentado queimado;M2;40,3
+001.15.12;130584;Concreto c/ seixo e junta seca e=10cm;M2;58,91
+001.15.13;130112;Concreto simples c/ seixo e=5cm traço 1:2:3;M2;44,65
+001.15.14;130206;Empedramento c/ pedra preta argamassada;M2;63,12
+001.15.15;130649;Granito Juparana e=2cm;M2;430,44
+001.15.16;130495;Granito preto e=2cm;M2;495,95
+001.15.17;130119;Lajota ceramica - PEI IV -  (Padrão Médio);M2;67,11
+001.15.18;130725;Lajota ceramica - PEI V -  (Padrão Alto);M2;76,67
+001.15.19;130506;Lajota ceramica - tipo Terragres;M2;84,54
+001.15.20;130118;Marmore branco e=3cm;M2;338,64
+001.15.21;130117;Marmore de cor e=3cm;M2;461,57
+001.15.22;130122;Paviflex - assente na cola;M2;67,04
+001.15.23;131090;Pedra Cariri - filete ou almofadada;M2;81,39
+001.15.24;130830;Pedra Jacobina;M2;107,58
+001.15.25;130831;Pedra natural Cariri;M2;68,81
+001.15.26;130667;Pedra S. Tome;M2;126,91
+001.15.27;130626;Piso de alta resistência e=8mm c/ resina incl. camada regularizadora;M2;79,17
+001.15.28;131289;Piso em granito branco Ártico;M2;444,95
+001.15.29;131290;Piso em granito cinza Mauá;M2;312,35
+001.15.30;131288;Piso em granito verde Ubatuba;M2;332,75
+001.15.31;130728;Piso Tátil direcional na cor amarelo 25x25 (16 unidades);M2;117,73
+001.15.32;130521;Placa pre-moldada concreto simples (e=5cm);M2;49,04
+001.15.33;130170;Plurigoma - assente na cola;M2;92,39
+001.15.34;130716;Porcelanato (natural) - Padrão Alto;M2;116,34
+001.15.35;130715;Porcelanato (natural) - Padrão Médio;M2;100,59
+001.15.36;130759;Porcelanato (polido) - Padrão Alto;M2;200,34
+001.15.37;130758;Porcelanato (polido) - Padrão Médio;M2;126,84
+001.15.38;130760;"Tábua macheada 6 1/2""x7/8"" cumaru ou similar (incl.camada regularizadora)";M2;166,37
+001.15.39;130123;"Tabua macheada 6 1/2""x7/8"" ipe ou jatoba (incl. camada regularizadora)";M2;227,27
+001.16;;FORROS:;;
+001.16.01;140348;Barroteamento em madeira de lei p/ forro PVC;M2;34,32
+001.16.02;141370;Cimalha de gesso h=10cm;M;22,26
+001.16.03;140811;Cimalha de madeira h=10cm;M;31,01
+001.16.04;141372;Forro colméia liso  ( incl. barroteamento);M2;492,56
+001.16.05;140198;Forro em estuque;M2;118,04
+001.16.06;141373;Forro em gesso acartonado aramado;M2;50,22
+001.16.07;141368;Forro em gesso acartonado estruturado;M2;61,89
+001.16.08;141369;Forro em gesso acustico (c/lã de vidro);M2;118,4
+001.16.09;141334;Forro em gesso liso;M2;37,52
+001.16.10;140159;Forro em lambri de angelim (c/ barroteamento);M2;115,1
+001.16.11;140828;Forro em lambri de angelim (s/ barroteamento);M2;83,56
+001.16.12;141336;Forro em lambri de PVC;M2;31,88
+001.16.13;140598;Forro em placa de fibrocimento c/ isolamento termico;M2;133,61
+001.16.14;140240;Forro em PVC 100mm entarugamento - metalico;M2;76,9
+001.16.15;140158;Forro em tabuas de marupa (c/ barroteamento);M2;74,88
+001.16.16;140829;Forro em tabuas de marupa (s/ barroteamento);M2;43,34
+001.16.17;140160;Forro eucatex natural e = 12mm;M2;91,93
+001.16.18;140479;Reguado em madeira lei p/ beiral (c/ barroteamento);M2;53,89
+001.17;;PINTURAS:;;
+001.17.01;;A BASE DE ÁGUA:;;
+001.17.01.01;150129;Emassamento de parede p/ receber pintura PVA;M2;7,63
+001.17.01.02;150605;PVA externa (sobre pintura antiga);M2;7,33
+001.17.01.03;150179;PVA externa c/ massa sem liq. preparador;M2;13,77
+001.17.01.04;150132;PVA externa c/massa e liq. preparador;M2;22,08
+001.17.01.05;150252;PVA externa sem massa c/ líq. preparador;M2;14,66
+001.17.01.06;150125;PVA externa sem superf. preparada;M2;9,55
+001.17.01.07;150604;PVA interna (sobre pintura antiga);M2;6,93
+001.17.01.08;150730;PVA interna c/ massa acrilica e selador;M2;22,68
+001.17.01.09;150731;PVA interna c/ massa acrilica sem selador;M2;15,02
+001.17.01.10;150251;PVA interna c/ massa e selador;M2;20,74
+001.17.01.11;150178;PVA interna c/ massa sem selador;M2;13,08
+001.17.01.12;150261;PVA interna sem massa c/ selador;M2;13,11
+001.17.01.13;150124;PVA interna sem superf. preparada;M2;9,05
+001.17.01.14;150654;PVA sobre muro;M2;6,02
+001.17.02;;A BASE DE ÓLEO:;;
+001.17.02.01;150128;Emassamento de parede p/ receber pintura  a oleo;M2;9,87
+001.17.02.02;150192;Óleo sobre ferro (superf.aparelhada);M2;25,84
+001.17.02.03;150490;Óleo sobre grade de ferro (superf. aparelhada);M2;36
+001.17.02.04;150271;Óleo sobre madeira c/ massa e selador;M2;29,14
+001.17.02.05;150587;Óleo sobre madeira c/ selador sem massa;M2;17,1
+001.17.02.06;150191;Óleo sobre parede c/ massa e selador;M2;26,14
+001.17.02.07;150199;Óleo sobre parede sem massa c/ selador;M2;16,54
+001.17.03;;ESMALTE:;;
+001.17.03.01;150302;Esmalte s/ ferro (superf. lisa);M2;25,52
+001.17.03.02;150377;Esmalte s/ madeira c/ selador sem massa;M2;17,14
+001.17.03.03;150301;Esmalte s/ parede c/ massa e selador;M2;25,76
+001.17.03.04;150491;Esmalte sobre grade de ferro (superf. aparelhada);M2;35,52
+001.17.03.05;150134;Esmalte sobre madeira c/ massa e selador;M2;28,79
+001.17.03.06;150588;Esmalte sobre parede c/ selador sem massa;M2;16,14
+001.17.04;;VERNIZ:;;
+001.17.04.01;150130;Verniz poliuretano sobre concreto/tijolo;M2;19,96
+001.17.04.02;150606;Verniz poliuretano sobre madeira (esquadrias/forro);M2;16,79
+001.17.04.03;150210;Verniz poliuretano sobre madeiramento do telhado;M2;22,8
+001.17.05;;ACRÍLICA:;;
+001.17.05.01;150741;Acrilica (sobre pintura antiga);M2;9,11
+001.17.05.02;151285;Acrílica acetinada c/ massa e selador - interna e externa;M2;29,72
+001.17.05.03;150180;Acrilica fosca int. e ext. sem massa c/ selador -;M2;17,36
+001.17.05.04;150480;Acrilica fosca int./ext. c/fdo. preparador 3 dem.(reforma)s/massa;M2;16,27
+001.17.05.05;150253;Acrilica fosca int./ext. c/massa e selador - 3 demaos;M2;28,47
+001.17.05.06;151284;Acrílica semi-brilho c/ massa e selador - interna e externa;M2;29,27
+001.17.05.07;150586;Emassamento de parede c/ massa acrilica;M2;14,93
+001.17.06;;EPOXI:;;
+001.17.06.01;150126;Epoxi com massa e selador;M2;61,56
+001.17.06.02;150127;Epoxi sem massa c/ selador;M2;57,61
+001.17.07;;OUTRAS PINTURAS:;;
+001.17.07.01;150207;Acrílica para piso;M2;12,62
+001.17.07.02;150131;Anti-ferruginosa;M2;24,13
+001.17.07.03;150489;Anti-ferruginosa sobre grade de ferro;M2;34,49
+001.17.07.04;150696;Automotiva sobre superficie metalica;M2;21,34
+001.17.07.05;150714;Liquibrilho;M2;11,18
+001.17.07.06;150286;Pintura s/ telha ceramica;M2;12,52
+001.17.07.07;150274;Selador s/ madeira;M2;16,37
+001.17.07.08;150752;Texturato rustico;M2;26,39
+001.17.07.09;151367;Tinta a base de silicato solúvel;M2;27,34
+001.17.07.10;150759;Tinta verde p/ quadro escolar;M2;23,2
+001.18;;INSTALAÇÕES ELÉTRICAS;;
+001.18.01;;QUADROS E CAIXAS:;;
+001.18.01.01;170883;Caixa Airstop p/ disjuntor bipolar de embutir até 50A;UN;43,31
+001.18.01.02;170870;"Caixa de aluminio 4""x2""";UN;11,86
+001.18.01.03;170873;"Caixa de F°G° 3""x3""";UN;3,41
+001.18.01.04;170874;"Caixa de F°G° 4""x4""";UN;5,25
+001.18.01.05;170871;Caixa de ferro octogonal;UN;5,37
+001.18.01.06;170872;Caixa de ferro sextavada fundo movel;UN;7,07
+001.18.01.07;170875;Caixa de inspeção em polipropileno - 15x15cm;UN;60,38
+001.18.01.08;170876;Caixa de inspeção em polipropileno - 30x40cm;UN;65,38
+001.18.01.09;170323;Caixa de passagem ch. aço 100x100x80mm;UN;24,77
+001.18.01.10;170324;Caixa de passagem ch. aço 150x150x80mm;UN;41,2
+001.18.01.11;170325;Caixa de passagem ch. aço 200x200x100mm;UN;67,85
+001.18.01.12;170877;Caixa de passagem em aluminio 100x100x70mm;UN;34,09
+001.18.01.13;170341;Caixa de passagem em alumínio 150x150x100mm;UN;54,79
+001.18.01.14;170878;Caixa de passagem em aluminio 200x200x115mm;UN;90,86
+001.18.01.15;170879;Caixa de passagem em aluminio 300x300x130mm;UN;211,61
+001.18.01.16;170880;Caixa de passagem em aluminio 400x400x180mm;UN;366,61
+001.18.01.17;170881;"Caixa plástica 4""x2""";UN;2,19
+001.18.01.18;171416;"Caixa plástica 4""x4""";UN;3,18
+001.18.01.19;171417;Caixa plástica octogonal;UN;4,5
+001.18.01.20;170882;Caixa polifásica padrão Celpa;UN;161,07
+001.18.01.21;171470;Caixa ZB - inspeção c/ tampa de aço;UN;82,29
+001.18.01.22;170866;Centro de distribuição p/ 03 disjuntores (s/ barramento);UN;32,61
+001.18.01.23;170884;Centro de distribuição p/ 06 disjuntores (s/ barramento);UN;73,76
+001.18.01.24;170885;Centro de distribuição p/ 08 disjuntores (s/ barramento);UN;73,76
+001.18.01.25;170886;Centro de distribuição p/ 10 disjuntores (s/ barramento);UN;101,06
+001.18.01.26;170321;Centro de distribuiçao p/ 12 disjuntores (c/ barramento);UN;372,46
+001.18.01.27;170887;Centro de distribuição p/ 16 disjuntores (c/ barramento);UN;377,55
+001.18.01.28;170888;Centro de distribuição p/ 20 disjuntores (c/ barramento);UN;492,72
+001.18.01.29;170322;Centro de distribuiçao p/ 24 disjuntores (c/ barramento);UN;490,84
+001.18.01.30;170386;Centro de distribuiçao p/ 32 disjuntores (c/ barramento);UN;542,4
+001.18.01.31;170889;Centro de distribuição p/ 36 disjuntores  (c/ barramento);UN;726,34
+001.18.01.32;170387;Centro de distribuiçao p/ 40 disjuntores (c/ barramento);UN;708,37
+001.18.01.33;170890;Centro de distribuição p/ 70 disjuntores (c/ barramento);UN;1859,08
+001.18.01.34;170891;Chave blindada 3P-100A;UN;782,64
+001.18.01.35;170869;Quadro de comando - proteção trifásico - 2CV;UN;516,08
+001.18.01.36;170868;Quadro de comando - proteção trifásico - 3CV;UN;546,08
+001.18.01.37;170867;Quadro de comando - proteção trifásico - 4CV;UN;766,08
+001.18.01.38;170073;Quadro de mediçao bifasico (c/ disjuntor);UN;389,81
+001.18.01.39;170072;Quadro de mediçao monofasico (c/ disjuntor);UN;230,16
+001.18.01.40;170615;Quadro de mediçao trifasico (c/ disjuntor);UN;550,27
+001.18.02;;DISJUNTORES:;;
+001.18.02.01;170892;Disjuntor 10 DR 2P- 25A 10 mA - PADRÃO DIN;UN;131,98
+001.18.02.02;170893;Disjuntor 10 DR 4P- 25A 10 mA - PADRÃO DIN;UN;151,05
+001.18.02.03;170326;Disjuntor 1P - 10 a 30A - PADRÃO DIN;UN;14,42
+001.18.02.04;170330;Disjuntor 1P - 40 e 50A - PADRÃO DIN;UN;16,69
+001.18.02.05;170362;Disjuntor 2P - 15 a 50A - PADRÃO DIN;UN;49,49
+001.18.02.06;170388;Disjuntor 3P - 15 a 50A - PADRÃO DIN;UN;70,34
+001.18.02.07;170897;Disjuntor 3P - 175A - PADRÃO DIN;UN;1013,76
+001.18.02.08;170898;Disjuntor 3P - 200A - PADRÃO DIN;UN;1013,76
+001.18.02.09;170899;Disjuntor 3P - 250A - PADRÃO DIN;UN;1050,76
+001.18.02.10;170894;Disjuntor 3P - 300A;UN;1880,76
+001.18.02.11;170895;Disjuntor 3P - 400A;UN;1880,76
+001.18.02.12;170393;Disjuntor 3P - 60 a 100A - PADRÃO DIN;UN;160,66
+001.18.02.13;170896;Disjuntor 3P - 600A;UN;3020,76
+001.18.02.14;170900;Disjuntor UL 3P - 125A a 225A - PADRÃO DIN;UN;285,72
+001.18.03;;ELETRODUTOS,CONDULETES E CALHAS:;;
+001.18.03.01;170922;Canaleta 20x20mm;M;8,82
+001.18.03.02;170923;Canaleta sistema X completa;M;10,18
+001.18.03.03;170914;"Condulete de aluminio tipo C 1/2""";UN;8,21
+001.18.03.04;170915;"Condulete de aluminio tipo C 3/4""";UN;8,77
+001.18.03.05;170916;"Condulete de aluminio tipo E 1""";UN;11,47
+001.18.03.06;170917;"Condulete de aluminio tipo E 1/2""";UN;9,37
+001.18.03.07;170918;"Condulete de aluminio tipo E 3/4""";UN;9,37
+001.18.03.08;170919;"Condulete de aluminio tipo L 1.1/4""";UN;22,76
+001.18.03.09;170920;"Condulete de aluminio tipo L 3/4""";UN;7,5
+001.18.03.10;170921;"Condulete de aluminio tipo LL 1""";UN;11,77
+001.18.03.11;170901;"Condulete de aluminio tipo LL 1/2""";UN;7,78
+001.18.03.12;170902;"Condulete de aluminio tipo LL 3/4""";UN;7,5
+001.18.03.13;170903;"Condulete de aluminio tipo LR 1""";UN;11,77
+001.18.03.14;170904;"Condulete de aluminio tipo LR 1/2""";UN;7,16
+001.18.03.15;170905;"Condulete de aluminio tipo LR 3/4""";UN;7,5
+001.18.03.16;170907;"Condulete de aluminio tipo T 1""";UN;11,71
+001.18.03.17;170908;"Condulete de aluminio tipo T 1/2""";UN;9,44
+001.18.03.18;170906;"Condulete de aluminio tipo T 11/4""";UN;25,68
+001.18.03.19;170909;"Condulete de aluminio tipo T 3/4""";UN;7,72
+001.18.03.20;170910;"Condulete de aluminio tipo X 1""";UN;16,97
+001.18.03.21;170911;"Condulete de aluminio tipo X 1/2""";UN;11,06
+001.18.03.22;170912;"Condulete de aluminio tipo X 3/4""";UN;14,97
+001.18.03.23;170913;"Eletrocalha de metal curve ""L"" desc tipo ""U"" perf. 100 - 3m";UN;75,11
+001.18.03.24;170924;"Eletrocalha de metal curve ""L"" desc tipo ""U"" perf. 50 - 3m";UN;47,68
+001.18.03.25;170925;"Eletrocalha de metal curve ""L"" desc tipo ""U"" perf. 75 - 3m";UN;72,07
+001.18.03.26;170926;"Eletrocalha de metal curve ""T""  tipo ""U"" perf. 100 - 3m";UN;50,61
+001.18.03.27;170927;"Eletrocalha de metal curve ""T""  tipo ""U"" perf. 50 - 3m";UN;38,91
+001.18.03.28;170928;"Eletrocalha de metal curve ""T""  tipo ""U"" perf. 75 - 3m";UN;44,41
+001.18.03.29;170929;"Eletrocalha de metal curve ""U""perf. 100x75  - 3m";UN;92,91
+001.18.03.30;170930;"Eletrocalha de metal curve ""U""perf. 50x100  - 3m";UN;62,91
+001.18.03.31;170931;"Eletrocalha de metal curve ""U""perf. 50x50  - 3m";UN;53,91
+001.18.03.32;171019;"Eletroduto de F°G° de 1 1/2""";M;28,9
+001.18.03.33;171018;"Eletroduto de F°G° de 1 1/4""";M;26,73
+001.18.03.34;171017;"Eletroduto de F°G° de 1""";M;19,89
+001.18.03.35;171091;"Eletroduto de F°G° de 1/2""";M;10,4
+001.18.03.36;171021;"Eletroduto de F°G° de 2 1/2""";M;60,71
+001.18.03.37;171020;"Eletroduto de F°G° de 2""";M;61,45
+001.18.03.38;171022;"Eletroduto de F°G° de 3""";M;75,78
+001.18.03.39;171092;"Eletroduto de F°G° de 3/4""";M;13,48
+001.18.03.40;170932;"Eletroduto de F°G° de 4""";M;141,55
+001.18.03.41;170631;"Eletroduto PVC de 1 1/2""";M;14,49
+001.18.03.42;170632;"Eletroduto PVC de 1 1/4""";M;13,05
+001.18.03.43;170078;"Eletroduto PVC de 1""";M;7,76
+001.18.03.44;170075;"Eletroduto PVC de 1/2""";M;5,43
+001.18.03.45;170074;"Eletroduto PVC de 2 1/2""";M;26,01
+001.18.03.46;170630;"Eletroduto PVC de 2""";M;16,86
+001.18.03.47;170077;"Eletroduto PVC de 3""";M;31,61
+001.18.03.48;170076;"Eletroduto PVC de 3/4""";M;6,34
+001.18.03.49;170727;"Eletroduto PVC de 4""";M;45,85
+001.18.04;;CABOS:;;
+001.18.04.01;170947;Cabo coaxial 75 Homs 200 Mhz (TV);M;2,28
+001.18.04.02;170944;Cabo de aluminio - 2 AWG sem alma de aço;M;3,14
+001.18.04.03;170945;Cabo de aluminio 2 AWG c/ alma de aço;KG;36,15
+001.18.04.04;170742;Cabo de cobre   1,5mm2 - 1 KV;M;4,15
+001.18.04.05;170298;Cabo de cobre   1,5mm2 - 750 V;M;3,44
+001.18.04.06;170743;Cabo de cobre   2,5mm2 - 1 KV;M;5,52
+001.18.04.07;170418;Cabo de cobre   2,5mm2 - 750 V;M;4,02
+001.18.04.08;170744;Cabo de cobre   4mm2 - 1 KV;M;6,41
+001.18.04.09;170317;Cabo de cobre   4mm2 - 750 V;M;5,06
+001.18.04.10;170745;Cabo de cobre   6mm2 - 1  KV;M;7,22
+001.18.04.11;170318;Cabo de cobre   6mm2 - 750 V;M;6,23
+001.18.04.12;170746;Cabo de cobre  10mm2 - 1 KV;M;9,72
+001.18.04.13;170319;Cabo de cobre  10mm2 - 750 V;M;8,56
+001.18.04.14;170747;Cabo de cobre  16mm2 - 1 KV;M;12,29
+001.18.04.15;170320;Cabo de cobre  16mm2 - 750 V;M;11,7
+001.18.04.16;170748;Cabo de cobre  25mm2 - 1KV;M;17,08
+001.18.04.17;170358;Cabo de cobre  25mm2 - 750 V;M;16,39
+001.18.04.18;170749;Cabo de cobre  35mm2 - 1 KV;M;22,3
+001.18.04.19;170359;Cabo de cobre  35mm2 - 750 V;M;20,99
+001.18.04.20;170750;Cabo de cobre  50mm2 - 1 KV;M;29,85
+001.18.04.21;170360;Cabo de cobre  50mm2 - 750 V;M;28,14
+001.18.04.22;170751;Cabo de cobre  70mm2 - 1 KV;M;40,94
+001.18.04.23;170361;Cabo de cobre  70mm2 - 750 V;M;39,17
+001.18.04.24;170933;Cabo de cobre  95 mm² - 1 KV;M;55,81
+001.18.04.25;171269;Cabo de cobre  95mm2 - 750V;M;47,55
+001.18.04.26;170934;Cabo de cobre 120 mm² - 1 KV;M;63,76
+001.18.04.27;170935;Cabo de cobre 150 mm² - 1 KV;M;85,03
+001.18.04.28;170936;Cabo de cobre 185 mm² - 1 KV;M;106,45
+001.18.04.29;170937;Cabo de cobre 240 mm2 - 1 KV;M;152,77
+001.18.04.30;171270;Cabo de cobre nú 16mm²;M;10,16
+001.18.04.31;171271;Cabo de cobre nú 25mm²;M;14,07
+001.18.04.32;171272;Cabo de cobre nú 35mm²;M;18,97
+001.18.04.33;171273;Cabo de cobre nú 50mm²;M;27,26
+001.18.04.34;171274;Cabo de cobre nú 70mm²;M;40,6
+001.18.04.35;171275;Cabo de cobre nú 95mm²;M;48,8
+001.18.04.36;170938;Cabo multiplex 3 x 10mm²;M;5,42
+001.18.04.37;170939;Cabo multiplex 4 x 10mm²;M;7,54
+001.18.04.38;170940;Cabo multiplex 4 x 16mm²;M;9,31
+001.18.04.39;170941;Cabo multiplex 4 x 25mm²;M;13,15
+001.18.04.40;170942;Cabo multiplex 4 x 35mm²;M;17,91
+001.18.04.41;170943;Cabo multiplex 4 x 70mm²;M;32,79
+001.18.05;;PONTOS, TOMADAS E INTERRUPTORES:;;
+001.18.05.01;171519;Campainha/Cigarra (sem fiação);UN;33,45
+001.18.05.02;171521;Controlador de ventilador;UN;54,42
+001.18.05.03;170961;Ignitor p/ lâmpada vapor de sódio;UN;38,76
+001.18.05.04;170333;Interruptor 1 tecla paralelo (s/fiaçao);UN;14,72
+001.18.05.05;170332;Interruptor 1 tecla simples (s/fiaçao);UN;11,02
+001.18.05.06;170337;Interruptor 1 tecla+tomada (s/fiaçao);UN;23,72
+001.18.05.07;170964;Interruptor 2 teclas +Tomada 2P +T (s/fiação);UN;31,43
+001.18.05.08;170336;Interruptor 2 teclas paralelo (s/fiaçao);UN;25,92
+001.18.05.09;170334;Interruptor 2 teclas simples (s/fiaçao);UN;20,57
+001.18.05.10;170335;Interruptor 2 teclas simples+paralelo (s/fiaçao);UN;24,02
+001.18.05.11;170963;Interruptor 3 teclas paralelo (s/fiação);UN;30,93
+001.18.05.12;170338;Interruptor 3 teclas simples (s/fiaçao);UN;29,43
+001.18.05.13;171418;Interruptor diferencial residual 4P-40A-300mA.;UN;175,15
+001.18.05.14;170960;Minuteria com pulsador;UN;99,52
+001.18.05.15;170309;Ponto de antena p/ radio e TV (c/ fiaçao);Pt;112,38
+001.18.05.16;170701;Ponto de força (tubul., fiaçao e disjuntor) acima de 200W;Pt;310,11
+001.18.05.17;170081;Ponto de luz / força (c/tubul., cx. e fiaçao) ate 200W;Pt;151,13
+001.18.05.18;170398;Ponto p/ campainha /cigarra (com tubul. Cx. e fiação);Pt;134,25
+001.18.05.19;170692;Ponto p/ ventilador de teto (c/ fiaçao);Pt;70,53
+001.18.05.20;170962;Pulsador de campainha 10A (sem fiação);UN;25,42
+001.18.05.21;171491;Revisão de ponto de luz;Pt;60,45
+001.18.05.22;170952;"Tampa cega 3""x3"" plástica";UN;8,15
+001.18.05.23;170948;"Tampa cega 4""x2"" metálica";UN;12,15
+001.18.05.24;170950;"Tampa cega 4""x2"" plástica";UN;7,15
+001.18.05.25;170951;"Tampa cega 4""x4"" plástica";UN;9,05
+001.18.05.26;170949;"Tampa cega 4x4"" metálica";UN;16,65
+001.18.05.27;170953;Tampa de pressão para perfilado 38mm - 3m;Pç;15,05
+001.18.05.28;170958;Tomada  sistema X completa;UN;28,61
+001.18.05.29;170959;"Tomada  terminal de TV coaxial 4""x2""- 2 pontos";UN;34,61
+001.18.05.30;170339;Tomada 2P+T 10A (s/fiaçao);UN;14,46
+001.18.05.31;171523;Tomada 2P+T 20A (s/fiaçao);UN;18,02
+001.18.05.32;170955;Tomada 3P+T 63A/220V;UN;160,61
+001.18.05.33;170956;"Tomada de piso 3P+T - 4""x2""";UN;45,61
+001.18.05.34;171522;Tomadas 2 (2P+T) 10A (s/fiação);UN;26,62
+001.18.05.35;171520;Tomadas 2 (2P+T) 20A (s/fiação);UN;28,62
+001.18.06;;LUMINÁRIAS:;;
+001.18.06.01;170371;Conjunto ilum. tipo petala c/1 lamp. v. mercurio/poste de aço;UN;1783,48
+001.18.06.02;170372;Conjunto ilum. tipo petala c/2 lamp. v. mercurio/poste de aço;UN;1941,5
+001.18.06.03;170993;Holofote - 300W (Cônico);UN;191,52
+001.18.06.04;171527;Lâmpada de Led Tubular 10W bivolt;UN;27,34
+001.18.06.05;171528;Lâmpada de Led Tubular 18W bivolt;UN;39,5
+001.18.06.06;170997;Lâmpada fluorescente 100W 127V/220V;UN;16,24
+001.18.06.07;170998;Lâmpada fluorescente com reator acoplado (PLL)15W -127V/220V;UN;18,15
+001.18.06.08;170999;Lâmpada fluorescente com reator acoplado (PLL)20W -127V/220V;UN;18,15
+001.18.06.09;171000;Lâmpada fluorescente com reator acoplado (PLL)48W -127V/220V;UN;42,15
+001.18.06.10;170996;Lâmpada Halogena 100W 127V/220V;UN;8,24
+001.18.06.11;170995;Lâmpada Halogena 150W 127V/220V;UN;11,94
+001.18.06.12;171001;Lâmpada Halogena tipo par 20  50W 127V/220V;UN;13,67
+001.18.06.13;170994;Lâmpada incandescente 100W-127V/220V;UN;6,24
+001.18.06.14;171002;Lâmpada mista 160W -E27;UN;21,24
+001.18.06.15;171003;Lâmpada mista 250W -E27;UN;31,2
+001.18.06.16;171004;Lâmpada mista 500W -E40;UN;57,49
+001.18.06.17;171007;Lâmpada vapor de merc. 125W;UN;18,24
+001.18.06.18;171005;Lâmpada vapor de merc. 250W;UN;30,58
+001.18.06.19;171006;Lâmpada vapor de merc. 400W;UN;35,74
+001.18.06.20;171010;Lâmpada vapor de sódio  80W;UN;24,04
+001.18.06.21;171008;Lâmpada vapor de sódio 250W;UN;42,21
+001.18.06.22;171009;Lâmpada vapor de sódio 350W;UN;42,21
+001.18.06.23;171011;Lâmpada vapor metálico 400W;UN;80,24
+001.18.06.24;171012;Lâmpada vapor metálico 70W;UN;51,24
+001.18.06.25;170978;Luminária  c/ lâmp de emergência;UN;49,76
+001.18.06.26;170977;Luminária  c/ lâmp mista até 250W;UN;91,14
+001.18.06.27;170979;Luminária  de facho aberto p/ lâmp vapor de mercúrio;UN;81,78
+001.18.06.28;170981;Luminária  p/ lâmp PLL de embutir;UN;90,1
+001.18.06.29;170980;Luminária  p/ lâmp PLL de sobrepor;UN;82,14
+001.18.06.30;170982;Luminária  pública simples;UN;158,28
+001.18.06.31;170983;Luminária  tipo arandela- casco de tartaruga;UN;69,14
+001.18.06.32;170984;Luminária  tipo arandela p/ lâmp incandescente;UN;51,14
+001.18.06.33;170985;Luminária  tipo refletor p/ lâmp vapor de sódio até 250W;UN;86,14
+001.18.06.34;170992;Luminária 2x16W  c/ aleta branca reflet aluminio;UN;166,14
+001.18.06.35;170976;Luminária 2x32W  c/ aleta branca reflet aluminio;UN;218,14
+001.18.06.36;171013;Luminária abalux - embutir(2x20W) - completa;UN;153,14
+001.18.06.37;171014;Luminária abalux - embutir(2x40W) - completa;UN;197,34
+001.18.06.38;171015;Luminária abalux - sobrepor (2x20W) - completa;UN;166,14
+001.18.06.39;171016;Luminária abalux - sobrepor (2x40W) - completa;UN;211,14
+001.18.06.40;170236;Luminaria c/ 02 lamp.fluor.16W-tubular (s/fiaçao);UN;107,28
+001.18.06.41;170237;Luminaria c/ 02 lamp.fluor.32W-tubular (s/fiaçao);UN;131,28
+001.18.06.42;170343;Luminaria c/ 04 lamp. fluorescentes 16W (sem fiaçao);UN;124,42
+001.18.06.43;170344;Luminaria c/ 04 lamp. fluorescentes 32W (sem fiaçao);UN;178,19
+001.18.06.44;170514;Luminaria c/ 1 lamp. fluorescente 16W (sem fiaçao);UN;76,02
+001.18.06.45;170515;Luminaria c/ 1 lamp. fluorescente 32W (sem fiaçao);UN;97,02
+001.18.06.46;170516;Luminaria c/ 2 lamp. fluorescentes 16W (sem fiaçao);UN;82,66
+001.18.06.47;170517;Luminaria c/ 2 lamp. fluorescentes 32W (sem fiaçao);UN;116,66
+001.18.06.48;171297;Luminária c/ lâmpada incandescente à prova de explosão;UN;101,02
+001.18.06.49;171529;Luminária de embutir com aletas e 2 lâmpadas de Led de 10W;UN;230,72
+001.18.06.50;171530;Luminária de embutir com aletas e 2 lâmpadas de Led de 18W;UN;249,04
+001.18.06.51;170778;Luminaria de embutir completa c/lamp. fluorescente1x16W;UN;104,8
+001.18.06.52;170780;Luminaria de embutir completa c/lamp. fluorescente1x32W;UN;152,02
+001.18.06.53;170779;Luminaria de embutir completa c/lamp. fluorescente2x16W;UN;145,66
+001.18.06.54;170781;Luminaria de embutir completa c/lamp. fluorescente2x32W;UN;202,01
+001.18.06.55;171531;Luminária de sobrepor com aletas e 2 lâmpadas de Led de 10W;UN;249,72
+001.18.06.56;171532;Luminária de sobrepor com aletas e 2 lâmpadas de Led de 18W;UN;274,04
+001.18.06.57;170583;Luminaria tipo globo c/ lamp. incandescente;UN;96,02
+001.18.06.58;170345;Luminaria tipo prato c/ lamp.incandescente (s/fiaçao);UN;80,02
+001.18.06.59;171282;Projetor c/ lâmpada vapor met. 1000W completo;UN;906,65
+001.18.06.60;170988;Projetor cônico - 300W;UN;69,76
+001.18.06.61;170990;Projetor retangular  E- 27/250W galvanizado;UN;66,76
+001.18.06.62;170991;Projetor retangular  E- 40/250W galvanizado;UN;69,76
+001.18.06.63;170989;Projetor retangular 400W;UN;75,76
+001.18.06.64;170965;Reator convecional de 40W;UN;49,61
+001.18.06.65;170966;Reator lâmp fluoresc 1x20W convecional;UN;49,61
+001.18.06.66;170967;Reator lâmp fluoresc 2x20W partida rápida;UN;49,61
+001.18.06.67;170968;Reator lâmp fluoresc 2x40W partida rápida;UN;48,61
+001.18.06.68;170970;Reator lâmp vapor de mercurio 125W;UN;66,71
+001.18.06.69;170973;Reator lâmp vapor de mercurio 250W;UN;81,61
+001.18.06.70;170969;Reator lâmp vapor de mercurio 400W;UN;124,19
+001.18.06.71;170971;Reator lâmp vapor de sódio 250W;UN;124,61
+001.18.06.72;170972;Reator lâmp vapor de sódio 400W;UN;143,61
+001.18.06.73;170974;Reator lâmp vapor metálico 400W;UN;123,61
+001.18.06.74;170975;Refletor aluminio c/ lâmp mista 250W E-27;UN;88,76
+001.18.06.75;170986;Refletor aluminio c/ lâmp mista 250W E-40;UN;91,81
+001.18.06.76;170987;Refletor aluminio c/ lâmp mista 500W;UN;108,1
+001.18.07;;ALIMENTAÇÃO, MEDIÇÃO, PROTEÇÃO E MOTORES:;;
+001.18.07.01;170470;Acessorios p/transformador em poste(incl.cabine de mediçao);UN;12137,77
+001.18.07.02;171039;Chave faca c/ fusível 3P - 30A -250V;UN;246,91
+001.18.07.03;171040;Chave faca HA 400A;UN;4723,08
+001.18.07.04;171041;Chave fusível de distribuição 15KV L 100A;UN;310,52
+001.18.07.05;171042;Chave magnética p/ motor de 5CV -3F-220V;UN;243,52
+001.18.07.06;171043;Chave reversora 3P-30A-220V;UN;152,52
+001.18.07.07;170381;Cordoalha de cobre nu - seçao 35 a 50mm2 - isoladores;M;40,78
+001.18.07.08;170382;Cordoalha de cobre nu - seçao 70 a 90mm2 - isoladores;M;65,86
+001.18.07.09;171037;Elo fusivel 10K;UN;4,82
+001.18.07.10;171038;Elo fusivel 15K;UN;5,48
+001.18.07.11;171036;Fusivel NH 300A a 630A;UN;73,76
+001.18.07.12;170501;Gerador 63KVA - 50HZ - 220/127V (c/ acessorios);UN;56982,34
+001.18.07.13;171468;Interruptor diferencial residual 20A/30mA-2P;UN;127,41
+001.18.07.14;171469;Interruptor diferencial residual 40A/30mA-4P;UN;160,88
+001.18.07.15;170380;Mastro simples de fo go p/ para-raio (c/ acessorios);UN;658,6
+001.18.07.16;170415;Mureta de mediçao em alv.c/laje em conc.(c=2.20/l=0.50/h=2.0m);UN;1896,81
+001.18.07.17;171028;Para raio de distribuição de tensão 15 KV;UN;230,76
+001.18.07.18;170378;Pára-Raio latao cromado tipo Franklin (s/acess.);UN;129,42
+001.18.07.19;170656;Poste concr.300-DN, h=11m(incl.base concr.ciclópico);UN;1323,09
+001.18.07.20;170624;Poste concr.600-DN, h=11m(incl.base concr.ciclópico);UN;1590,09
+001.18.07.21;171029;Poste de concreto circular 300 Dan h = 9m (incl. base em concreto ciclópico);UN;1123,09
+001.18.07.22;171030;Poste de concreto circular 600 Dan h = 9m  (incl. base em concreto ciclópico);UN;1423,09
+001.18.07.23;171031;Poste de concreto duplo T  300 Dan h = 9m  (incl. base em concreto ciclópico);UN;999,56
+001.18.07.24;171033;Poste de concreto duplo T 300 Dan h = 11m  (incl. base em concreto ciclópico);UN;1135,69
+001.18.07.25;171032;Poste de concreto duplo T 600 Dan h = 9m  (incl. base em concreto ciclópico);UN;1189,09
+001.18.07.26;170384;Poste de concreto p/ AT-BT incl.rede de distribuiçao h=11m;UN;3096,14
+001.18.07.27;171502;Poste em concreto 100 - DaN, h=7,0m (incl. base em concreto ciclópico);UN;808,09
+001.18.07.28;170625;Poste em fo.go. h=11m (incl.base concr.ciclópico);UN;1715,37
+001.18.07.29;171034;Proteção contra surto BT-CAT-8KA-127V;UN;66,68
+001.18.07.30;170694;Subestação aérea c/ transformador 112,5 KVA (incl.poste, acessorios e cabine de mediçao);UN;35857,39
+001.18.07.31;170695;Subestação aérea c/ transformador 150 KVA (incl.poste, acessorios e cabine de mediçao);UN;42650,39
+001.18.07.32;171395;Subestação aérea c/ transformador 225 KVA (incl.poste, acessorios e cabine de mediçao);UN;55742,36
+001.18.07.33;170677;Subestação aérea c/ transformador 45 KVA (incl.poste, acessorios e cabine de mediçao);UN;27777,16
+001.18.07.34;170693;Subestação aérea c/ transformador 75 KVA (incl.poste, acessorios e cabine de mediçao);UN;31079,54
+001.18.07.35;170354;Transformador de  45KVA-15KV-60HZ;UN;10415,22
+001.18.07.36;170356;Transformador de  75KVA-15KV-60HZ;UN;13564,98
+001.18.07.37;170357;Transformador de 112,5.5KVA-15KV-60HZ;UN;16440,8
+001.18.07.38;170684;Transformador de 150KVA-15KV-60HZ;UN;20799,38
+001.18.07.39;171410;Transformador de 225KVA - 15KV-60HZ;UN;28338,04
+001.18.07.40;170383;Tubo PVC rigido diam. 50mm p/proteçao cordoalha;UN;74,42
+001.18.08;;ACESSÓRIOS E CONEXÕES (I);;
+001.18.08.01;171127;Bloco cook -50 pares;UN;165,27
+001.18.08.02;171126;Bloco terminal -50 pares;UN;49,61
+001.18.08.03;171128;Bocal com rabicho;UN;3,24
+001.18.08.04;171129;Bocal de louça E-27;UN;4,24
+001.18.08.05;171130;Bocal de louça E-40;UN;9,3
+001.18.08.06;171132;"Braçadeira tipo ""D' p/ elet de   1/2""";UN;1,65
+001.18.08.07;171135;"Braçadeira tipo ""D' p/ elet de   3/4""";UN;1,7
+001.18.08.08;171131;"Braçadeira tipo ""D' p/ elet de  1""";UN;1,84
+001.18.08.09;171133;"Braçadeira tipo ""D' p/ elet de  2""";UN;2,36
+001.18.08.10;171134;"Braçadeira tipo ""D' p/ elet de 2 1/2""";UN;3,21
+001.18.08.11;171136;"Braçadeira tipo chavite 1""";UN;1,68
+001.18.08.12;171118;Conector convencional 1x20 110V;UN;10,07
+001.18.08.13;171121;Conector de emenda para cabo  2,5 mm²;UN;3,64
+001.18.08.14;171124;Conector de emenda para cabo  4,0 mm²;UN;3,94
+001.18.08.15;171119;Conector de emenda para cabo 10 mm²;UN;4,24
+001.18.08.16;171120;Conector de emenda para cabo 16 mm²;UN;4,57
+001.18.08.17;171122;Conector de emenda para cabo 25 mm²;UN;5,24
+001.18.08.18;171123;Conector de emenda para cabo 35 mm²;UN;5,57
+001.18.08.19;171125;Conector de emenda para cabo 50 mm²;UN;7,54
+001.18.08.20;171107;Conector de emenda para cabo 70 mm²;UN;9,28
+001.18.08.21;171108;Conector de emenda para cabo 95 mm²;UN;13,69
+001.18.08.22;171116;Conector grampo paralelo de aluminio Cb 4 mm²;UN;7,07
+001.18.08.23;171109;"Conector para haste de aterramento de 3/4""";UN;5,24
+001.18.08.24;171110;"Conector para haste de aterramento de 5/8""";UN;4,79
+001.18.08.25;171111;Conector paralelo de aluminio 8 a 10;UN;9,39
+001.18.08.26;171117;Conector paralelo p/ cabo 4/0 AWG;UN;12,07
+001.18.08.27;171112;Conector prensa fios 10 a 20;UN;11,29
+001.18.08.28;171113;Conector TPF de 50mm²;UN;10,45
+001.18.08.29;171114;"Conjunto estaiamento 3m 2""";UN;264,52
+001.18.08.30;171115;Cruzeta de madeira 115x135x600mm;UN;211,52
+001.18.08.31;171263;"Curva  90° p/ elet. F°G°  2 1/2"" (IE)";UN;65,31
+001.18.08.32;171261;"Curva  90° p/ elet. F°G° 1/2"" (IE)";UN;13,31
+001.18.08.33;171262;"Curva  90° p/ elet. F°G° 2"" (IE)";UN;35,31
+001.18.08.34;171264;"Curva  90° p/ elet. F°G° 3"" (IE)";UN;93,31
+001.18.08.35;171265;"Curva  90° p/ elet. F°G° 4"" (IE)";UN;143,31
+001.18.08.36;171266;"Curva  90° p/ elet. PVC 1 1/2"" (IE)";UN;13,81
+001.18.08.37;171267;"Curva  90° p/ elet. PVC 1 1/4"" (IE)";UN;12,81
+001.18.08.38;171093;"Curva  90° p/ elet. PVC 2 1/2"" (IE)";UN;29,31
+001.18.08.39;171268;"Curva  90° p/ elet. PVC 2"" (IE)";UN;17,31
+001.18.08.40;171094;"Curva  90° p/ elet. PVC 3"" (IE)";UN;32,31
+001.18.08.41;171024;"Curva  90º p/ elet PVC 3/4"" (IE)";UN;10,4
+001.18.08.42;171025;"Curva  90º p/ elet. PVC 1"" (IE)";UN;11,61
+001.18.08.43;171023;"Curva  90º p/ elet. PVC 1/2"" (IE)";UN;10,27
+001.18.08.44;171097;"Curva 135° p/ elet. F°G° 1 1/4"" (IE)";UN;28,31
+001.18.08.45;171103;"Curva 135° p/ elet. F°G° 1"" (IE)";UN;13,71
+001.18.08.46;171098;"Curva 135° p/ elet. F°G° 1/2"" (IE)";UN;14,31
+001.18.08.47;171096;"Curva 135° p/ elet. F°G° 4"" (IE)";UN;219,31
+001.18.08.48;171100;"Curva 135° p/ elet. PVC 1 1/2"" (IE)";UN;23,31
+001.18.08.49;171101;"Curva 135° p/ elet. PVC 1 1/4"" (IE)";UN;18,31
+001.18.08.50;171099;"Curva 135° p/ elet. PVC 1"" (IE)";UN;13,61
+001.18.08.51;171102;"Curva 135° p/ elet. PVC 1/2"" (IE)";UN;10,81
+001.18.08.52;171104;"Curva 135° p/ elet. PVC 2 1/2"" (IE)";UN;25,37
+001.18.08.53;171105;"Curva 135° p/ elet. PVC 3"" (IE)";UN;48,68
+001.18.08.54;171106;"Curva 135° p/ elet. PVC 4"" (IE)";UN;51,45
+001.18.08.55;171044;"Luva p/ elet. F°G° de 1 1/2"" (IE)";UN;7,75
+001.18.08.56;171045;"Luva p/ elet. F°G° de 2 1/2"" (IE)";UN;12,97
+001.18.08.57;171046;"Luva p/ elet. F°G° de 4"" (IE)";UN;25,97
+001.18.08.58;171047;"Luva p/ elet. PVC de 1 1/2"" (IE)";UN;4,72
+001.18.08.59;171048;"Luva p/ elet. PVC de 1 1/4"" (IE)";UN;4,22
+001.18.08.60;171050;"Luva p/ elet. PVC de 2 1/2"" (IE)";UN;14,16
+001.18.08.61;171049;"Luva p/ elet. PVC de 2"" (IE)";UN;6,28
+001.18.08.62;171051;"Luva p/ elet. PVC de 4"" (IE)";UN;30,01
+001.18.08.63;171052;Manilha sapatilha galvanizada;UN;20,07
+001.18.08.64;171053;"Niple de F°G° de 1""";UN;5,87
+001.18.08.65;171054;"Niple de F°G° de 3/4""";UN;4,27
+001.18.08.66;171055;Perfilado perfurado 38x38m (3m);Pç;63,6
+001.18.08.67;171057;Regua de 04 tomadas;UN;45,76
+001.18.08.68;171056;Regua de 05 tomadas;UN;50,76
+001.18.08.69;171059;Rele fotoeletrico;UN;68,52
+001.18.08.70;171058;Relé para eletrodos (nível inferior/superior);UN;151,52
+001.18.08.71;171060;"Saída lateral p/ eletroduto 1""";UN;15,87
+001.18.08.72;171061;Sapata rápida de 4 furos p/ perfilado 38x38mm;UN;24,96
+001.18.08.73;171062;Sensor p/ porta automática (Montada);UN;200,84
+001.18.08.74;171063;Sinaleira de portão de entrada de veículos;UN;293,04
+001.18.08.75;171064;Sinaleira duplo com relé foeletrico p/ para-raio;UN;190,04
+001.18.08.76;171065;Suporte isolado c/ braçadeira p/ para raio;UN;27,76
+001.18.08.77;171066;Suporte isolador simples;UN;33,12
+001.18.08.78;171067;Suporte p/ lâmpada fluorescente;PAR;5,18
+001.18.08.79;171068;Suporte para eletrocalhas;UN;31,26
+001.18.08.80;171069;Suporte para transformador em poste de concreto 195mm;UN;143,82
+001.18.08.81;171070;Supressor contra surto CLAMPER 45KA;UN;95,66
+001.18.08.82;171073;Terminal de compressão em latão  25mm²;UN;3,05
+001.18.08.83;171074;Terminal de compressão em latão  35mm²;UN;3,61
+001.18.08.84;171075;Terminal de compressão em latão  50mm²;UN;4,47
+001.18.08.85;171076;Terminal de compressão em latão  60mm²;UN;4,76
+001.18.08.86;171077;Terminal de compressão em latão  70mm²;UN;5,48
+001.18.08.87;171078;Terminal de compressão em latão  95mm²;UN;6,46
+001.18.08.88;171072;Terminal de compressão em latão 10mm²;UN;2,38
+001.18.08.89;171071;Terminal de compressão em latão 16mm²;UN;2,65
+001.18.08.90;171079;Terminal de compressão em latão 185mm²;UN;13
+001.18.08.91;171080;Terminal sindal 6 mm²;UN;11,66
+001.18.08.92;171081;Transformador de corrente 400/5A;UN;243,52
+001.18.08.93;171083;Voltimetro 96x96mm -300V;UN;288,52
+001.18.09;;ACESSÓRIOS E CONEXÕES (II);;
+001.18.09.01;171137;Alça preformada para cabo de alumínio 2AWG;UN;13,27
+001.18.09.02;171138;Armação secundária de 03 estribos c/ isolador;UN;50,38
+001.18.09.03;171139;Armação secundária de 04 estribos c/ isolador;UN;66,38
+001.18.09.04;171140;"Armação secundária pesada 3/16"" de 3x3";UN;50,38
+001.18.09.05;171141;"Barra rosqueada (3m) 1/4""";UN;9,18
+001.18.09.06;171142;"Barra rosqueada (3m) 3/8""";UN;19,7
+001.18.09.07;171143;"Base para mastro 1 1/2""";UN;71,76
+001.18.09.08;171144;Base para relé fotoelétrico;UN;7,83
+001.18.09.09;171411;"Braçadeira metálica tipo ""D"" c/ cunha Ø 3/4""";UN;1,61
+001.18.09.10;171145;"Braçadeira tipo chavite  1/2""";UN;1,6
+001.18.09.11;171146;"Braçadeira tipo chavite  3/4""";UN;1,61
+001.18.09.12;171147;Braçadeira tipo cunha c/ parafuso;UN;2,24
+001.18.09.13;171300;"Bucha e arruela de alumínio de     1/2""";UN;1,38
+001.18.09.14;171301;"Bucha e arruela de alumínio de     3/4""";UN;1,04
+001.18.09.15;171303;"Bucha e arruela de alumínio de    1""";UN;1,43
+001.18.09.16;171305;"Bucha e arruela de alumínio de   1 1/4""";UN;1,84
+001.18.09.17;171306;"Bucha e arruela de alumínio de  1 1/2""";UN;2,21
+001.18.09.18;171304;"Bucha e arruela de alumínio de  2""";UN;3,5
+001.18.09.19;171455;"Bucha e arruela de alumínio de 2 1/2""";UN;5,91
+001.18.09.20;171456;"Bucha e arruela de alumínio de 3""";UN;6,31
+001.18.09.21;171148;"Bucha e arruela de aluminio de 4""";UN;9,52
+001.18.09.22;171149;Bucha para redução de elet. 50 mm/32mm;UN;12,21
+001.18.09.23;171276;Cantoneira ZZ;UN;4,6
+001.18.09.24;171150;Capacitor 10 Microfarad 250V;UN;36,61
+001.18.09.25;171151;Capacitor 20 Microfarad 250V;UN;36,61
+001.18.09.26;171152;Cinta de poste circular 150 mm;UN;28,21
+001.18.09.27;171153;Cinta de poste circular 160 mm;UN;28,88
+001.18.09.28;171154;Cinta de poste circular 170 mm;UN;36,08
+001.18.09.29;171155;Cinta de poste circular 180 mm;UN;36,77
+001.18.09.30;171156;Cinta de poste circular 220 mm;UN;43,48
+001.18.09.31;171157;Cinta de poste circular 240 mm;UN;43,61
+001.18.09.32;171158;Cinta de poste circular 250 mm;UN;45,36
+001.18.09.33;171496;Cruzeta em concreto (90x115x2400mm);UN;132,52
+001.18.09.34;171346;"Curva  90º p/ elet. FºGº 1 1/2"" (IE)";UN;27,31
+001.18.09.35;171347;"Curva  90º p/ elet. FºGº 1 1/4"" (IE)";UN;22,81
+001.18.09.36;171345;"Curva  90º p/ elet. FºGº 1"" (IE)";UN;16,07
+001.18.09.37;171344;"Curva  90º p/ elet. FºGº 3/4"" (IE)";UN;13,87
+001.18.09.38;171343;"Curva  90º p/ elet. PVC 4"" (IE)";UN;52,31
+001.18.09.39;171412;"Dailete múltiplo de alumínio tipo X - Ø 1""";UN;9,9
+001.18.09.40;171414;"Dailete múltiplo de alumínio tipo X - Ø 3/4""";UN;5,6
+001.18.09.41;171159;Grampo fixador de cabo Z-01;UN;3,81
+001.18.09.42;171160;Grampo fixador de cabo Z-02;UN;4,66
+001.18.09.43;171163;"Haste de Aço cobreada 3/4""x3m c/ conector";UN;94,78
+001.18.09.44;171164;"Haste de Aço cobreada 5/8""x2,40m c/ conector";UN;66,01
+001.18.09.45;171165;"Haste de Aço cobreada 5/8""x3,0m c/ conector";UN;70,37
+001.18.09.46;171161;"Haste de cobre p/ aterram. 3/4""x3m s/ conector";UN;93,78
+001.18.09.47;171166;Isolador de pino - completo 15 KV;UN;45,36
+001.18.09.48;171167;Isolador de pino - completo 34 KV;UN;185,38
+001.18.09.49;171168;Isolador disc bastão polim - completo 15 KV;UN;105,38
+001.18.09.50;171173;Isolador pilar porcelana 15KV;UN;87,38
+001.18.09.51;171174;Isolador pilar porcelana 34KV;UN;185,38
+001.18.09.52;171175;Isolador roldana 72x72;UN;14,52
+001.18.09.53;171176;Isolador tipo disco porcelana vitrificada 15KV;UN;56,58
+001.18.09.54;171177;Laço pré-formada para CB 2 AWG;UN;7,17
+001.18.09.55;171340;"Luva p/ elet. FºGº de 1 1/4"" (IE)";UN;6,2
+001.18.09.56;171339;"Luva p/ elet. FºGº de 1"" (IE)";UN;4,41
+001.18.09.57;171341;"Luva p/ elet. FºGº de 2"" (IE)";UN;8,46
+001.18.09.58;171342;"Luva p/ elet. FºGº de 3"" (IE)";UN;45,95
+001.18.09.59;171409;"Luva p/ elet. FºGº de 3/4"" (IE)";UN;3,91
+001.18.09.60;171406;"Luva p/ elet. PVC de 1"" (IE)";UN;3,46
+001.18.09.61;171408;"Luva p/ elet. PVC de 3"" (IE)";UN;16,97
+001.18.09.62;171405;"Luva p/ elet. PVC de 3/4"" (IE)";UN;2,9
+001.18.09.63;171407;"Luva p/ eletr. PVC de 1/2"" (IE)";UN;2,72
+001.18.09.64;171299;Ponto de solda exotérmica;Pt;25,92
+001.18.09.65;171419;Supressor de transientes tipo Varistor 20KA-175V.;UN;117,63
+001.18.09.66;171413;"Unidut múltiplo Ø 1""";UN;3,5
+001.18.09.67;171415;"Unidut múltiplo Ø 3/4""";UN;2,55
+001.19;;INSTALAÇÕES TELEFÔNICAS E LÓGICA:;;
+001.19.01;;QUADROS E CAIXAS:;;
+001.19.01.01;211193;Quadro telefonico (sobrepor) 20x20x15cm;UN;115,52
+001.19.01.02;211194;Quadro telefonico (sobrepor) 40x40x15cm;UN;229,52
+001.19.01.03;211195;Quadro telefonico (sobrepor) 60x60x15cm;UN;374,02
+001.19.01.04;211197;Quadro telefonico inter de distr.  20x20x12cm;UN;95,79
+001.19.01.05;211198;Quadro telefonico inter de distr.  40x40x12cm;UN;166,98
+001.19.01.06;211199;Quadro telefonico inter de distr.  60x60x12cm;UN;302,98
+001.19.01.07;211200;Quadro telefonico inter de distr.  80x80x12cm;UN;511,77
+001.19.01.08;211196;Quadro telefonico inter de distr. 120x120x12cm;UN;1024
+001.19.02;;CABOS E FIOS:;;
+001.19.02.01;211212;Cabo telefônico APL - 10 pares;M;4,84
+001.19.02.02;211202;Cabo telefônico APL -5 pares (40x5);M;1,94
+001.19.02.03;211203;Cabo telefônico APL -5 pares (50x5);M;2,98
+001.19.02.04;211205;Cabo telefônico CCI 50x10P;M;5,79
+001.19.02.05;211206;Cabo telefônico CCI 50x20P;M;8,59
+001.19.02.06;211207;Cabo telefônico CCI 50x2P;M;1,96
+001.19.02.07;211208;Cabo telefônico CCI 50x4P;M;2,99
+001.19.02.08;211209;Cabo telefônico CTP APL -40 x 10 pares;M;7,74
+001.19.02.09;211210;Cabo telefônico CTP APL -40 x 20 pares;M;8,16
+001.19.02.10;211211;Cabo telefônico FE -100;M;2,34
+001.19.02.11;211204;Cabo telefônico trançado 2x22AWG;M;2,24
+001.19.02.12;171180;Cabo UTP par trançado 04P 24 AWG Cat 6e;M;4,34
+001.19.02.13;211213;Fio telefônico FE - 100;M;2,45
+001.19.02.14;211214;Fio telefônico FI - 50;M;1,99
+001.19.03;;PONTOS:;;
+001.19.03.01;170690;Ponto de logica - UTP (c/ instalaçao aparente);Pt;364,44
+001.19.03.02;170683;Ponto de logica - UTP (incl. eletr.,cabo e conector);Pt;347,73
+001.19.03.03;170689;Ponto eletrico estabilizado (c/ instalaçao aparente);Pt;406,54
+001.19.03.04;170682;Ponto eletrico estabilizado (incl. eletr.,cx.,fiaçao e tomada);Pt;343,65
+001.19.03.05;210083;Ponto p/ telefone(c/eletroduto,cx.,fiaçao e tomada);Pt;78,77
+001.19.04;;TOMADAS:;;
+001.19.04.01;171184;Tampa espelho p/ RJ-45 de 02 saídas;UN;30,03
+001.19.04.02;171183;Tomada  RJ-45 de embutir em espelho;UN;29,11
+001.19.04.03;171181;Tomada femea RJ-11 completa;UN;34,71
+001.19.04.04;171182;Tomada femea RJ-45 completa;UN;48,51
+001.19.04.05;211201;Tomada padrão telefone (4Pinos);UN;31,61
+001.19.05;;ACESSÓRIOS:;;
+001.19.05.01;171186;Adapt Cable M8V Cat 5e 2,5m;UN;10,28
+001.19.05.02;171187;Adapt Cable M8V Cat 6e 2,5m;UN;13,48
+001.19.05.03;210079;"Interligaçao p/ telefone - conduite 3/4""";M;14,91
+001.19.05.04;171188;"Organizador horizontal de cabos fechado p/ CB 19"" 1 U/A";UN;46,26
+001.19.05.05;171189;Pacht cable M8V cat 5e 1,5m;UN;21,38
+001.19.05.06;171190;Pacht cable M8V cat 6e 1,5m;UN;40,38
+001.19.05.07;171191;Pacht panel 24 portas cat 5e;UN;488,88
+001.19.05.08;171192;Pacht panel 24 portas cat 6e;UN;1100,78
+001.19.05.09;211035;Protetor de surto para linha telefônica;UN;64,26
+001.19.05.10;171526;"Rack 19"" 570mm 36U";UN;2540,64
+001.19.05.11;171524;"Rack 19"" 570mm 40U";UN;2851,64
+001.19.05.12;171525;"Rack 19"" 570mm 44U";UN;3227,64
+001.19.05.13;171178;"Rack de 19"" 05 U/A";UN;673,04
+001.19.05.14;171179;"Rack de 24"" 05 U/A";UN;2116,08
+001.19.05.15;171185;Switch 24 portas;UN;871,66
+001.20;;INSTALAÇÕES DE AR CONDICIONADO:;;
+001.20.01;;PONTOS;;
+001.20.01.01;231335;Dreno para caixa ar condicionado de parede h=3,0m;UN;39,15
+001.20.01.02;231084;Ponto de dreno p/ split (10m);Pt;125,18
+001.20.01.03;231085;Ponto de gás p/ split até 30.000 BTU's (10m);Pt;733,32
+001.20.01.04;231086;Ponto de gás p/ split até 60.000 BTU's (10m);Pt;1151,76
+001.20.01.05;230262;Ponto p/ar condicionado(tubul.,cj.airstop e fiaçao);Pt;302,46
+001.20.01.06;230846;Revisão de ponto de ar condicionado;Pt;96,12
+001.20.02;;INTERRUPTORES;;
+001.20.02.01;231215;Conjunto Airstop de embutir completo;UN;52,38
+001.20.03;;APARELHOS;;
+001.20.03.01;231307;Aparelho Air-Split -  7.000 BTU's;UN;1375,12
+001.20.03.02;231308;Aparelho Air-Split -  9.000 BTU's;UN;1495,12
+001.20.03.03;231309;Aparelho Air-Split - 12.000 BTU's;UN;1698,26
+001.20.03.04;231310;Aparelho Air-Split - 18.000 BTU's;UN;2396,4
+001.20.03.05;231311;Aparelho Air-Split - 24.000 BTU's;UN;3011,54
+001.20.03.06;231312;Aparelho Air-Split - 30.000 BTU's;UN;4307,68
+001.20.03.07;231313;Aparelho Air-Split - 36.000 BTU's;UN;6251,82
+001.20.03.08;231314;Aparelho Air-Split - 48.000 BTU's;UN;7313,96
+001.20.03.09;231315;Aparelho Air-Split - 60.000 BTU's;UN;7745,1
+001.20.03.10;231316;Aparelho Air-Split - 80.000 BTU's;UN;9310,24
+001.21;;INSTALAÇÕES HIDR0SSANITÁRIAS:;;
+001.21.01;;AGUA FRIA: TUBOS,VÁLVULAS E REGISTROS;;
+001.21.01.01;180639;Automatico de nivel inferior e superior (c/ eletroduto e fiação);CJ;374,34
+001.21.01.02;180487;Cisterna em concreto armado cap= 7.500 lts.;UN;13147,04
+001.21.01.03;180299;Ponto de agua (incl. tubos e conexoes);Pt;282,26
+001.21.01.04;180798;"Registro de gaveta   1"" - Bruto";UN;61,37
+001.21.01.05;180802;"Registro de gaveta  1 1/4"" - Bruto";UN;83,17
+001.21.01.06;180799;"Registro de gaveta  2"" - Bruto";UN;135,49
+001.21.01.07;180803;"Registro de gaveta 2 1/2"" - Bruto";UN;296,13
+001.21.01.08;180800;"Registro de gaveta 3"" - Bruto";UN;444,28
+001.21.01.09;180801;"Registro de gaveta 4"" - Bruto";UN;759,45
+001.21.01.10;180440;"Registro de gaveta c/ canopla -    1/2""";UN;85,26
+001.21.01.11;180444;"Registro de gaveta c/ canopla -   1""";UN;95,7
+001.21.01.12;180441;"Registro de gaveta c/ canopla -   3/4""";UN;89,29
+001.21.01.13;180443;"Registro de gaveta c/ canopla -  1 1/4""";UN;140,47
+001.21.01.14;180442;"Registro de gaveta c/ canopla - 1 1/2""";UN;157,48
+001.21.01.15;180804;"Registro de gaveta c/ canopla 2""";UN;168,83
+001.21.01.16;180503;"Registro de gaveta s/ canopla -   1""";UN;75,3
+001.21.01.17;180095;"Registro de gaveta s/ canopla -  1/2""";UN;54,17
+001.21.01.18;180211;"Registro de gaveta s/ canopla -  3/4""";UN;54,83
+001.21.01.19;180504;"Registro de gaveta s/ canopla - 1 1/2""";UN;119,98
+001.21.01.20;180445;"Registro de pressao c/ canopla -  1/2""";UN;84,99
+001.21.01.21;180446;"Registro de pressao c/ canopla -  3/4""";UN;88,09
+001.21.01.22;180447;"Registro de pressao c/ canopla - 1""";UN;126,3
+001.21.01.23;180493;"Registro de pressao s/ canopla - 1/2""";UN;58,26
+001.21.01.24;180494;"Registro de pressao s/ canopla - 3/4""";UN;59,39
+001.21.01.25;180488;Reservatório em conc.armado cap=5000 l c/ moto-bomba 1/2 HP;UN;20135,66
+001.21.01.26;180460;Reservatório em fibra de vidro   500 L;UN;602,66
+001.21.01.27;180461;Reservatório em fibra de vidro  1.000 L;UN;742,85
+001.21.01.28;180836;Reservatório em fibra de vidro  1.500 L;UN;1180,54
+001.21.01.29;181504;Reservatório em fibra de vidro  3.000 L;UN;1368,58
+001.21.01.30;180837;Reservatório em fibra de vidro  5.000 L;UN;2549,5
+001.21.01.31;180838;Reservatório em fibra de vidro 10.000 L;UN;3878,47
+001.21.01.32;181503;Reservatório em fibra de vidro 12.000L;UN;4107,24
+001.21.01.33;180839;Reservatório em fibra de vidro 15.000 L;UN;6266,24
+001.21.01.34;180840;Reservatório em fibra de vidro 20.000 L;UN;7666,92
+001.21.01.35;180844;Revisão de ponto de água;Pt;84,68
+001.21.01.36;180108;Tubo em PVC - JS - 20mm (c/ rasgo na alvenaria)-LH;M;7,46
+001.21.01.37;180107;Tubo em PVC - JS - 25mm (c/ rasgo na alvenaria)-LH;M;8,92
+001.21.01.38;180106;Tubo em PVC - JS - 32mm (c/ rasgo na alvenaria)-LH;M;12,93
+001.21.01.39;180422;Tubo em PVC - JS - 40mm (c/ rasgo na alvenaria)-LH;M;17,89
+001.21.01.40;180423;Tubo em PVC - JS - 50mm (c/ rasgo na alvenaria)-LH;M;21,15
+001.21.01.41;180424;Tubo em PVC - JS - 60mm (c/ rasgo na alvenaria)-LH;M;38,92
+001.21.01.42;180425;Tubo em PVC - JS - 75mm (c/ rasgo na alvenaria)-LH;M;52,75
+001.21.01.43;180699;Tubo em PVC - JS - 85mm (c/ rasgo na alvenaria)-LH;M;63,42
+001.21.01.44;180700;Tubo em PVC - JS -110mm (c/ rasgo na alvenaria)-LH;M;80,88
+001.21.01.45;180448;"Valvula de retençao horizontal    1/2"" - recalque";UN;51,06
+001.21.01.46;180449;"Valvula de retençao horizontal    3/4"" - recalque";UN;62,44
+001.21.01.47;180450;"Valvula de retençao horizontal   1"" - recalque";UN;76,85
+001.21.01.48;180451;"Valvula de retençao horizontal  1 1/4"" - recalque";UN;116,1
+001.21.01.49;180452;"Valvula de retençao horizontal 1 1/2"" - recalque";UN;131,88
+001.21.01.50;180453;"Valvula de retençao horizontal 2"" - recalque";UN;181,96
+001.21.01.51;180772;"Valvula de retençao vertical    1/2"" - recalque";UN;34,86
+001.21.01.52;180773;"Valvula de retençao vertical    3/4"" - recalque";UN;41,79
+001.21.01.53;180774;"Valvula de retençao vertical   1"" - recalque";UN;49,9
+001.21.01.54;180775;"Valvula de retençao vertical  1 1/4"" - recalque";UN;77,53
+001.21.01.55;180776;"Valvula de retençao vertical 1 1/2"" - recalque";UN;84,99
+001.21.01.56;180777;"Valvula de retençao vertical 2"" - recalque";UN;111,17
+001.21.01.57;180454;"Valvula de sucção de pe c/crivo -    1/2"" (p/ fdo. poço)";UN;34,21
+001.21.01.58;180455;"Valvula de sucção de pe c/crivo -    3/4"" (p/ fdo. poço)";UN;41,14
+001.21.01.59;180456;"Valvula de sucção de pe c/crivo -   1"" (p/ fdo. poço)";UN;49,98
+001.21.01.60;180457;"Valvula de sucção de pe c/crivo -  1 1/4"" (p/ fdo. poço)";UN;76,22
+001.21.01.61;180458;"Valvula de sucção de pe c/crivo - 1 1/2"" (p/ fdo. poço)";UN;83,48
+001.21.01.62;180459;"Valvula de sucção de pe c/crivo - 2"" (p/ fdo. poço)";UN;108,93
+001.21.01.63;;CONEXÕES (LH);;
+001.21.01.63.01;180239;"Adaptador curto PVC SR -   20mm x 1/2"" (LH)";UN;3,22
+001.21.01.63.02;180238;"Adaptador curto PVC SR -   25mm x 3/4"" (LH)";UN;3,47
+001.21.01.63.03;180237;"Adaptador curto PVC SR -   32mm x 1"" (LH)";UN;4,33
+001.21.01.63.04;181404;"Adaptador curto PVC SR -   40mm x 1 1/4"" (LH)";UN;4,99
+001.21.01.63.05;181403;"Adaptador curto PVC SR -  25mm x 1/2"" (LH)";UN;4,84
+001.21.01.63.06;180236;"Adaptador curto PVC SR -  50mm x 1 1/2"" (LH)";UN;8,63
+001.21.01.63.07;180235;"Adaptador curto PVC SR - 110mm x 4"" (LH)";UN;43,05
+001.21.01.63.08;181514;"Adaptador longo PVC SR - 25mmx3/4""";UN;4,01
+001.21.01.63.09;181515;"Adaptador longo PVC SR - 32mmx1""";UN;4,79
+001.21.01.63.10;181516;"Adaptador longo PVC SR - 40mmx1 1/4""";UN;6,6
+001.21.01.63.11;181517;"Adaptador longo PVC SR - 50mmx1 1/2""";UN;9,21
+001.21.01.63.12;181518;Adaptador Soldável longo c/ flanges livres (cx.d'água);UN;22,25
+001.21.01.63.13;180230;Bucha de redução JS - 32mm x 25mm (LH);UN;3,73
+001.21.01.63.14;180231;Bucha de redução JS - 40mm x 32mm (LH);UN;5,98
+001.21.01.63.15;180232;Bucha de redução JS - 50mm x 40mm (LH);UN;7,09
+001.21.01.63.16;180233;Bucha de redução JS - 60mm x 50mm (LH);UN;8,86
+001.21.01.63.17;180234;Bucha de redução JS - 75mm x 60mm (LH);UN;17,3
+001.21.01.63.18;181513;Bucha de redução JS 25x20mm (LH);UN;3,1
+001.21.01.63.19;181396;Joelho/Cotovelo 45° PVC JS - 20mm (LH);UN;5,96
+001.21.01.63.20;181397;Joelho/Cotovelo 45° PVC JS - 40mm (LH);UN;9,26
+001.21.01.63.21;181398;Joelho/Cotovelo 45° PVC JS - 60mm (LH);UN;23,41
+001.21.01.63.22;180225;Joelho/Cotovelo 45º PVC JS -  25mm (LH);UN;6,39
+001.21.01.63.23;180224;Joelho/Cotovelo 45º PVC JS -  32mm (LH);UN;8,09
+001.21.01.63.24;180223;Joelho/Cotovelo 45º PVC JS -  50mm (LH);UN;13,33
+001.21.01.63.25;180222;Joelho/Cotovelo 45º PVC JS -  75mm (LH);UN;55,45
+001.21.01.63.26;180426;Joelho/Cotovelo 90º  PVC - JS - 20mm-LH;UN;5,59
+001.21.01.63.27;180427;Joelho/Cotovelo 90º  PVC - JS - 25mm-LH;UN;5,82
+001.21.01.63.28;180428;Joelho/Cotovelo 90º  PVC - JS - 32mm-LH;UN;6,84
+001.21.01.63.29;180429;Joelho/Cotovelo 90º  PVC - JS - 40mm-LH;UN;12,6
+001.21.01.63.30;180430;Joelho/Cotovelo 90º  PVC - JS - 50mm-LH;UN;13,31
+001.21.01.63.31;180431;Joelho/Cotovelo 90º  PVC - JS - 60mm-LH;UN;29,4
+001.21.01.63.32;180432;Joelho/Cotovelo 90º  PVC - JS - 75mm-LH;UN;80,31
+001.21.01.63.33;180221;"Joelho/Cotovelo 90º PVC SRM - 20mm X 1/2"" (LH)";UN;10,5
+001.21.01.63.34;180220;"Joelho/Cotovelo 90º PVC SRM - 25mm X 1/2"" (LH)";UN;11
+001.21.01.63.35;181402;"Joelho/Cotovelo 90º PVC SRM - 25mm X 3/4"" (LH)";UN;11,04
+001.21.01.63.36;180219;Joelho/Cotovelo de redução 90° PVC JS - 25mm x 20mm (LH);UN;7,14
+001.21.01.63.37;180218;Joelho/Cotovelo de redução 90° PVC JS - 32mm x 25mm (LH);UN;8,04
+001.21.01.63.38;180229;Te de redução 90° JS - 25mm x 20mm (LH);UN;8,04
+001.21.01.63.39;180228;Te de redução 90° JS - 32mm x 25mm (LH);UN;11,37
+001.21.01.63.40;181399;Te de redução 90° JS - 40mm x 32mm (LH);UN;16,44
+001.21.01.63.41;180227;Te de redução 90° JS - 50mm x 25mm (LH);UN;17,48
+001.21.01.63.42;180226;Te de redução 90° JS - 50mm x 32mm (LH);UN;19,91
+001.21.01.63.43;181400;Te de redução 90° JS - 50mm x 40mm (LH);UN;20,19
+001.21.01.63.44;180433;Tê em PVC - JS - 20mm-LH;UN;5,46
+001.21.01.63.45;180434;Tê em PVC - JS - 25mm-LH;UN;6,08
+001.21.01.63.46;180435;Tê em PVC - JS - 32mm-LH;UN;8
+001.21.01.63.47;180436;Tê em PVC - JS - 40mm-LH;UN;13,35
+001.21.01.63.48;180437;Tê em PVC - JS - 50mm-LH;UN;15,94
+001.21.01.63.49;180438;Tê em PVC - JS - 60mm-LH;UN;32,56
+001.21.01.63.50;180439;Tê em PVC - JS - 75mm-LH -;UN;53,4
+001.21.01.63.51;181169;"Tê em PVC - SRM - 20mm x 1/2"" (LH)";UN;12,42
+001.21.01.63.52;181401;"Tê em PVC - SRM - 25mm x 1/2"" (LH)";UN;13,14
+001.21.01.63.53;181170;"Tê em PVC - SRM - 25mm x 3/4"" (LH)";UN;12,74
+001.21.02;;ÁGUA QUENTE;;
+001.21.02.01;181610;Cap CPVC 15mm;UN;2,79
+001.21.02.02;181611;Cap CPVC 22mm;UN;2,94
+001.21.02.03;181612;Cap CPVC 28mm;UN;3,75
+001.21.02.04;181613;Cap CPVC 35mm;UN;5,45
+001.21.02.05;181614;"Conector CPVC S.R.M 15mm X 1/2""";UN;12,52
+001.21.02.06;181615;"Conector CPVC S.R.M 22mm X 3/4""";UN;15,13
+001.21.02.07;181616;"Conector CPVC S.R.M 28mm X 1""";UN;24,25
+001.21.02.08;181617;"Conector CPVC S.R.M 35mm X 1.1/4""";UN;96,33
+001.21.02.09;181618;Curva CPVC 90° X 15mm;UN;7,83
+001.21.02.10;181619;Curva CPVC 90° X 22mm;UN;9,63
+001.21.02.11;181620;Curva CPVC 90° X 28mm;UN;12,36
+001.21.02.12;181621;Joelho CPVC  45° X 15mm;UN;7,37
+001.21.02.13;181622;Joelho CPVC  45° X 22mm;UN;9,24
+001.21.02.14;181623;Joelho CPVC  45° X 28mm;UN;11,15
+001.21.02.15;181624;Joelho CPVC 45° X 35mm;UN;15,74
+001.21.02.16;181625;Joelho CPVC 90° X 15mm;UN;6,86
+001.21.02.17;181626;Joelho CPVC 90° X 22mm;UN;8,09
+001.21.02.18;181627;Joelho CPVC 90° X 28mm;UN;11,18
+001.21.02.19;181628;Joelho CPVC 90° X 35mm;UN;15,98
+001.21.02.20;181630;Joelho CPVC TRASICAO S.R.M 22mm X 1/2;UN;15,16
+001.21.02.21;181629;Joelho CPVC TRASICAO S.R.M 22mm X 3/4;UN;17,97
+001.21.02.22;181631;Luva CPVC 15mm;UN;6,13
+001.21.02.23;181632;Luva CPVC 22mm;UN;6,76
+001.21.02.24;181633;Luva CPVC 28mm;UN;8,38
+001.21.02.25;181634;Luva CPVC 35mm;UN;11,83
+001.21.02.26;181636;Luva DE Transição CPVC SRM.22mm X 1/2;UN;11,52
+001.21.02.27;181637;Luva DE Transição CPVC SRM.22mm X 3/4;UN;14,36
+001.21.02.28;181638;Luva DE Transição CPVC SRM.28mm X 1;UN;22,52
+001.21.02.29;181639;Luva DE Transição CPVC SRM.35mm X 1.1/4;UN;78,73
+001.21.02.30;181635;Luva DE Transição X PVC 22mm X 25mm;UN;6,38
+001.21.02.31;181640;Te CPVC 15mm;UN;10,4
+001.21.02.32;181641;Te CPVC 22mm;UN;11,74
+001.21.02.33;181642;Te CPVC 28mm;UN;14,5
+001.21.02.34;181643;Te CPVC 35mm;UN;30,25
+001.21.02.35;181644;"Te CPVC Transição S.R.M 22mm X 1/2""";UN;15,68
+001.21.02.36;181645;"Te CPVC Transição S.R.M 22mm X 3/4""";UN;18,64
+001.21.02.37;181646;Tubo CPVC 15mm;M;12,8
+001.21.02.38;181647;Tubo CPVC 22mm;M;18,05
+001.21.02.39;181648;Tubo CPVC 28mm;M;25,95
+001.21.02.40;181649;Tubo CPVC 35mm;M;31,18
+001.21.02.41;181650;União CPVC 15mm;UN;12,74
+001.21.02.42;181651;União CPVC 22mm;UN;13,98
+001.21.02.43;181652;União CPVC 28mm;UN;19,14
+001.21.02.44;181653;União CPVC 35mm;UN;25,4
+001.21.03;;ESGOTO: TUBOS,FOSSAS,SUMIDOUROS E CAIXAS;;
+001.21.03.01;181296;Caixa de inspeção em PVC d=300mm;UN;231,48
+001.21.03.02;181295;Caixa de passagem em PVC d=300mm;UN;238,1
+001.21.03.03;180414;Caixa em alvenaria de  30x30x30cm c/ tpo. concreto;UN;116,43
+001.21.03.04;180680;Caixa em alvenaria de  40x40x40cm c/ tpo. concreto;UN;177,56
+001.21.03.05;180413;Caixa em alvenaria de  40x40x50cm c/ tpo. concreto;UN;197,78
+001.21.03.06;180679;Caixa em alvenaria de  50x50x50cm c/ tpo. concreto;UN;249,57
+001.21.03.07;180678;Caixa em alvenaria de  60x60x60cm c/ tpo. concreto;UN;334,03
+001.21.03.08;180352;Caixa em alvenaria de  60x60x80cm c/ tpo. concreto;UN;392,85
+001.21.03.09;180094;Caixa em alvenaria de  80x80x80cm c/ tpo. concreto;UN;542,19
+001.21.03.10;180687;Caixa em alvenaria de 100x100x100cm c/ tpo. concreto;UN;624,85
+001.21.03.11;180093;Caixa sifonada de PVC c/ grelha - 100x100x50mm;UN;18,79
+001.21.03.12;180417;Filtro anaerobico conc.arm. d=1.4m p=1.8m;UN;2181,31
+001.21.03.13;180485;Fossa septica conc.arm.d=1,60m p=2,75m cap=40 pessoas;UN;3061,76
+001.21.03.14;180416;Fossa septica em conc.arm.d=2m,p=3m cap=75 pessoas;UN;5063,44
+001.21.03.15;180551;Fossa septica em concreto armado - cap= 30 pessoas;UN;3867,3
+001.21.03.16;180550;Fossa septica em concreto armado - cap= 50 pessoas;UN;4986,71
+001.21.03.17;180549;Fossa septica em concreto armado - cap=100 pessoas;UN;7782,3
+001.21.03.18;180548;Fossa septica em concreto armado - cap=150 pessoas;UN;10122,94
+001.21.03.19;180349;Fossa septica pre-moldada cap= 10 pessoas;UN;1138,68
+001.21.03.20;180263;Poço visita em conc. armado 1.2x1.2m h=2.10m-tpo.fofo;UN;2540,54
+001.21.03.21;180214;Ponto de esgoto (incl. tubos, conexoes,cx. e ralos);Pt;255,97
+001.21.03.22;180845;Revisão de ponto de esgoto;Pt;102,39
+001.21.03.23;180544;Sumidouro em alvenaria c/ tpo.em concreto - cap= 30 pessoas;UN;1812,33
+001.21.03.24;180543;Sumidouro em alvenaria c/ tpo.em concreto - cap= 50 pessoas;UN;2067,8
+001.21.03.25;180542;Sumidouro em alvenaria c/ tpo.em concreto - cap= 75 pessoas;UN;3031,91
+001.21.03.26;180541;Sumidouro em alvenaria c/ tpo.em concreto - cap=100 pessoas;UN;3501,84
+001.21.03.27;180540;Sumidouro em alvenaria c/ tpo.em concreto - cap=150 pessoas;UN;4873,97
+001.21.03.28;180486;Sumidouro em concreto armado d=0,80m p=1,40m cap=40 pessoas;UN;970,66
+001.21.03.29;180350;Sumidouro pre-moldado cap= 10 pessoas;UN;802,78
+001.21.03.30;180105;Tubo em PVC -  40mm (LS);M;8,72
+001.21.03.31;180104;Tubo em PVC -  50mm (LS);M;12,42
+001.21.03.32;180103;Tubo em PVC -  75mm (LS);M;17,07
+001.21.03.33;180102;Tubo em PVC - 100mm (LS);M;23,06
+001.21.03.34;180508;Tubo em PVC - 150mm (LS);M;40,07
+001.21.03.35;180650;Tubo em PVC - 200mm (LS);M;80,98
+001.21.03.36;180753;Tubo em PVC - 250mm (LS);M;87,95
+001.21.03.37;180754;Tubo em PVC - 300mm (LS);M;101,29
+001.21.03.38;;CONEXÕES (LS);;
+001.21.03.38.01;180244;Joelho/Cotovelo 45° PVC JS -  40mm - LS;UN;10,02
+001.21.03.38.02;180243;Joelho/Cotovelo 45° PVC JS -  50mm - LS;UN;11,45
+001.21.03.38.03;180242;Joelho/Cotovelo 45° PVC JS -  75mm - LS;UN;17,37
+001.21.03.38.04;180241;Joelho/Cotovelo 45° PVC JS - 100mm - LS;UN;22,38
+001.21.03.38.05;180240;Joelho/Cotovelo 45° PVC JS - 150mm - LS;UN;66,45
+001.21.03.38.06;180471;Joelho/Cotovelo 90º RC em PVC - JS -  40mm-LS;UN;12,23
+001.21.03.38.07;180472;Joelho/Cotovelo 90º RC em PVC - JS -  50mm-LS;UN;11,98
+001.21.03.38.08;180473;Joelho/Cotovelo 90º RC em PVC - JS -  75mm-LS;UN;14,9
+001.21.03.38.09;180474;Joelho/Cotovelo 90º RC em PVC - JS - 100mm-LS;UN;18,87
+ 001.21.03.38.10 ;180248;Junção simples PVC JS -  40 x 40mm - LS;UN;10,62
+001.21.03.38.11;180247;Junção simples PVC JS -  50 x 50mm - LS;UN;15,53
+001.21.03.38.12;180250;Junção simples PVC JS -  75 x 50mm - LS;UN;22,84
+001.21.03.38.13;180246;Junção simples PVC JS -  75 x 75mm - LS;UN;25,83
+001.21.03.38.14;180249;Junção simples PVC JS - 100 x  50mm - LS;UN;29,63
+001.21.03.38.15;180245;Junção simples PVC JS - 100 x 100mm - LS;UN;34,64
+001.21.03.38.16;181527;Junção simples PVC JS - 100x75mm - LS;UN;42,53
+001.21.03.38.17;180260;Luva simples PVC  40mm - LS;UN;5,45
+001.21.03.38.18;180259;Luva simples PVC  50mm - LS;UN;7,19
+001.21.03.38.19;180258;Luva simples PVC  75mm - LS;UN;11,33
+001.21.03.38.20;180257;Luva simples PVC 100mm - LS;UN;14,21
+001.21.03.38.21;180255;Redução excêntrica PVC  75mm  x 50mm - LS;UN;16,28
+001.21.03.38.22;180256;Redução excêntrica PVC 100mm x 50mm - LS;UN;17,49
+001.21.03.38.23;180254;Redução excêntrica PVC 100mm x 75mm - LS;UN;21,76
+001.21.03.38.24;180475;Tê curto em PVC - JS -  40x40mm-LS;UN;11,38
+001.21.03.38.25;180476;Tê curto em PVC - JS -  50x50mm-LS;UN;14,48
+001.21.03.38.26;180477;Tê curto em PVC - JS -  75x75mm-LS;UN;22,45
+001.21.03.38.27;180478;Tê curto em PVC - JS - 100x100mm-LS;UN;25,72
+001.21.03.38.28;180253;Te PVC  c/ redução  75mm x 50mm - LS;UN;21,54
+001.21.03.38.29;180252;Te PVC  c/ redução 100mm x 50mm - LS;UN;27,08
+001.21.03.38.30;180251;Te PVC  c/ redução 100mm x 75mm - LS;UN;28,44
+001.21.04;;AGUAS PLUVIAIS:;;
+001.21.04.01;180513;Canaleta em alvenaria (0.30x0.30m) rebocada internamente;M;77,29
+001.21.04.02;180520;Canaleta em concreto simples (0,40x0,30m);M;182,36
+001.21.04.03;180709;Canaleta em concreto simples (0,40x0,40m);M;205,05
+001.21.04.04;180592;Condutor em PVC rigido soldavel - 100mm;M;37,96
+001.21.04.05;180315;Condutor em PVC rigido soldavel 150mm;M;50,37
+001.21.04.06;180722;Tubo em concreto armado d= 600mm;UN;118,44
+001.21.04.07;180723;Tubo em concreto armado d= 800mm;UN;178,46
+001.21.04.08;180724;Tubo em concreto armado d=1000mm;UN;242,59
+001.21.04.09;180719;Tubo em concreto simples  d=300mm;UN;62,89
+001.21.04.10;180720;Tubo em concreto simples d= 400mm;UN;71,16
+001.21.04.11;180721;Tubo em concreto simples d= 500mm;UN;89,77
+001.21.05;;BOMBAS;;
+001.21.05.01;181487;Bomba Centrífuga  1/2 CV;UN;726,08
+001.21.05.02;181479;Bomba Centrifuga  3/4 CV (sem tubulação);UN;1100,08
+001.21.05.03;181480;Bomba Centrifuga 1 CV (sem tubulação);UN;1152,08
+001.21.05.04;180502;Bomba Centrífuga 1 CV (suc.,rec.,barrilete.,col.distribuiçao);UN;2283,06
+001.21.05.05;181481;Bomba Centrifuga 2 CV (sem tubulação);UN;1584,99
+001.21.05.06;180385;Bomba centrifuga 7.5 CV  (sem tubulação);UN;4994,77
+001.21.05.07;181484;Bomba Injetora  1 CV (sem tubulação);UN;1243,64
+001.21.05.08;181483;Bomba Injetora  3/4 CV (sem tubulação);UN;1165,82
+001.21.05.09;181485;Bomba Injetora 2 CV (sem tubulação);UN;1779,01
+001.21.05.10;181486;Bomba Injetora 3 CV (sem tubulação);UN;2118,85
+001.21.05.11;181475;Bomba Submersa  3/4 CV (sem tubulação);UN;2242,98
+001.21.05.12;181476;Bomba Submersa 1 CV (sem tubulação);UN;2106,87
+001.21.05.13;181477;Bomba Submersa 2 CV (sem tubulação);UN;2717,41
+001.21.05.14;181478;Bomba Submersa 3 CV (sem tubulação);UN;3932,26
+001.22;;INSTALAÇÕES DE PROTEÇÃO/COMBATE A INCÊNDIO:;;
+001.22.01;200635;Caixa de incendio c/ mangueira e acessorios;UN;1018,44
+001.22.02;201281;"Curva Fº Gº 45º 2 1/2""";UN;96,22
+001.22.03;201326;Extintor de incêndio (pó químico) -  4kg;UN;173,14
+001.22.04;201328;Extintor de incêndio (pó químico) - 12 kg;UN;343,14
+001.22.05;201507;Extintor de incêndio ABC -  6Kg;UN;273,14
+001.22.06;201509;Extintor de incêndio ABC - 12Kg;UN;313,14
+001.22.07;201325;Extintor de incendio CO2-6kg;UN;553,14
+001.22.08;201327;Extintor de incendio de agua pressurizada - 10 l;UN;170,64
+001.22.09;200661;Hidrante de passeio - completo;UN;1122,36
+001.22.10;201279;"Joelho/Cotovelo Fº Gº 90º 2 1/2""";UN;110,62
+001.22.11;201280;"Joelho/Cotovelo Fº Gº 90º 3""";UN;162,14
+001.22.12;200832;Porta corta fogo (0.80x2.10m);UN;1452,08
+001.22.13;201277;"Tê Fº Gº 2 1/2""";UN;98,44
+001.22.14;201278;"Tê Fº Gº 3""";UN;105,44
+001.22.15;201275;"Tubo Fº Gº 2 1/2""";M;99,45
+001.22.16;201276;"Tubo Fº Gº 3""";M;104,01
+001.22.17;201454;"Tubo FºGº 4""";M;118,6
+001.23;;INSTAÇAÕES ESPECIAIS;;
+001.23.01;220499;Incinerador (det. SEOP);UN;5395,37
+001.23.02;220496;"Poço Tubular d= 6"" -  prof.= 30m";UN;16746,33
+001.23.03;220497;"Poço Tubular d= 6"" -  prof.= 50m";UN;23969,41
+001.23.04;220634;Sinalizador de obstáculos c/ relé fotoelétrico;UN;639,61
+001.24;;APARELHOS, LOUÇAS, METAIS E ACESSÓRIOS SANITÁRIOS:;;
+001.24.01;191522;Acabamento p/ registro de gaveta;UN;33,62
+001.24.02;191523;Acabamento p/ registro de pressão;UN;33,62
+001.24.03;190793;"Aspersor (esguicho) giratório 1/2"" (incl. mangueira -30m)";CJ;54,5
+001.24.04;191514;Assento de poliester;UN;180,15
+001.24.05;190806;Assento plastico;UN;25,15
+001.24.06;190807;Assento plástico almofadado;UN;65,15
+001.24.07;190303;Bacia sifonada  - PNE;UN;909,91
+001.24.08;190610;Bacia sifonada c/ cx. descarga acoplada ecológica com assento;UN;594,66
+001.24.09;190609;Bacia sifonada c/cx. descarga acoplada c/ assento;UN;459,33
+001.24.10;190090;Bacia sifonada de louça c/ assento;UN;323,7
+001.24.11;191498;Banco retrátil (p/ banheiro PNE);UN;561,28
+001.24.12;190716;Barra em aço inox (PNE);M;202,98
+001.24.13;190529;Bebedouro aço inox c/4 torneiras e filtro (det.5);UN;3007,22
+001.24.14;191324;Box c/ porta de correr - alumínio/acrílico - Instalado;M2;170
+001.24.15;190789;Cabide cromado;UN;24,18
+001.24.16;190089;Cabide de louça;UN;42,86
+001.24.17;190096;Caixa de descarga de embutir em cimento amianto;UN;330,2
+001.24.18;190224;Caixa de descarga plastica - externa;UN;118,16
+001.24.19;190231;Chuveiro cromado;UN;55,53
+001.24.20;190099;Chuveiro eletrico;UN;119,12
+001.24.21;190218;Chuveiro em PVC;UN;20,68
+001.24.22;190647;Cuba de lavagem em aço inox e tanque em concreto c/ torn.,sifao e valv.;CJ;2689,56
+001.24.23;190787;Cuba de louça de embutir;UN;106,52
+001.24.24;190788;Cuba de louça de sobrepor;UN;119,93
+001.24.25;191513;Cuba em aço inox 40 x30 x15cm;UN;162,93
+001.24.26;190691;Ducha higienica cromada;UN;84,27
+001.24.27;190791;Engate flexível cromado 40cm;UN;22,99
+001.24.28;190790;Engate plástico;UN;10,49
+001.24.29;190792;Filtro de parede;UN;102,94
+001.24.30;191521;Grelha metálica p/ caixa sifonada - 10x10cm;UN;11,13
+001.24.31;191520;Grelha metálica p/caixa sifonada - 15x15cm;UN;14,58
+001.24.32;190531;Lavabo em aço inox c/4 torn.,sifoes e valv.(det.3-A);UN;2693,86
+001.24.33;190092;Lavatorio de louça c/col.,torn.,mistur.,sifao e valv.;UN;652,31
+001.24.34;190375;Lavatorio de louça c/col.,torneira,sifao e valv.;UN;429,08
+001.24.35;190304;Lavatório de louça s/ coluna (incl. torn.sifão e válvula )-PNE;UN;642,08
+001.24.36;190232;Lavatorio de louça s/col.c/torn.,sifao e valv.;UN;340,29
+001.24.37;191089;Mictório coletivo em aço c/ registro de pressão - 1,5m;UN;891,57
+001.24.38;190539;Mictorio coletivo em aço inox c/ reg.pressao;UN;706,72
+001.24.39;190401;Mictorio individual em louça c/ acessorios;UN;521,04
+001.24.40;190636;Pia 01 cuba aço inox c/torneira,sifao e valv.-2.0m;UN;522,81
+001.24.41;190238;Pia 01 cuba em aço inox c/torn.,sifao e valv.(1,50m);UN;446,28
+001.24.42;190101;Pia 02 cubas em aço inox.c/torn.,sifoes e valv.(2.0m);UN;903,54
+001.24.43;190088;Porta papel de louça;UN;37,46
+001.24.44;190797;Porta papel higiênico - Polipropileno;UN;42,52
+001.24.45;190796;Porta toalha argola- cromado;UN;45,46
+001.24.46;190795;Porta toalha de papel - Polipropileno;UN;95,32
+001.24.47;190084;Porta-toalha em louça - tubular;UN;38,66
+001.24.48;190835;Reassentamento de bacia sifonada com caixa acoplada;UN;114,99
+001.24.49;190794;Saboneteira c/ reservatório - Polipropileno;UN;35,16
+001.24.50;190087;Saboneteira de louça;UN;35,56
+001.24.51;190848;Saboneteira para sabão líquido (vidro+inox) - móvel;UN;21,06
+001.24.52;190849;Saboneteira para sabão líquido (vidro+inox) -FIXA;UN;44,76
+001.24.53;190851;"Sifão metálico para pia inox 2""";UN;81,58
+001.24.54;191374;Sifão plástico flexível;UN;11,19
+001.24.55;190852;Sifão PVC pia / lavatório - plástico;UN;12,44
+001.24.56;190085;Tanque de louça c/ torneira, sifao e valvula;UN;473,59
+001.24.57;190376;Tanque inox c/ torneira, sifao e valvula;UN;474,25
+001.24.58;191515;Torneira com alavanca;UN;324,12
+001.24.59;190097;"Torneira cromada de 1/2"" p/ jardim";UN;39,3
+001.24.60;191274;"Torneira de bóia 3/4""";UN;60,74
+001.24.61;191519;Torneira de metal cromada bica móvel p/ pia/tanque;UN;157,43
+001.24.62;191517;"Torneira de metal cromada de 1/2"" ou 3/4"" p/ lavatório";UN;111,22
+001.24.63;191518;"Torneira de metal cromada de 1/2"" ou 3/4"" p/ Pia";UN;102,22
+001.24.64;190098;"Torneira de metal de 3/4"" p/ tanque";UN;57,22
+001.24.65;191516;Torneira para lavatório de mesa com fechamento automático;UN;317,22
+001.24.66;190230;"Torneira plastica de 1/2""";UN;20,02
+001.24.67;190616;"Valvula de descarga HYDRA cromada 1 1/2""";UN;247,83
+001.25;;SERRALHERIA:;;
+001.25.01;240244;"Alambrado p/ quadra (tubo fo e tela de arame galv.-12 # 2"")";M2;282,3
+001.25.02;240814;Escada caracol D=1,20M  H=3M;UN;2417,02
+001.25.03;240815;Escada caracol D=2,00M  H=3M;UN;4930,16
+001.25.04;240618;Escada de marinheiro c/ proteçao;M;315,86
+001.25.05;240617;Escada de marinheiro s/ proteçao;M;224,68
+001.25.06;241320;Grade em ferro p/ canaleta l = 0,40m com articulação;M;119,76
+001.25.07;241470;"Guarda-corpo em tubo de aço galvanizado 1 1/2""";M2;256,96
+001.25.08;241318;Placa de inauguração  em acrilico/letras bx. relevo- (40 x 30cm);UN;1393,14
+001.25.09;241319;Placa de inauguração em aço/letras bx. relevo-(60 x 40cm);UN;1793,14
+001.25.10;241317;Placa de inauguração em acrilico/letras bx. relevo-(60 x 40cm);UN;2063,14
+001.25.11;241468;Placa de sinalização fotoluminoscente;UN;53,26
+001.25.12;240843;Placa de sinalização metálica;UN;37,26
+001.25.13;241467;Tela tipo moeda;M2;115,01
+001.26;;ELEMENTOS DE ESCOLA:;;
+001.26.01;250669;"Alavanca p/ cx. de descarga ( chapa 3/16"" )";UN;258,12
+001.26.02;250500;Arquibancada mad. lei lateral ao bl. de sala aula;M;211,97
+001.26.03;250530;Balcao de atendimento c/armario sem p.de enrolar-1,5x0,9m(det.7);UN;469,56
+001.26.04;250553;Balcao de atendimento s/armario s/p.de enrolar-1,5x0,9m(det.7);UN;88,95
+001.26.05;250535;Bancada c/ pia inox 2 cubas incl.armario (3,0x0,6m);UN;2525,32
+001.26.06;250545;Bancada de coz. em granitina c/arm.(3,0x1,40x0,9m)-det.9A;UN;2079,91
+001.26.07;250637;Bancada em alv.,azul. e portas formica (sob pia inox 1 cuba-1,50m);UN;766,01
+001.26.08;250638;Bancada em alv.,azul. e portas formica (sob pia inox 2 cubas-2m);UN;1076,41
+001.26.09;250532;Banco em concreto c/2 mod.2,75x0,4m (det.12);UN;234
+001.26.10;250312;Banco em madeira de lei c=1,8m, l=0,4m e h=0,4m;M;200,42
+001.26.11;250534;Estrado em madeira p/ despensa 1,20x0,65m (det.3-B);UN;169,17
+001.26.12;250533;Estrado mad. p/ apoio panelao 0,6x0,41m (det.8-A);UN;177,95
+001.26.13;250523;"Prateleiras em mad. de lei (l= 0,3m; e= 3cm)";M;135,33
+001.26.14;251520;Quadro magnético branco c/ apoio para apagador e pincéis e moldura em alumínio;M2;332,52
+001.26.15;250250;Quadro negro em compensado pintado;UN;449,69
+001.26.16;250582;"Tela de arame galv.fio 12#2"" fix.c/cant.de ferro(s/muro)";M2;274,44
+001.27;; ELEMENTOS DE UNIDADES DE SAÚDE:;;
+001.27.01;250640;Bate maca em mogno encerado - L=30cm;M;72,26
+001.27.02;250808;Bate maca Pertech;M;106,52
+001.27.03;250547;Pedra mortuaria em concr. c/azulejos (0,80x2,2m);UN;1105,51
+001.28;;ELEMENTOS DELEGACIAS/PENITENCIÁRIAS:;;
+001.28.01;250648;Abrigo em alvenaria p/cx. desc.externa (DP e Penitenciária);UN;215,74
+001.28.02;250596;Bacia turca em fibra de vidro;UN;559,75
+001.28.03;250462;Bacia turca p/ cela em concreto;UN;153,48
+001.28.04;250595;Beliche em concreto;UN;577,91
+001.28.05;250463;Cama em concreto;UN;273,75
+001.28.06;250643;Concertina galvanizada / inox 304;M;79,56
+001.28.07;250769;Envelopamento de bacia sanitária;UN;68,11
+001.28.08;250173;Escapula;UN;23,82
+001.28.09;250265;Fios de arame farpado parte superior da cerca (penit.);M2;27,56
+001.28.10;250264;Malha de 10 x 10cm de arame farpado;M2;508,66
+001.28.11;250266;Muro em concreto armado h=5m e=0.15m;M3;1750,87
+001.29;;ELEMENTOS ESPORTIVOS:;;
+001.29.01;250610;Equipamento completo p/ quadra de esportes;CJ;8580,79
+001.29.02;250120;Quadra esportes polivalente 17x30m (incl. equipamentos esportivos);UN;70630,51
+001.29.03;250602;Quadra esportes polivalente 18x31m (incl. equipamentos esportivos);UN;76017,24
+001.29.04;250671;Quadra esportes polivalente 20x40m (incl. equipamentos esportivos);UN;115875,32
+001.29.05;250594;Tabela em mad. lei p/ aro de basquete;UN;465,84
+001.30;;PEQUENAS OBRAS:;;
+001.30.01;250646;Abrigo p/ grupo gerador (2,50 x 2,00m);UN;7722,86
+001.30.02;250685;Arquibancada com 4 degraus;M;2250,04
+001.30.03;250512;"Casa de bomba - 1,20x0,80m; h = 0,80m";UN;1082,98
+001.30.04;250686;Cobertura metalica p/ quadra 20x40m c/escape de 1.50m;UN;240491,46
+001.30.05;250717;"Passarela coberta c/telhas de barro (com pilar 6""x3"")";M;864,64
+001.30.06;250546;Passarela coberta c/telhas de barro-pilar sanduiche(det.23);M;1106,78
+001.30.07;250670;Reservatorio elevado em concreto armado cap.=10.000lts-h=8.83m;UN;30498,56
+001.30.08;250658;Torre em conc.armado p/ cx.d'agua h=6,0m-base 2.0x2.0m;UN;9345,55
+001.30.09;250603;Torre em conc.armado p/ cx.d'agua h=6,0m-base 3.0x3.0m;UN;11030,84
+001.30.10;250672;Torre p/ caixa d'agua h=4.0m (alvenaria);UN;2027,22
+001.31;;OUTROS ELEMENTOS;;
+001.31.01;250611;Alizar em argamassa;M;36,73
+001.31.02;250086;Armario de embutir c/ espelho p/ lavatorio;UN;144,62
+001.31.03;251463;Armário em MDF (c/ gavetas/prateleiras e portas);M2;683,14
+001.31.04;250537;Armario externo plast. c/ espelho p/ lavatorio;UN;126,57
+001.31.05;251216;"Cabo de aço 1/4""";M;6,12
+001.31.06;250410;Caixa p/ ar condicionado;UN;108,76
+001.31.07;250109;Espelho de cristal (0,40x0,60m) com moldura em alumínio;UN;63,4
+001.31.08;251027;Exaustor d=40cm;UN;250,02
+001.31.09;251508;"Exaustor eólico 24""";UN;351,98
+001.31.10;250585;Guarda-corpo em mad. lei envernizado h=1,0m;M2;97,15
+001.31.11;251511;Lixeira em madeira c/ estrutura tubular em aço;UN;242,28
+001.31.12;251510;Lixeira em tela moeda;UN;689,04
+001.31.13;251499;Moldura em madeira de lei p/ caixa de ar condicionado;UN;38,05
+001.31.14;251321;Película G5 - Aplicada;M2;92,57
+001.31.15;250612;Perfil em aluminio - U (1,0x3,50x1,0cm);M;18,57
+001.31.16;251293;Tampo em granito verde Ubatuba;M2;399,38
+001.31.17;250239;Tampo em marmore branco e=2cm;M2;410,93
+001.31.18;251530;Tela de nylon;M2;14,54
+001.31.19;250732;Ventilador de teto;UN;186,28
+001.32;;URBANIZAÇÃO:;;
+001.32.01;260765;Argamassa p/rejuntamento de blokret (1:7);M3;273,94
+001.32.02;260728;Bloco de concreto intertravado e=9cm (incl. colchao de areia e rejuntamento);M2;76,34
+001.32.03;261471;Bloco de concreto intertravado pigmentado (incl. colchão de areia e rejuntamento);M2;110,54
+001.32.04;260664;Blokret sextavado e= 6cm (incl. colchao de areia e rejuntamento);M2;65,54
+001.32.05;260663;Blokret sextavado e= 8cm (incl. colchao de areia e rejuntamento);M2;71,54
+001.32.06;260662;Blokret sextavado e=10cm (incl. colchao de areia e rejuntamento);M2;80,04
+001.32.07;261526;Cerca c/ mourão em concreto e tela de arame galvanizado h=2,0m;M;109,15
+001.32.08;260311;Cerca em mouroes conc./arame farpado(10 fiadas, esp=2,5m, h=2,0m);M;68,9
+001.32.09;260278;Colchão de areia e=20 cm;M2;21,62
+001.32.10;260188;Mastro em fo.go. sobre base de concreto-3 un(det.22);CJ;1415,07
+001.32.11;260522;Meio-fio em concreto - c/ lâmina d'água;M;27,97
+001.32.12;260519;Meio-fio em concreto - sem lâmina d'água;M;21,94
+001.32.13;260523;Meio-fio em concreto nas dimensões 0,30m x 0,12m - com lâmina d'água;M;36,68
+001.32.14;260520;Meio-fio em concreto nas dimensões 0,30m x 0,12m - sem lâmina d'água;M;29,68
+001.32.15;260651;Mureta em alvenaria,rebocada e pintada 2 faces(h=1.0m);M;225,62
+001.32.16;260213;Muro em alvenaria,rebocado e pintado 2 faces(h=2.0m);M;380,96
+001.32.17;260652;Muro em alvenaria,rebocado e pintado 2 faces(h=2.50m);M;457,53
+001.32.18;260665;Paralelepipedo (incl. colchao de areia e rejuntamento);M2;83,88
+001.32.19;260666;Pedra portuguesa (incl.colchao de areia e rejuntamento);M2;90,4
+001.32.20;260168;Plantio de grama (incl. terra preta);M2;22,77
+001.32.21;260698;Reassentamento de blokret (incl. areia e rejuntamento);M2;30,88
+001.32.22;260203;Sarjeta em concreto simples;M3;621,56
+001.32.23;260850;Seixo com espalhamento;M3;134,08
+001.32.24;260761;Totem em concreto armado;UN;724,34
+001.33;;LIMPEZA FINAL:;;
+001.33.01;270629;Calafetação de vidros;M2;12,12
+001.33.02;271323;Limpeza (c/ maq.) + enceramento de piso de alta resistência;M2;16
+001.33.03;270590;Limpeza de calhas (0,4x0,3m);M;6,53
+001.33.04;270591;Limpeza de canaletas (0.30x0.30m);M;5,64
+001.33.05;270166;Limpeza de pisos ceramicos ou pastilha;M2;5,24
+001.33.06;270220;Limpeza geral e entrega da obra;M2;4,42
+001.33.07;270167;Raspagem, calafet. e enceramento de pisos em madeira;M2;17,28
+001.33.08;270633;Rejuntamento de revestimento/piso ceramico c/ cimento branco;M2;3,99
+001.33.09;270768;Resina p/ piso em korodur;M2;14,39
+001.33.10;271322;Sinteko - aplicado;M2;40

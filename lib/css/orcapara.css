@@ -1,0 +1,25 @@
+.brand-text {
+  position: absolute;
+  width: 100%;
+  margin-top: 0;
+  font-size: 200%;
+  color: #DDD;
+  cursor: default;
+}
+
+.force-default-cursor {
+  cursor: default;
+}
+
+table#dtl>thead>tr>th,
+table#dtl>tbody>tr>td {
+  padding: 0.5em;
+}
+
+.nounderline, .nounderline:hover{
+  text-decoration: none !important;
+}
+
+.hover-link {
+  cursor: pointer;
+}

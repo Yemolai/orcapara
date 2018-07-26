@@ -1,0 +1,7 @@
+.jstree-anchor {
+    max-width: 90%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 80%;
+}

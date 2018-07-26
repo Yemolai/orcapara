@@ -1,0 +1,206 @@
+Código da Tarefa;Cod. Composição Local;Nome;Cód. Unidade;Quantidade;Valor Unitário
+001;;MICROSSISTEMAS DE ABASTECIMENTO DE ÁGUA - PADRÃO/CUSTO - SEDOP ABRIL 2016;;;
+001.01;;PADRÃO ATÉ 100 FAMILIAS - CUSTO;;;
+001.01.01;;Serviços Preliminares;;;
+001.01.01.01;1;Administração Local;MêS;3;12734,03
+001.01.01.02;2;Mobilização e Desmobilização de pessoal e equipamentos;UN;1;2000
+001.01.01.03;11170;Licença e taxas de obras até 100 m² (ART);CJ;1;2255
+001.01.01.04;10004;Placa da Obra em chapa galvanizada (2,0m x 3,0m);M2;6;295,74
+001.01.01.05;10008;Limpeza do terreno;M2;74,568;1,2
+001.01.01.06;10767;Barracão de madeira;M2;10;339,3
+001.01.01.07;20174;Retirada de entulho - manualmente;M³;8;70,01
+001.01.01.08;10009;Locação da obra a trena;M2;74,568;3,17
+001.01.01.09;10786;Aluguel andaime metálico;M2/Mês;24;12,3
+001.01.02;;Torre do Reservatório;;;
+001.01.02.01;240617;Escada tipo marinheiro s/ proteção;M;6;221,52
+001.01.02.02;20174;Retirada de entulho - manualmente;M³;0,4875;70,01
+001.01.02.03;30010;Escavação manual até 1,50m de profundidade;M³;0,4875;30,03
+001.01.02.04;40283;Bloco em concreto armado p/ fundação (incl. forma);M³;2,25;1668,84
+001.01.02.05;50766;Concreto armado fck=25MPA c/ forma mad. branca;M³;7,2;1812,16
+001.01.02.06;60046;Alvenaria tijolo de barro a cutelo;M²;8,25;41,38
+001.01.02.07;60212;Elemento vazado 1/2 tijolo 15x15x10cm;M²;1,5;89,62
+001.01.02.08;80314;Aplicação de Igol A sobre conc./alv. (3 demãos);M²;6;18,19
+001.01.02.09;110143;Chapisco de cimento e areia no traço 1:3;M²;16,5;6,81
+001.01.02.10;110763;Reboco com argamassa 1:6:adit. plast.;M²;16,5;27,66
+001.01.02.11;130111;Camada impermeabilizadora e=10cm c/ pedra preta (incl. Sika 1);M²;3;40,72
+001.01.02.12;130113;Cimentado liso e=2cm traço 1:3;M²;3;31
+001.01.02.13;130492;Calçada (incl. alicerce, baldrame e concreto c/ junta seca);M²;3,75;75,13
+001.01.02.14;150124;PVA interna sem superf. preparada;M²;9,75;8,43
+001.01.02.15;150125;PVA externa sem superf. preparada;M²;28,5;8,93
+001.01.02.16;150491;Esmalte sobre grade de ferro (superf. aparelhada);M²;0,975;32,88
+001.01.02.17;260652;Muro em alvenaria, rebocado e pintado (h=2.50m);M;22,66;424,84
+001.01.03;;"Poço (diâmetro de 6"" e profundidade de 100m)";;;
+001.01.03.01;170938;Cabo multiplex 3 x 10mm;M;100;5,27
+001.01.03.02;;Bomba submersa de 4CV (sem tubulação) 220V trifásico;UN;1;4200
+001.01.03.03;;"Tubo aço galvanizado roscável 1 1/2""";M;100;32,7
+001.01.03.04;171044;"Luva FG roscável 1 1/2""";UN;18;6,99
+001.01.03.05;171261;"Curva 90° FG roscavel 1 1/2""";UN;1;11,34
+001.01.03.06;;"União FG roscável 1 1/2""";UN;1;43,93
+001.01.03.07;;"Niple FG  1 1/2""";UN;3;17,55
+001.01.03.08;180452;"Válvula de retenção horizontal de 1 1/2""";UN;1;129,84
+001.01.03.09;180504;"Registro de gaveta de 1 1/2""";UN;1;117,94
+001.01.03.10;180236;"Adaptador curto PVC SR marrom 50mm x 1 1/2""";UN;1;7,47
+001.01.03.11;180430;Curva 90° PVC JS marrom 50mm;UN;1;11,84
+001.01.03.12;180423;Tubo PVC JS marrom 50mm;M;0,5;19,42
+001.01.03.13;;"Poço tubular d= 6"" , profundidade 100m";UN;1;54000
+001.01.03.14;170631;"Eletroduto PVC 1 1/2""";M;12;13,31
+001.01.03.15;171047;"Luva para eletroduto PVC1 1/2""";UN;8;4,54
+001.01.03.16;171266;"Curva 90° para eletroduto PVC1 1/2""";UN;4;13,04
+001.01.03.17;;Quadro de força controle de bomba e automação;UN;1;3355
+001.01.04;;Reservatório (10.000 litros);;;
+001.01.04.01;180838;Reservatório em fibra de vidro 10.000 L;UN;1;3864,01
+001.01.04.02;180423;Tubo PVC JS marrom 50mm;M;10,6;19,42
+001.01.04.03;180430;Joelho 90° PVC JS marrom 50mm;UN;5;11,84
+001.01.04.04;180223;Joelho 45° PVC JS 50mm;UN;3;12,65
+001.01.04.05;180437;Tê em PVC JS marrom 50mm;UN;3;13,97
+001.01.04.06;180442;Registro de gaveta c/ canopla - 1 1/2;UN;2;113,94
+001.01.04.07;;Clorador de pastilhas;UN;1;1624
+001.01.04.08;181518;Adaptador Soldável longo c/ flanges livres (cx.d'água);UN;4;21,69
+001.01.04.09;180424;Tubo em PVC JS marrom 60mm;M;11;31,26
+001.01.04.10;180431;Joelho 90° PVC JS marrom 60mm;UN;2;27,07
+001.01.04.11;180804;"Registro de gaveta c/ canopla - 2""";UN;3;166,65
+001.01.04.12;;Cruzeta DN 60mm;UN;1;12,88
+001.01.04.13;;Redução 60x25;UN;2;5,25
+001.01.04.14;180107;Tubo em PVC JS marrom 25mm;M;7,46;7,94
+001.01.04.15;180434;Tê em PVC  JS marron 25mm;UN;8;5,42
+001.01.04.16;180427;Joelho 90º PVC  JS marron  25mm;UN;3;5,31
+001.01.04.17;190098;"Torneira de metal de 3/4""";UN;12,25;53,02
+001.01.04.18;170075;"Eletroduto PVC de 1/2""";M;19;5,09
+001.01.04.19;171047;"Luva para eletroduto PVC de 1/2""";UN;6;4,54
+001.01.04.20;170418;Cabo de cobre 1,5mm2 - 750V;M;42;3,75
+001.01.04.21;;Bóia eletrônica para controle de nível;UN;1;169,62
+001.01.05;;Elétrica;;;
+001.01.05.01;171502;Poste em concreto h= 7,0m;UN;1;697,56
+001.01.05.02;170632;"Eletroduto PVC de 1 1/4""";M;18;10,5
+001.01.05.03;171018;Eletroduto, aço galvanizado, de 1 1/4”;M;3;20,1
+001.01.05.04;171048;"Luva para eletroduto PVC 1 1/4""";UN;8;4,04
+001.01.05.05;171267;"Curva 90° para eletroduto PVC de 1 1/4""";UN;3;12,04
+001.01.05.06;171097;"Curva 135° para eletroduto PVC de 1 1/4""";UN;1;17,84
+001.01.05.07;;Braçadeira Tipo “D”,com cunha, para Eletroduto 1 ¼”;UN;6;2,84
+001.01.05.08;171137;Alça Pré-formada;UN;8;13,12
+001.01.05.09;171305;Bucha e arruela para Eletroduto 1 ¼”;UN;14;1,81
+001.01.05.10;170940;Cabo Multiplexado 16mm², isolação em XLPE,1KV;M;45;8,74
+001.01.05.11;170882;Caixa de Medição Polifásica padrão CELPA;UN;1;154,41
+001.01.05.12;170388;Disjuntor Termomagnético 40A;UN;1;65,85
+001.01.05.13;170319;Fio de cobre 10mm Isolado para 750V;M;10,5;8,22
+001.01.05.14;171164;"Haste aterramento em cobre  5/8"" x 2,4m com conector";UN;1;63,74
+001.01.06;;Urbanização;;;
+001.01.06.01;260311;Cerca em mouroes conc./arame farpado (10 fiadas, esp=2,5m, h=2,0m);M;20,38;63,2
+001.01.06.02;260850;Seixo com espalhamento;M³;6,726;120,02
+001.01.06.03;260664;Bloquete sextavado e= 6cm (incl. colchao de areia e rejuntamento);M²;4,4;62,26
+001.01.06.04;170371;Conjunto ilum. tipo petala c/1 lamp. v. mercurio;UN;1;1734,48
+001.01.06.05;130492;Calçada (incl. baldrame e concreto c/ junta seca);M²;18,6316;75,13
+001.01.06.06;50039;Concreto armado Fck=13.5MPA c/ forma em mad. Branca;M³;5,34;1762,04
+001.01.06.07;180680;Caixa em alvenaria (registro) (40x40x40cm);UN;1;165,66
+001.01.06.08;180680;Caixa de passagem elétrica (40x40x40cm);UN;1;165,66
+001.01.06.09;260213;Muro em alvenaria rebocado e pintado (h=2.0m) (proteção do quadro elétrico);M;2,7;353,58
+001.01.06.10;40026;Baldrame em concreto ciclópico com pedra preta (inclui forma);M³;8,55;776,37
+001.01.06.11;90623;Portão tubo/tela arame galv.c/ferragens (incl.pint.anti-corrosiva);M²;2,1;421,67
+001.01.06.12;;Banco em concreto pré moldado com encosto;UN;6;523
+001.01.06.13;;Pintura do logotipo;M²;11,64;220
+001.01.07;;Serviços finais;;;
+001.01.07.01;270220;Limpeza final da obra;M2;74,49;4
+001.01.07.02;260761;Totem em concreto armado;UN;1;673,13
+001.01.07.03;241318;Placa de inauguração da obra;UN;1;1391,94
+001.02;;PADRÃO ATÉ 150 FAMILIAS - CUSTO;;;
+001.02.01;;Serviços Preliminares;;;
+001.02.01.01;1;Administração Local;MêS;3;12734,03
+001.02.01.02;2;Mobilização e Desmobilização de pessoal e equipamentos;UN;1;2000
+001.02.01.03;11170;Licença e taxas de obras até 100 m² (ART);CJ;1;2255
+001.02.01.04;10004;Placa da Obra em chapa galvanizada (2,0m x 3,0m);M2;6;295,74
+001.02.01.05;10008;Limpeza do terreno;M2;74,568;1,2
+001.02.01.06;10767;Barracão de madeira;M2;10;339,3
+001.02.01.07;20174;Retirada de entulho - manualmente;M³;8;70,01
+001.02.01.08;10009;Locação da obra a trena;M2;74,568;3,17
+001.02.01.09;10786;Aluguel andaime metálico;M2/ME;24;12,3
+001.02.02;;Torre do Reservatório;;;
+001.02.02.01;240617;Escada tipo marinheiro s/ proteção;M;6;221,52
+001.02.02.02;20174;Retirada de entulho - manualmente;M³;2,44;70,01
+001.02.02.03;30010;Escavação manual até 1,50m de profundidade;M³;8,112;30,03
+001.02.02.04;40283;Bloco em concreto armado p/ fundação (incl. forma);M³;6,76;1668,84
+001.02.02.05;50766;Concreto armado fck=25MPA c/ forma mad. branca;M³;10,99;1812,16
+001.02.02.06;60046;Alvenaria tijolo de barro a cutelo;M²;81;41,38
+001.02.02.07;60212;Elemento vazado 1/2 tijolo 15x15x10cm;M²;1,5;89,62
+001.02.02.08;80314;Aplicação de Igol A sobre conc./alv. (3 demãos);M²;6;18,19
+001.02.02.09;110143;Chapisco de cimento e areia no traço 1:3;M²;162;6,81
+001.02.02.10;110763;Reboco com argamassa 1:6:adit. plast.;M²;162;27,66
+001.02.02.11;130111;Camada impermeabilizadora e=10cm c/ pedra preta (incl. Sika 1);M²;3;40,72
+001.02.02.12;130113;Cimentado liso e=2cm traço 1:3;M²;3;31
+001.02.02.13;130492;Calçada (incl. alicerce, baldrame e concreto c/ junta seca);M²;3,75;75,13
+001.02.02.14;150124;PVA interna sem superf. preparada;M²;9,75;8,43
+001.02.02.15;150125;PVA externa sem superf. preparada;M²;162;8,93
+001.02.02.16;150491;Esmalte sobre grade de ferro (superf. aparelhada);M²;0,975;32,88
+001.02.02.17;260652;Muro em alvenaria, rebocado e pintado (h=2.50m);M;22,66;424,84
+001.02.03;;"Poço (diâmetro de 6"" e profundidade de 100m)";;;
+001.02.03.01;170938;Cabo multiplex 3 x 10mm;M;100;5,27
+001.02.03.02;;Bomba submersa de 4CV (sem tubulação) 220V trifásico;UN;1;4200
+001.02.03.03;;"Tubo FG roscável 1 1/2""";M;100;32,7
+001.02.03.04;171044;"Luva FG roscável 1 1/2""";UN;18;6,99
+001.02.03.05;171261;"Curva 90° FG roscavel 1 1/2""";UN;1;11,34
+001.02.03.06;;"União FG roscável 1 1/2""";UN;1;43,93
+001.02.03.07;;"Niple FG  1 1/2""";UN;3;17,55
+001.02.03.08;180452;"Válvula de retenção horizontal de 1 1/2""";UN;1;129,84
+001.02.03.09;180504;"Registro de gaveta de 1 1/2""";UN;1;117,94
+001.02.03.10;180236;"Adaptador curto PVC SR marrom 50mm x 1 1/2""";UN;1;7,47
+001.02.03.11;180430;Curva 90° PVC JS marrom 50mm;UN;1;11,84
+001.02.03.12;180423;Tubo PVC JS marrom 50mm;M;0,5;19,42
+001.02.03.13;;"Poço tubular d= 6"" , profundidade 100m";UN;1;54000
+001.02.03.14;170631;"Eletroduto PVC 1 1/2""";M;12;13,31
+001.02.03.15;171047;"Luva para eletroduto PVC1 1/2""";UN;8;4,54
+001.02.03.16;171266;"Curva 90° para eletroduto PVC1 1/2""";UN;4;13,04
+001.02.03.17;;Quadro de força controle de bomba e automação;UN;1;3355
+001.02.04;;Reservatório (30.000 litros);;;
+001.02.04.01;;Reservatório em fibra de vidro 30.000 L;UN;1;3864,01
+001.02.04.02;180423;Tubo PVC JS marrom 50mm;M;10,6;19,42
+001.02.04.03;180430;Joelho 90° PVC JS marrom 50mm;UN;5;11,84
+001.02.04.04;180223;Joelho 45° PVC JS 50mm;UN;3;12,65
+001.02.04.05;180437;Tê em PVC JS marrom 50mm;UN;3;13,97
+001.02.04.06;180442;Registro de gaveta c/ canopla - 1 1/2;UN;2;113,94
+001.02.04.07;;Clorador de pastilhas;UN;1;1624
+001.02.04.08;181518;Adaptador Soldável longo c/ flanges livres (cx.d'água);UN;4;21,69
+001.02.04.09;180424;Tubo em PVC JS marrom 60mm;M;11;31,26
+001.02.04.10;180431;Joelho 90° PVC JS marrom 60mm;UN;2;27,07
+001.02.04.11;180804;"Registro de gaveta c/ canopla - 2""";UN;3;166,65
+001.02.04.12;;Cruzeta DN 60mm;UN;1;12,88
+001.02.04.13;;Redução 60x25;UN;2;5,25
+001.02.04.14;180107;Tubo em PVC JS marrom 25mm;M;7,46;7,94
+001.02.04.15;180434;Tê em PVC  JS marron 25mm;UN;8;5,42
+001.02.04.16;180427;Joelho 90º PVC  JS marron  25mm;UN;3;5,31
+001.02.04.17;190098;"Torneira de metal de 3/4""";UN;12,25;53,02
+001.02.04.18;170075;"Eletroduto PVC de 1/2""";M;19;5,09
+001.02.04.19;171047;"Luva para eletroduto PVC de 1/2""";UN;6;4,54
+001.02.04.20;170418;Cabo de cobre 1,5mm2 - 750V;M;42;3,75
+001.02.04.21;;Bóia eletrônica para controle de nível;UN;1;169,62
+001.02.05;;Elétrica;;;
+001.02.05.01;171502;Poste em concreto h= 7,0m;UN;1;697,56
+001.02.05.02;170632;"Eletroduto PVC de 1 1/4""";M;18;10,5
+001.02.05.03;171018;Eletroduto, aço galvanizado, de 1 1/4”;M;3;20,1
+001.02.05.04;171048;"Luva para eletroduto PVC 1 1/4""";UN;8;4,04
+001.02.05.05;171267;"Curva 90° para eletroduto PVC de 1 1/4""";UN;3;12,04
+001.02.05.06;171097;"Curva 135° para eletroduto PVC de 1 1/4""";UN;1;17,84
+001.02.05.07;;Braçadeira Tipo “D”,com cunha, para Eletroduto 1 ¼”;UN;6;2,84
+001.02.05.08;171137;Alça Pré-formada;UN;8;13,12
+001.02.05.09;171305;Bucha e arruela para Eletroduto 1 ¼”;UN;14;1,81
+001.02.05.10;170940;Cabo Multiplexado 16mm², isolação em XLPE,1KV;M;45;8,74
+001.02.05.11;170882;Caixa de Medição Polifásica padrão CELPA;UN;1;154,41
+001.02.05.12;170388;Disjuntor Termomagnético 40A;UN;1;65,85
+001.02.05.13;170319;Fio de cobre 10mm Isolado para 750V;M;10,5;8,22
+001.02.05.14;171164;"Haste aterramento em cobre  5/8"" x 2,4m com conector";UN;1;63,74
+001.02.06;;Urbanização;;;
+001.02.06.01;260311;Cerca em mouroes conc./arame farpado (10 fiadas, esp=2,5m, h=2,0m);M;20,38;63,2
+001.02.06.02;260850;Seixo com espalhamento;M³;6,726;120,02
+001.02.06.03;260664;Bloquete sextavado e= 6cm (incl. colchao de areia e rejuntamento);M²;4,4;62,26
+001.02.06.04;170371;Conjunto ilum. tipo petala c/1 lamp. v. mercurio;UN;1;1734,48
+001.02.06.05;130492;Calçada (incl. baldrame e concreto c/ junta seca);M²;18,6316;75,13
+001.02.06.06;50039;Concreto armado Fck=13.5MPA c/ forma em mad. Branca;M³;5,34;1762,04
+001.02.06.07;180680;Caixa em alvenaria (registro) (40x40x40cm);UN;1;165,66
+001.02.06.08;180680;Caixa de passagem elétrica (40x40x40cm);UN;1;165,66
+001.02.06.09;260213;Muro em alvenaria rebocado e pintado (h=2.0m) (proteção do quadro elétrico);M;2,7;353,58
+001.02.06.10;40026;Baldrame em concreto ciclópico com pedra preta (inclui forma);M³;8,55;776,37
+001.02.06.11;90623;Portão tubo/tela arame galv.c/ferragens (incl.pint.anti-corrosiva);M²;2,1;421,67
+001.02.06.12;;Banco em concreto pré moldado com encosto;UN;6;523
+001.02.06.13;;Pintura do logotipo;M²;11,64;220
+001.02.07;;Serviços finais;;;
+001.02.07.01;270220;Limpeza final da obra;M2;74,49;4
+001.02.07.02;260761;Totem em concreto armado;UN;1;673,13
+001.02.07.03;241318;Placa de inauguração da obra;UN;1;1391,94
