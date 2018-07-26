@@ -14,4 +14,4 @@ php -S 0.0.0.0:8080 -t .
 Os arquivos ficam organizados dentro do diretrio `/files` e as regras para organização e
 configuração podem ser observadas nos arquivos do repositório fornecidos como exemplos.
 Os arquivos ao serem servidos pela primeira vez geram um arquivo `cache.json` no mesmo local,
-inclusive neste repositório temos alguns disponveis.
+inclusive neste repositório temos alguns disponíveis.
